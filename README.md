@@ -47,8 +47,6 @@ This dataset is useful for:
 
 ## License
 
-## License
-
 This repository is distributed under the GNU General Public License v3.0 (GPL-3.0).
 
 You are free to use, study, modify, and redistribute this work under the terms of the license.
