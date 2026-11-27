@@ -55,7 +55,7 @@ You are free to use, study, modify, and redistribute this work under the terms o
 
 Redistributed or modified versions must comply with the applicable GPL-3.0 requirements.
 
-See [LICENSE](LICENSE) for the complete license text.
+See [LICENSE](https://github.com/faizalnf6/my-repairing-companion-ai-data/blob/main/LICENSE). for the complete license text.
 
 Copyright (c) 2026 Faizal Nurul Firdaus
 
