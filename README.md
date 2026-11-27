@@ -77,7 +77,8 @@ Please keep the spirit of the original material (repairing mindset, long-term me
 ## Disclaimer
 
 This is personal creative & experimental data.  
-It is **not** official military, government, or commercial material.  
+It is **not** official military, government, or commercial material.
+
 Any future development that ignores the author’s notice regarding certain applications may have legal consequences as stated in the original document.
 
 ---
