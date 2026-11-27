@@ -57,7 +57,7 @@ You are free to:
 
 …as long as any distributed derivative work is also released under GPLv3 (or a compatible license).
 
-See the [LICENSE](LICENSE) file for the full text.
+See the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html#license-text). file for the full text.
 
 ---
 
