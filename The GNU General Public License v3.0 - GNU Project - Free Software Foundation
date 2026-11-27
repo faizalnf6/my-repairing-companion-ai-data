@@ -1,0 +1,2281 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.gnu.org/licenses/gpl-3.0.html#license-text
+Subject: The GNU General Public License v3.0 - GNU Project - Free Software Foundation
+Date: Fri, 27 Nov 2026 17:14:40 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv----"
+
+
+------MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv----
+Content-Type: text/html
+Content-ID: <frame-5D3C893D9768543FFFA821AF9A84494C@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gnu.org/licenses/gpl-3.0.html#license-text
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-1ffb2fff-d29b-4116-81a6-d2c88fa0f496@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-0cf6fb66-396a-4bd0-97ef-93fdd7585404@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-aaaf6566-8cb6-46e0-8ba8-f96478a9e7b4@mhtml.blink" />
+
+<link rel="author" href="mailto:webmasters@gnu.org">
+<link rel="icon" type="image/png" href="https://www.gnu.org/graphics/gnu-head-mini.png">
+<meta name="ICBM" content="42.355469,-71.058627">
+<link rel="stylesheet" type="text/css" href="https://www.gnu.org/layout.min.css" media="screen">
+<link rel="stylesheet" type="text/css" href="https://www.gnu.org/print.min.css" media="print">
+
+
+
+<!-- Parent-Version: 1.98 -->
+<!-- This page is derived from /server/standards/boilerplate.html -->
+<title>The GNU General Public License v3.0
+- GNU Project - Free Software Foundation</title>
+
+<link rel="alternate" type="application/rdf+xml" href="https://www.gnu.org/licenses/gpl-3.0.rdf"> 
+<!-- begin translist file -->
+
+<link rel="alternate" type="text/html" href="https://www.gnu.org/licenses/gpl-3.0.html" hreflang="x-default">
+<link rel="alternate" type="text/html" lang="en" hreflang="en" href="https://www.gnu.org/licenses/gpl-3.0.en.html" title="English">
+<link rel="alternate" type="text/html" lang="ar" hreflang="ar" href="https://www.gnu.org/licenses/gpl-3.0.ar.html" title="Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©">
+<link rel="alternate" type="text/html" lang="ca" hreflang="ca" href="https://www.gnu.org/licenses/gpl-3.0.ca.html" title="catalÃ ">
+<link rel="alternate" type="text/html" lang="de" hreflang="de" href="https://www.gnu.org/licenses/gpl-3.0.de.html" title="Deutsch">
+<link rel="alternate" type="text/html" lang="fr" hreflang="fr" href="https://www.gnu.org/licenses/gpl-3.0.fr.html" title="franÃ§ais">
+<link rel="alternate" type="text/html" lang="ja" hreflang="ja" href="https://www.gnu.org/licenses/gpl-3.0.ja.html" title="æ—¥æœ¬èª">
+<link rel="alternate" type="text/html" lang="nl" hreflang="nl" href="https://www.gnu.org/licenses/gpl-3.0.nl.html" title="Nederlands">
+<link rel="alternate" type="text/html" lang="pt-br" hreflang="pt-br" href="https://www.gnu.org/licenses/gpl-3.0.pt-br.html" title="portuguÃªs">
+<link rel="alternate" type="text/html" lang="ru" hreflang="ru" href="https://www.gnu.org/licenses/gpl-3.0.ru.html" title="Ñ€ÑƒÑÑĞºĞ¸Ğ¹">
+<link rel="alternate" type="text/html" lang="tr" hreflang="tr" href="https://www.gnu.org/licenses/gpl-3.0.tr.html" title="TÃ¼rkÃ§e">
+<link rel="alternate" type="text/html" lang="uk" hreflang="uk" href="https://www.gnu.org/licenses/gpl-3.0.uk.html" title="ÑƒĞºÑ€Ğ°Ñ—Ğ½ÑÑŒĞºĞ°">
+<link rel="alternate" type="text/html" lang="zh-cn" hreflang="zh-cn" href="https://www.gnu.org/licenses/gpl-3.0.zh-cn.html" title="ç®€ä½“ä¸­æ–‡">
+<link rel="alternate" type="text/html" lang="zh-tw" hreflang="zh-tw" href="https://www.gnu.org/licenses/gpl-3.0.zh-tw.html" title="ç¹é«”ä¸­æ–‡">
+<!-- end translist file -->
+
+<!-- start of server/banner.html -->
+<!-- start of head-include-2.html -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<link rel="stylesheet" type="text/css" href="https://www.gnu.org/server/banners/fundraiser.css" media="screen">
+
+
+
+<!-- end of head-include-2.html -->
+
+</head>
+<body>
+<div class="inner">
+<!-- start of server/body-include-1.html -->
+<div id="top">
+<p><a class="skip" href="https://www.gnu.org/licenses/gpl-3.0.html#content"><b>Skip to main text</b></a></p>
+</div>
+<div id="fundraiser">
+  <div class="message">
+    <p class="headline"><b>We are here to promote your freedom</b></p>
+    <p><a href="https://my.fsf.org/donate?mtm_campaign=fall26&amp;mtm_source=banner">
+      Our work begins by asking ourselves, â€œIs it free?â€ because
+      our purpose is to respect your individual user needs, autonomy, and right
+      to decide for yourself.  We empower people to build a future built
+      on <em>free software</em> that, above all, puts the user first.
+      By supporting our work, you help support everyone's rights.<br>
+      Please help us reach our goal of $400,000 USD!
+      <span class="gnun-split"></span></a></p>
+    <p class="button"><a href="https://my.fsf.org/donate?mtm_campaign=fall26&amp;mtm_source=banner">Donate<span class="gnun-split"></span></a> <a href="https://www.fsf.org/appeal?mtm_campaign=fall26&amp;mtm_source=banner">Read more<span class="gnun-split"></span></a>
+    </p>
+  </div><!-- .message -->
+</div><!-- #fundraiser -->
+<div style="clear: both"></div>
+
+<div id="header" role="banner">
+<p id="gnu-banner">
+ <a href="https://www.gnu.org/">
+ <img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" height="48" width="49" alt="&nbsp;[A GNU head]&nbsp;"><strong>GNU</strong> <span class="hide">Operating System</span></a><br>
+ <small id="fsf-support">Supported by the
+ <a href="https://www.gnu.org/licenses/gpl-3.0.html#mission-statement">Free Software Foundation</a></small>
+</p>
+
+<div id="switches">
+<!-- begin search button -->
+ <div id="search-button" class="switch">
+  <a href="https://www.gnu.org/cgi-bin/estseek.cgi">
+  <img id="search-icon" height="30" width="30" src="https://www.gnu.org/graphics/icons/search.png" alt="&nbsp;[Search www.gnu.org]&nbsp;"></a>
+ </div>
+<!-- end search button -->
+
+ <div id="language-button" class="switch">
+  <a href="https://www.gnu.org/licenses/gpl-3.0.html#language-container">
+  <img id="language-icon" height="30" width="37" src="https://www.gnu.org/graphics/icons/translations.png" alt="&nbsp;[Other languages]&nbsp;"></a>
+ </div>
+
+</div><!-- #switches -->
+</div><!-- #header -->
+<!-- end of server/body-include-1.html -->
+
+<!-- start of server/body-include-2 -->
+
+
+<div style="clear: both"></div>
+
+<div id="navigation" role="navigation">
+ <a id="more-links" href="https://www.gnu.org/licenses/gpl-3.0.html#navigation" title="More...">
+   <span>Site navigation</span></a>
+ <a id="less-links" href="https://www.gnu.org/licenses/gpl-3.0.html#content"><b>Skip</b></a>
+ <ul>
+
+   <li id="tabAboutGNU"><a href="https://www.gnu.org/gnu/gnu.html">ABOUT&nbsp;GNU</a></li>
+
+
+  <li id="tabPhilosophy"><a href="https://www.gnu.org/philosophy/philosophy.html">PHILOSOPHY</a></li>
+
+
+  <li id="tabLicenses" class="active">
+     <span class="no-display">=</span> 
+    <a href="https://www.gnu.org/licenses/licenses.html">LICENSES</a>
+    <span class="gnun-split"></span>
+     <span class="no-display">=</span> 
+  </li>
+
+
+  <li id="tabEducation"><a href="https://www.gnu.org/education/education.html">EDUCATION</a></li>
+
+
+  <li id="tabSoftware"><a href="https://www.gnu.org/software/software.html">SOFTWARE</a></li>
+
+
+  <li id="tabDistros"><a href="https://www.gnu.org/distros/distros.html">DISTROS</a></li>
+
+
+  <li id="tabDoc"><a href="https://www.gnu.org/doc/doc.html">DOCS</a></li>
+
+
+  <li id="tabMalware"><a href="https://www.gnu.org/proprietary/proprietary.html">MALWARE</a></li>
+
+
+  <li id="tabHelp"><a href="https://www.gnu.org/help/help.html">HELP&nbsp;GNU</a></li>
+
+
+  <li id="tabAV"><a href="https://www.gnu.org/audio-video/audio-video.html">AUDIO&nbsp;&amp;&nbsp;VIDEO</a></li>
+
+
+  <li id="tabArt"><a href="https://www.gnu.org/graphics/graphics.html">GNU&nbsp;ART</a></li>
+
+
+  <li id="tabFun"><a href="https://www.gnu.org/fun/humor.html">FUN</a></li>
+
+
+  <li id="tabPeople"><a href="https://www.gnu.org/people/people.html">GNU'S&nbsp;WHO?</a></li>
+
+  <li><a href="https://directory.fsf.org/">SOFTWARE&nbsp;DIRECTORY</a></li>
+  <li><a href="https://h-node.org/">HARDWARE</a></li>
+  <li><a href="https://www.gnu.org/server/sitemap.html">SITEMAP</a></li>
+ </ul>
+ <div style="clear: both"></div>
+</div><!-- /"navigation -->
+<!-- end of server/body-include-2 -->
+
+<div id="content" role="main">
+
+
+<!-- end of server/banner.html -->
+
+<div class="reduced-width">
+<h2>GNU General Public License</h2>
+
+<img class="imgright" src="https://www.gnu.org/graphics/gplv3-127x51.png" alt=" [GPLv3 Logo] ">
+<p class="button"><b><a href="https://www.gnu.org/licenses/gpl-3.0.html#license-text">Skip to license text</a></b></p>
+
+<ul>
+  <li><a href="https://www.gnu.org/licenses/quick-guide-gplv3.html">A Quick Guide to GPLv3</a></li>
+  <li><a href="https://www.gnu.org/licenses/rms-why-gplv3.html">Why Upgrade to GPLv3</a></li>
+  <li><a href="https://www.gnu.org/licenses/gpl-faq.html">Frequently Asked Questions about
+       the GNU licenses</a></li>
+  <li><a href="https://www.gnu.org/licenses/gpl-howto.html">How to use GNU licenses for your
+       own software</a></li>
+  <li><a href="https://www.gnu.org/licenses/translations.html">Translations
+       of the GPL</a></li>
+  <li>The GPL in other formats: 
+       <a href="https://www.gnu.org/licenses/gpl-3.0.txt">plain text</a>,
+       <a href="https://www.gnu.org/licenses/gpl-3.0.texi">Texinfo</a>,
+       <a href="https://www.gnu.org/licenses/gpl-3.0.tex">LaTeX</a>,
+       <a href="https://www.gnu.org/licenses/gpl-3.0-standalone.html">standalone HTML</a>,
+       <a href="https://www.gnu.org/licenses/gpl-3.0.odt">ODF</a>,
+      Docbook <a href="https://www.gnu.org/licenses/gpl-3.0.dbk">v4</a> or
+       <a href="https://www.gnu.org/licenses/gpl-3.0.xml">v5</a>,
+       <a href="https://www.gnu.org/licenses/gpl-3.0.rst">reStructuredText</a>,
+       <a href="https://www.gnu.org/licenses/gpl-3.0.md">Markdown</a>, and
+       <a href="https://www.gnu.org/licenses/gpl-3.0.rtf">RTF</a>.
+       </li>
+  <li><a href="https://www.gnu.org/graphics/license-logos.html">GPLv3 logos</a> to use
+       with your project</li>
+  <li><a href="https://www.gnu.org/licenses/old-licenses/old-licenses.html#GPL">Old
+       versions of the GNU GPL</a></li>
+  <li><a href="https://www.gnu.org/licenses/gpl-violation.html">What to do if you see a
+       possible GPL violation</a></li>
+</ul>
+
+<hr class="thin">
+
+<!-- The license text is in English and appears broken in RTL as
+     Arabic, Farsi, etc.  Explicitly set the direction to override the
+     one defined in the translation. -->
+<div id="license-text" dir="ltr">
+<h3 style="text-align: center;">GNU GENERAL PUBLIC LICENSE</h3>
+<p style="text-align: center;">Version 3, 29 June 2007</p>
+
+<p>Copyright Â© 2007 Free Software Foundation, Inc.
+ &lt;<a href="https://fsf.org/">https://fsf.org/</a>&gt;</p><p>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.</p>
+
+<h4 id="preamble">Preamble</h4>
+
+<p>The GNU General Public License is a free, copyleft license for
+software and other kinds of works.</p>
+
+<p>The licenses for most software and other practical works are designed
+to take away your freedom to share and change the works.  By contrast,
+the GNU General Public License is intended to guarantee your freedom to
+share and change all versions of a program--to make sure it remains free
+software for all its users.  We, the Free Software Foundation, use the
+GNU General Public License for most of our software; it applies also to
+any other work released this way by its authors.  You can apply it to
+your programs, too.</p>
+
+<p>When we speak of free software, we are referring to freedom, not
+price.  Our General Public Licenses are designed to make sure that you
+have the freedom to distribute copies of free software (and charge for
+them if you wish), that you receive source code or can get it if you
+want it, that you can change the software or use pieces of it in new
+free programs, and that you know you can do these things.</p>
+
+<p>To protect your rights, we need to prevent others from denying you
+these rights or asking you to surrender the rights.  Therefore, you have
+certain responsibilities if you distribute copies of the software, or if
+you modify it: responsibilities to respect the freedom of others.</p>
+
+<p>For example, if you distribute copies of such a program, whether
+gratis or for a fee, you must pass on to the recipients the same
+freedoms that you received.  You must make sure that they, too, receive
+or can get the source code.  And you must show them these terms so they
+know their rights.</p>
+
+<p>Developers that use the GNU GPL protect your rights with two steps:
+(1) assert copyright on the software, and (2) offer you this License
+giving you legal permission to copy, distribute and/or modify it.</p>
+
+<p>For the developers' and authors' protection, the GPL clearly explains
+that there is no warranty for this free software.  For both users' and
+authors' sake, the GPL requires that modified versions be marked as
+changed, so that their problems will not be attributed erroneously to
+authors of previous versions.</p>
+
+<p>Some devices are designed to deny users access to install or run
+modified versions of the software inside them, although the manufacturer
+can do so.  This is fundamentally incompatible with the aim of
+protecting users' freedom to change the software.  The systematic
+pattern of such abuse occurs in the area of products for individuals to
+use, which is precisely where it is most unacceptable.  Therefore, we
+have designed this version of the GPL to prohibit the practice for those
+products.  If such problems arise substantially in other domains, we
+stand ready to extend this provision to those domains in future versions
+of the GPL, as needed to protect the freedom of users.</p>
+
+<p>Finally, every program is threatened constantly by software patents.
+States should not allow patents to restrict development and use of
+software on general-purpose computers, but in those that do, we wish to
+avoid the special danger that patents applied to a free program could
+make it effectively proprietary.  To prevent this, the GPL assures that
+patents cannot be used to render the program non-free.</p>
+
+<p>The precise terms and conditions for copying, distribution and
+modification follow.</p>
+
+<h4 id="terms">TERMS AND CONDITIONS</h4>
+
+<h5 id="section0">0. Definitions.</h5>
+
+<p>â€œThis Licenseâ€ refers to version 3 of the GNU General Public License.</p>
+
+<p>â€œCopyrightâ€ also means copyright-like laws that apply to other kinds of
+works, such as semiconductor masks.</p>
+ 
+<p>â€œThe Programâ€ refers to any copyrightable work licensed under this
+License.  Each licensee is addressed as â€œyouâ€.  â€œLicenseesâ€ and
+â€œrecipientsâ€ may be individuals or organizations.</p>
+
+<p>To â€œmodifyâ€ a work means to copy from or adapt all or part of the work
+in a fashion requiring copyright permission, other than the making of an
+exact copy.  The resulting work is called a â€œmodified versionâ€ of the
+earlier work or a work â€œbased onâ€ the earlier work.</p>
+
+<p>A â€œcovered workâ€ means either the unmodified Program or a work based
+on the Program.</p>
+
+<p>To â€œpropagateâ€ a work means to do anything with it that, without
+permission, would make you directly or secondarily liable for
+infringement under applicable copyright law, except executing it on a
+computer or modifying a private copy.  Propagation includes copying,
+distribution (with or without modification), making available to the
+public, and in some countries other activities as well.</p>
+
+<p>To â€œconveyâ€ a work means any kind of propagation that enables other
+parties to make or receive copies.  Mere interaction with a user through
+a computer network, with no transfer of a copy, is not conveying.</p>
+
+<p>An interactive user interface displays â€œAppropriate Legal Noticesâ€
+to the extent that it includes a convenient and prominently visible
+feature that (1) displays an appropriate copyright notice, and (2)
+tells the user that there is no warranty for the work (except to the
+extent that warranties are provided), that licensees may convey the
+work under this License, and how to view a copy of this License.  If
+the interface presents a list of user commands or options, such as a
+menu, a prominent item in the list meets this criterion.</p>
+
+<h5 id="section1">1. Source Code.</h5>
+
+<p>The â€œsource codeâ€ for a work means the preferred form of the work
+for making modifications to it.  â€œObject codeâ€ means any non-source
+form of a work.</p>
+
+<p>A â€œStandard Interfaceâ€ means an interface that either is an official
+standard defined by a recognized standards body, or, in the case of
+interfaces specified for a particular programming language, one that
+is widely used among developers working in that language.</p>
+
+<p>The â€œSystem Librariesâ€ of an executable work include anything, other
+than the work as a whole, that (a) is included in the normal form of
+packaging a Major Component, but which is not part of that Major
+Component, and (b) serves only to enable use of the work with that
+Major Component, or to implement a Standard Interface for which an
+implementation is available to the public in source code form.  A
+â€œMajor Componentâ€, in this context, means a major essential component
+(kernel, window system, and so on) of the specific operating system
+(if any) on which the executable work runs, or a compiler used to
+produce the work, or an object code interpreter used to run it.</p>
+
+<p>The â€œCorresponding Sourceâ€ for a work in object code form means all
+the source code needed to generate, install, and (for an executable
+work) run the object code and to modify the work, including scripts to
+control those activities.  However, it does not include the work's
+System Libraries, or general-purpose tools or generally available free
+programs which are used unmodified in performing those activities but
+which are not part of the work.  For example, Corresponding Source
+includes interface definition files associated with source files for
+the work, and the source code for shared libraries and dynamically
+linked subprograms that the work is specifically designed to require,
+such as by intimate data communication or control flow between those
+subprograms and other parts of the work.</p>
+
+<p>The Corresponding Source need not include anything that users
+can regenerate automatically from other parts of the Corresponding
+Source.</p>
+
+<p>The Corresponding Source for a work in source code form is that
+same work.</p>
+
+<h5 id="section2">2. Basic Permissions.</h5>
+
+<p>All rights granted under this License are granted for the term of
+copyright on the Program, and are irrevocable provided the stated
+conditions are met.  This License explicitly affirms your unlimited
+permission to run the unmodified Program.  The output from running a
+covered work is covered by this License only if the output, given its
+content, constitutes a covered work.  This License acknowledges your
+rights of fair use or other equivalent, as provided by copyright law.</p>
+
+<p>You may make, run and propagate covered works that you do not
+convey, without conditions so long as your license otherwise remains
+in force.  You may convey covered works to others for the sole purpose
+of having them make modifications exclusively for you, or provide you
+with facilities for running those works, provided that you comply with
+the terms of this License in conveying all material for which you do
+not control copyright.  Those thus making or running the covered works
+for you must do so exclusively on your behalf, under your direction
+and control, on terms that prohibit them from making any copies of
+your copyrighted material outside their relationship with you.</p>
+
+<p>Conveying under any other circumstances is permitted solely under
+the conditions stated below.  Sublicensing is not allowed; section 10
+makes it unnecessary.</p>
+
+<h5 id="section3">3. Protecting Users' Legal Rights From Anti-Circumvention Law.</h5>
+
+<p>No covered work shall be deemed part of an effective technological
+measure under any applicable law fulfilling obligations under article
+11 of the WIPO copyright treaty adopted on 20 December 1996, or
+similar laws prohibiting or restricting circumvention of such
+measures.</p>
+
+<p>When you convey a covered work, you waive any legal power to forbid
+circumvention of technological measures to the extent such circumvention
+is effected by exercising rights under this License with respect to
+the covered work, and you disclaim any intention to limit operation or
+modification of the work as a means of enforcing, against the work's
+users, your or third parties' legal rights to forbid circumvention of
+technological measures.</p>
+
+<h5 id="section4">4. Conveying Verbatim Copies.</h5>
+
+<p>You may convey verbatim copies of the Program's source code as you
+receive it, in any medium, provided that you conspicuously and
+appropriately publish on each copy an appropriate copyright notice;
+keep intact all notices stating that this License and any
+non-permissive terms added in accord with section 7 apply to the code;
+keep intact all notices of the absence of any warranty; and give all
+recipients a copy of this License along with the Program.</p>
+
+<p>You may charge any price or no price for each copy that you convey,
+and you may offer support or warranty protection for a fee.</p>
+
+<h5 id="section5">5. Conveying Modified Source Versions.</h5>
+
+<p>You may convey a work based on the Program, or the modifications to
+produce it from the Program, in the form of source code under the
+terms of section 4, provided that you also meet all of these conditions:</p>
+
+<ul>
+<li>a) The work must carry prominent notices stating that you modified
+    it, and giving a relevant date.</li>
+
+<li>b) The work must carry prominent notices stating that it is
+    released under this License and any conditions added under section
+    7.  This requirement modifies the requirement in section 4 to
+    â€œkeep intact all noticesâ€.</li>
+
+<li>c) You must license the entire work, as a whole, under this
+    License to anyone who comes into possession of a copy.  This
+    License will therefore apply, along with any applicable section 7
+    additional terms, to the whole of the work, and all its parts,
+    regardless of how they are packaged.  This License gives no
+    permission to license the work in any other way, but it does not
+    invalidate such permission if you have separately received it.</li>
+
+<li>d) If the work has interactive user interfaces, each must display
+    Appropriate Legal Notices; however, if the Program has interactive
+    interfaces that do not display Appropriate Legal Notices, your
+    work need not make them do so.</li>
+</ul>
+
+<p>A compilation of a covered work with other separate and independent
+works, which are not by their nature extensions of the covered work,
+and which are not combined with it such as to form a larger program,
+in or on a volume of a storage or distribution medium, is called an
+â€œaggregateâ€ if the compilation and its resulting copyright are not
+used to limit the access or legal rights of the compilation's users
+beyond what the individual works permit.  Inclusion of a covered work
+in an aggregate does not cause this License to apply to the other
+parts of the aggregate.</p>
+
+<h5 id="section6">6. Conveying Non-Source Forms.</h5>
+
+<p>You may convey a covered work in object code form under the terms
+of sections 4 and 5, provided that you also convey the
+machine-readable Corresponding Source under the terms of this License,
+in one of these ways:</p>
+
+<ul>
+<li>a) Convey the object code in, or embodied in, a physical product
+    (including a physical distribution medium), accompanied by the
+    Corresponding Source fixed on a durable physical medium
+    customarily used for software interchange.</li>
+
+<li>b) Convey the object code in, or embodied in, a physical product
+    (including a physical distribution medium), accompanied by a
+    written offer, valid for at least three years and valid for as
+    long as you offer spare parts or customer support for that product
+    model, to give anyone who possesses the object code either (1) a
+    copy of the Corresponding Source for all the software in the
+    product that is covered by this License, on a durable physical
+    medium customarily used for software interchange, for a price no
+    more than your reasonable cost of physically performing this
+    conveying of source, or (2) access to copy the
+    Corresponding Source from a network server at no charge.</li>
+
+<li>c) Convey individual copies of the object code with a copy of the
+    written offer to provide the Corresponding Source.  This
+    alternative is allowed only occasionally and noncommercially, and
+    only if you received the object code with such an offer, in accord
+    with subsection 6b.</li>
+
+<li>d) Convey the object code by offering access from a designated
+    place (gratis or for a charge), and offer equivalent access to the
+    Corresponding Source in the same way through the same place at no
+    further charge.  You need not require recipients to copy the
+    Corresponding Source along with the object code.  If the place to
+    copy the object code is a network server, the Corresponding Source
+    may be on a different server (operated by you or a third party)
+    that supports equivalent copying facilities, provided you maintain
+    clear directions next to the object code saying where to find the
+    Corresponding Source.  Regardless of what server hosts the
+    Corresponding Source, you remain obligated to ensure that it is
+    available for as long as needed to satisfy these requirements.</li>
+
+<li>e) Convey the object code using peer-to-peer transmission, provided
+    you inform other peers where the object code and Corresponding
+    Source of the work are being offered to the general public at no
+    charge under subsection 6d.</li>
+</ul>
+
+<p>A separable portion of the object code, whose source code is excluded
+from the Corresponding Source as a System Library, need not be
+included in conveying the object code work.</p>
+
+<p>A â€œUser Productâ€ is either (1) a â€œconsumer productâ€, which means any
+tangible personal property which is normally used for personal, family,
+or household purposes, or (2) anything designed or sold for incorporation
+into a dwelling.  In determining whether a product is a consumer product,
+doubtful cases shall be resolved in favor of coverage.  For a particular
+product received by a particular user, â€œnormally usedâ€ refers to a
+typical or common use of that class of product, regardless of the status
+of the particular user or of the way in which the particular user
+actually uses, or expects or is expected to use, the product.  A product
+is a consumer product regardless of whether the product has substantial
+commercial, industrial or non-consumer uses, unless such uses represent
+the only significant mode of use of the product.</p>
+
+<p>â€œInstallation Informationâ€ for a User Product means any methods,
+procedures, authorization keys, or other information required to install
+and execute modified versions of a covered work in that User Product from
+a modified version of its Corresponding Source.  The information must
+suffice to ensure that the continued functioning of the modified object
+code is in no case prevented or interfered with solely because
+modification has been made.</p>
+
+<p>If you convey an object code work under this section in, or with, or
+specifically for use in, a User Product, and the conveying occurs as
+part of a transaction in which the right of possession and use of the
+User Product is transferred to the recipient in perpetuity or for a
+fixed term (regardless of how the transaction is characterized), the
+Corresponding Source conveyed under this section must be accompanied
+by the Installation Information.  But this requirement does not apply
+if neither you nor any third party retains the ability to install
+modified object code on the User Product (for example, the work has
+been installed in ROM).</p>
+
+<p>The requirement to provide Installation Information does not include a
+requirement to continue to provide support service, warranty, or updates
+for a work that has been modified or installed by the recipient, or for
+the User Product in which it has been modified or installed.  Access to a
+network may be denied when the modification itself materially and
+adversely affects the operation of the network or violates the rules and
+protocols for communication across the network.</p>
+
+<p>Corresponding Source conveyed, and Installation Information provided,
+in accord with this section must be in a format that is publicly
+documented (and with an implementation available to the public in
+source code form), and must require no special password or key for
+unpacking, reading or copying.</p>
+
+<h5 id="section7">7. Additional Terms.</h5>
+
+<p>â€œAdditional permissionsâ€ are terms that supplement the terms of this
+License by making exceptions from one or more of its conditions.
+Additional permissions that are applicable to the entire Program shall
+be treated as though they were included in this License, to the extent
+that they are valid under applicable law.  If additional permissions
+apply only to part of the Program, that part may be used separately
+under those permissions, but the entire Program remains governed by
+this License without regard to the additional permissions.</p>
+
+<p>When you convey a copy of a covered work, you may at your option
+remove any additional permissions from that copy, or from any part of
+it.  (Additional permissions may be written to require their own
+removal in certain cases when you modify the work.)  You may place
+additional permissions on material, added by you to a covered work,
+for which you have or can give appropriate copyright permission.</p>
+
+<p>Notwithstanding any other provision of this License, for material you
+add to a covered work, you may (if authorized by the copyright holders of
+that material) supplement the terms of this License with terms:</p>
+
+<ul>
+<li>a) Disclaiming warranty or limiting liability differently from the
+    terms of sections 15 and 16 of this License; or</li>
+
+<li>b) Requiring preservation of specified reasonable legal notices or
+    author attributions in that material or in the Appropriate Legal
+    Notices displayed by works containing it; or</li>
+
+<li>c) Prohibiting misrepresentation of the origin of that material, or
+    requiring that modified versions of such material be marked in
+    reasonable ways as different from the original version; or</li>
+
+<li>d) Limiting the use for publicity purposes of names of licensors or
+    authors of the material; or</li>
+
+<li>e) Declining to grant rights under trademark law for use of some
+    trade names, trademarks, or service marks; or</li>
+
+<li>f) Requiring indemnification of licensors and authors of that
+    material by anyone who conveys the material (or modified versions of
+    it) with contractual assumptions of liability to the recipient, for
+    any liability that these contractual assumptions directly impose on
+    those licensors and authors.</li>
+</ul>
+
+<p>All other non-permissive additional terms are considered â€œfurther
+restrictionsâ€ within the meaning of section 10.  If the Program as you
+received it, or any part of it, contains a notice stating that it is
+governed by this License along with a term that is a further
+restriction, you may remove that term.  If a license document contains
+a further restriction but permits relicensing or conveying under this
+License, you may add to a covered work material governed by the terms
+of that license document, provided that the further restriction does
+not survive such relicensing or conveying.</p>
+
+<p>If you add terms to a covered work in accord with this section, you
+must place, in the relevant source files, a statement of the
+additional terms that apply to those files, or a notice indicating
+where to find the applicable terms.</p>
+
+<p>Additional terms, permissive or non-permissive, may be stated in the
+form of a separately written license, or stated as exceptions;
+the above requirements apply either way.</p>
+
+<h5 id="section8">8. Termination.</h5>
+
+<p>You may not propagate or modify a covered work except as expressly
+provided under this License.  Any attempt otherwise to propagate or
+modify it is void, and will automatically terminate your rights under
+this License (including any patent licenses granted under the third
+paragraph of section 11).</p>
+
+<p>However, if you cease all violation of this License, then your
+license from a particular copyright holder is reinstated (a)
+provisionally, unless and until the copyright holder explicitly and
+finally terminates your license, and (b) permanently, if the copyright
+holder fails to notify you of the violation by some reasonable means
+prior to 60 days after the cessation.</p>
+
+<p>Moreover, your license from a particular copyright holder is
+reinstated permanently if the copyright holder notifies you of the
+violation by some reasonable means, this is the first time you have
+received notice of violation of this License (for any work) from that
+copyright holder, and you cure the violation prior to 30 days after
+your receipt of the notice.</p>
+
+<p>Termination of your rights under this section does not terminate the
+licenses of parties who have received copies or rights from you under
+this License.  If your rights have been terminated and not permanently
+reinstated, you do not qualify to receive new licenses for the same
+material under section 10.</p>
+
+<h5 id="section9">9. Acceptance Not Required for Having Copies.</h5>
+
+<p>You are not required to accept this License in order to receive or
+run a copy of the Program.  Ancillary propagation of a covered work
+occurring solely as a consequence of using peer-to-peer transmission
+to receive a copy likewise does not require acceptance.  However,
+nothing other than this License grants you permission to propagate or
+modify any covered work.  These actions infringe copyright if you do
+not accept this License.  Therefore, by modifying or propagating a
+covered work, you indicate your acceptance of this License to do so.</p>
+
+<h5 id="section10">10. Automatic Licensing of Downstream Recipients.</h5>
+
+<p>Each time you convey a covered work, the recipient automatically
+receives a license from the original licensors, to run, modify and
+propagate that work, subject to this License.  You are not responsible
+for enforcing compliance by third parties with this License.</p>
+
+<p>An â€œentity transactionâ€ is a transaction transferring control of an
+organization, or substantially all assets of one, or subdividing an
+organization, or merging organizations.  If propagation of a covered
+work results from an entity transaction, each party to that
+transaction who receives a copy of the work also receives whatever
+licenses to the work the party's predecessor in interest had or could
+give under the previous paragraph, plus a right to possession of the
+Corresponding Source of the work from the predecessor in interest, if
+the predecessor has it or can get it with reasonable efforts.</p>
+
+<p>You may not impose any further restrictions on the exercise of the
+rights granted or affirmed under this License.  For example, you may
+not impose a license fee, royalty, or other charge for exercise of
+rights granted under this License, and you may not initiate litigation
+(including a cross-claim or counterclaim in a lawsuit) alleging that
+any patent claim is infringed by making, using, selling, offering for
+sale, or importing the Program or any portion of it.</p>
+
+<h5 id="section11">11. Patents.</h5>
+
+<p>A â€œcontributorâ€ is a copyright holder who authorizes use under this
+License of the Program or a work on which the Program is based.  The
+work thus licensed is called the contributor's â€œcontributor versionâ€.</p>
+
+<p>A contributor's â€œessential patent claimsâ€ are all patent claims
+owned or controlled by the contributor, whether already acquired or
+hereafter acquired, that would be infringed by some manner, permitted
+by this License, of making, using, or selling its contributor version,
+but do not include claims that would be infringed only as a
+consequence of further modification of the contributor version.  For
+purposes of this definition, â€œcontrolâ€ includes the right to grant
+patent sublicenses in a manner consistent with the requirements of
+this License.</p>
+
+<p>Each contributor grants you a non-exclusive, worldwide, royalty-free
+patent license under the contributor's essential patent claims, to
+make, use, sell, offer for sale, import and otherwise run, modify and
+propagate the contents of its contributor version.</p>
+
+<p>In the following three paragraphs, a â€œpatent licenseâ€ is any express
+agreement or commitment, however denominated, not to enforce a patent
+(such as an express permission to practice a patent or covenant not to
+sue for patent infringement).  To â€œgrantâ€ such a patent license to a
+party means to make such an agreement or commitment not to enforce a
+patent against the party.</p>
+
+<p>If you convey a covered work, knowingly relying on a patent license,
+and the Corresponding Source of the work is not available for anyone
+to copy, free of charge and under the terms of this License, through a
+publicly available network server or other readily accessible means,
+then you must either (1) cause the Corresponding Source to be so
+available, or (2) arrange to deprive yourself of the benefit of the
+patent license for this particular work, or (3) arrange, in a manner
+consistent with the requirements of this License, to extend the patent
+license to downstream recipients.  â€œKnowingly relyingâ€ means you have
+actual knowledge that, but for the patent license, your conveying the
+covered work in a country, or your recipient's use of the covered work
+in a country, would infringe one or more identifiable patents in that
+country that you have reason to believe are valid.</p>
+  
+<p>If, pursuant to or in connection with a single transaction or
+arrangement, you convey, or propagate by procuring conveyance of, a
+covered work, and grant a patent license to some of the parties
+receiving the covered work authorizing them to use, propagate, modify
+or convey a specific copy of the covered work, then the patent license
+you grant is automatically extended to all recipients of the covered
+work and works based on it.</p>
+
+<p>A patent license is â€œdiscriminatoryâ€ if it does not include within
+the scope of its coverage, prohibits the exercise of, or is
+conditioned on the non-exercise of one or more of the rights that are
+specifically granted under this License.  You may not convey a covered
+work if you are a party to an arrangement with a third party that is
+in the business of distributing software, under which you make payment
+to the third party based on the extent of your activity of conveying
+the work, and under which the third party grants, to any of the
+parties who would receive the covered work from you, a discriminatory
+patent license (a) in connection with copies of the covered work
+conveyed by you (or copies made from those copies), or (b) primarily
+for and in connection with specific products or compilations that
+contain the covered work, unless you entered into that arrangement,
+or that patent license was granted, prior to 28 March 2007.</p>
+
+<p>Nothing in this License shall be construed as excluding or limiting
+any implied license or other defenses to infringement that may
+otherwise be available to you under applicable patent law.</p>
+
+<h5 id="section12">12. No Surrender of Others' Freedom.</h5>
+
+<p>If conditions are imposed on you (whether by court order, agreement or
+otherwise) that contradict the conditions of this License, they do not
+excuse you from the conditions of this License.  If you cannot convey a
+covered work so as to satisfy simultaneously your obligations under this
+License and any other pertinent obligations, then as a consequence you may
+not convey it at all.  For example, if you agree to terms that obligate you
+to collect a royalty for further conveying from those to whom you convey
+the Program, the only way you could satisfy both those terms and this
+License would be to refrain entirely from conveying the Program.</p>
+
+<h5 id="section13">13. Use with the GNU Affero General Public License.</h5>
+
+<p>Notwithstanding any other provision of this License, you have
+permission to link or combine any covered work with a work licensed
+under version 3 of the GNU Affero General Public License into a single
+combined work, and to convey the resulting work.  The terms of this
+License will continue to apply to the part which is the covered work,
+but the special requirements of the GNU Affero General Public License,
+section 13, concerning interaction through a network will apply to the
+combination as such.</p>
+
+<h5 id="section14">14. Revised Versions of this License.</h5>
+
+<p>The Free Software Foundation may publish revised and/or new versions of
+the GNU General Public License from time to time.  Such new versions will
+be similar in spirit to the present version, but may differ in detail to
+address new problems or concerns.</p>
+
+<p>Each version is given a distinguishing version number.  If the
+Program specifies that a certain numbered version of the GNU General
+Public License â€œor any later versionâ€ applies to it, you have the
+option of following the terms and conditions either of that numbered
+version or of any later version published by the Free Software
+Foundation.  If the Program does not specify a version number of the
+GNU General Public License, you may choose any version ever published
+by the Free Software Foundation.</p>
+
+<p>If the Program specifies that a proxy can decide which future
+versions of the GNU General Public License can be used, that proxy's
+public statement of acceptance of a version permanently authorizes you
+to choose that version for the Program.</p>
+
+<p>Later license versions may give you additional or different
+permissions.  However, no additional obligations are imposed on any
+author or copyright holder as a result of your choosing to follow a
+later version.</p>
+
+<h5 id="section15">15. Disclaimer of Warranty.</h5>
+
+<p>THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM â€œAS ISâ€ WITHOUT WARRANTY
+OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
+ALL NECESSARY SERVICING, REPAIR OR CORRECTION.</p>
+
+<h5 id="section16">16. Limitation of Liability.</h5>
+
+<p>IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
+THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
+GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
+USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
+DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
+PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
+EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.</p>
+
+<h5 id="section17">17. Interpretation of Sections 15 and 16.</h5>
+
+<p>If the disclaimer of warranty and limitation of liability provided
+above cannot be given local legal effect according to their terms,
+reviewing courts shall apply local law that most closely approximates
+an absolute waiver of all civil liability in connection with the
+Program, unless a warranty or assumption of liability accompanies a
+copy of the Program in return for a fee.</p>
+
+<p>END OF TERMS AND CONDITIONS</p>
+
+<h4 id="howto">How to Apply These Terms to Your New Programs</h4>
+
+<p>If you develop a new program, and you want it to be of the greatest
+possible use to the public, the best way to achieve this is to make it
+free software which everyone can redistribute and change under these terms.</p>
+
+<p>To do so, attach the following notices to the program.  It is safest
+to attach them to the start of each source file to most effectively
+state the exclusion of warranty; and each file should have at least
+the â€œcopyrightâ€ line and a pointer to where the full notice is found.</p>
+
+<pre>    &lt;one line to give the program's name and a brief idea of what it does.&gt;
+    Copyright (C) &lt;year&gt;  &lt;name of author&gt;
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see &lt;https://www.gnu.org/licenses/&gt;.
+</pre>
+
+<p>Also add information on how to contact you by electronic and paper mail.</p>
+
+<p>If the program does terminal interaction, make it output a short
+notice like this when it starts in an interactive mode:</p>
+
+<pre>    &lt;program&gt;  Copyright (C) &lt;year&gt;  &lt;name of author&gt;
+    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+    This is free software, and you are welcome to redistribute it
+    under certain conditions; type `show c' for details.
+</pre>
+
+<p>The hypothetical commands `show w' and `show c' should show the appropriate
+parts of the General Public License.  Of course, your program's commands
+might be different; for a GUI interface, you would use an â€œabout boxâ€.</p>
+
+<p>You should also get your employer (if you work as a programmer) or school,
+if any, to sign a â€œcopyright disclaimerâ€ for the program, if necessary.
+For more information on this, and how to apply and follow the GNU GPL, see
+&lt;<a href="https://www.gnu.org/licenses/">https://www.gnu.org/licenses/</a>&gt;.</p>
+
+<p>The GNU General Public License does not permit incorporating your program
+into proprietary programs.  If your program is a subroutine library, you
+may consider it more useful to permit linking proprietary applications with
+the library.  If this is what you want to do, use the GNU Lesser General
+Public License instead of this License.  But first, please read
+&lt;<a href="https://www.gnu.org/licenses/why-not-lgpl.html">https://www.gnu.org/licenses/why-not-lgpl.html</a>&gt;.</p>
+
+</div>
+</div>
+
+</div><!-- for id="content", starts in the include above -->
+
+              <!-- begin server/footer-text.html -->
+
+
+
+
+
+
+<div style="clear:both"></div>
+
+
+<div id="language-container">
+ <div class="backtotop">
+  <hr class="no-display">
+  <a href="https://www.gnu.org/licenses/gpl-3.0.html#top"><b>â–²</b></a>
+ </div>
+ <div id="languages" class="rounded-corners">
+  <div class="button">
+   <a href="https://www.gnu.org/licenses/gpl-3.0.html#top" class="close"><span>BACK TO TOP</span></a>
+  </div>
+  <div id="set-language" class="button">
+   <span class="gnun-split"></span>
+   <a href="https://www.gnu.org/server/select-language.html?callback=/licenses/gpl-3.0.html" rel="nofollow">
+   Set language
+   <span class="gnun-split"></span>
+   </a>
+  </div>
+  <p>Available for this page:</p>
+  <div id="translations">
+<p>
+<span dir="ltr" class="original">[en]&nbsp;<a lang="en" hreflang="en" href="https://www.gnu.org/licenses/gpl-3.0.en.html">English</a> &nbsp;</span>
+<span dir="ltr">[ar]&nbsp;<a lang="ar" hreflang="ar" href="https://www.gnu.org/licenses/gpl-3.0.ar.html">Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©</a> &nbsp;</span>
+<span dir="ltr">[ca]&nbsp;<a lang="ca" hreflang="ca" href="https://www.gnu.org/licenses/gpl-3.0.ca.html">catalÃ </a> &nbsp;</span>
+<span dir="ltr">[de]&nbsp;<a lang="de" hreflang="de" href="https://www.gnu.org/licenses/gpl-3.0.de.html">Deutsch</a> &nbsp;</span>
+<span dir="ltr">[fr]&nbsp;<a lang="fr" hreflang="fr" href="https://www.gnu.org/licenses/gpl-3.0.fr.html">franÃ§ais</a> &nbsp;</span>
+<span dir="ltr">[ja]&nbsp;<a lang="ja" hreflang="ja" href="https://www.gnu.org/licenses/gpl-3.0.ja.html">æ—¥æœ¬èª</a> &nbsp;</span>
+<span dir="ltr">[nl]&nbsp;<a lang="nl" hreflang="nl" href="https://www.gnu.org/licenses/gpl-3.0.nl.html">Nederlands</a> &nbsp;</span>
+<span dir="ltr">[pt-br]&nbsp;<a lang="pt-br" hreflang="pt-br" href="https://www.gnu.org/licenses/gpl-3.0.pt-br.html">portuguÃªs</a> &nbsp;</span>
+<span dir="ltr">[ru]&nbsp;<a lang="ru" hreflang="ru" href="https://www.gnu.org/licenses/gpl-3.0.ru.html">Ñ€ÑƒÑÑĞºĞ¸Ğ¹</a> &nbsp;</span>
+<span dir="ltr">[tr]&nbsp;<a lang="tr" hreflang="tr" href="https://www.gnu.org/licenses/gpl-3.0.tr.html">TÃ¼rkÃ§e</a> &nbsp;</span>
+<span dir="ltr">[uk]&nbsp;<a lang="uk" hreflang="uk" href="https://www.gnu.org/licenses/gpl-3.0.uk.html">ÑƒĞºÑ€Ğ°Ñ—Ğ½ÑÑŒĞºĞ°</a> &nbsp;</span>
+<span dir="ltr">[zh-cn]&nbsp;<a lang="zh-cn" hreflang="zh-cn" href="https://www.gnu.org/licenses/gpl-3.0.zh-cn.html">ç®€ä½“ä¸­æ–‡</a> &nbsp;</span>
+<span dir="ltr">[zh-tw]&nbsp;<a lang="zh-tw" hreflang="zh-tw" href="https://www.gnu.org/licenses/gpl-3.0.zh-tw.html">ç¹é«”ä¸­æ–‡</a> &nbsp;</span>
+</p>
+</div>
+ </div>
+</div>
+
+<div id="mission-statement" role="complementary">
+ <div class="backtotop">
+  <hr class="no-display">
+  <a href="https://www.gnu.org/licenses/gpl-3.0.html#header"><span>BACK TO TOP </span>â–²</a>
+ </div>
+<div style="clear: both"></div>
+<blockquote>
+<p style="direction:ltr; text-align:left"><a href="https://www.fsf.org/"><img id="fsfbanner" src="https://www.gnu.org/graphics/fsf-logo-notext-small.png" alt="&nbsp;[FSF logo]&nbsp;" width="75" height="25"></a><strong>
+â€œThe Free Software Foundation (FSF) is a nonprofit with a worldwide
+mission to promote computer user freedom. We defend the rights of all
+software users.â€</strong></p>
+</blockquote>
+
+<div id="support-the-fsf" class="button">
+ <a class="join" href="https://www.fsf.org/associate/support_freedom?referrer=4052">JOIN</a>
+ <a class="donate" href="https://donate.fsf.org/">DONATE</a>
+ <a class="shop" href="https://shop.fsf.org/">SHOP</a>
+</div>
+</div>
+<!-- end server/footer-text.html -->
+
+
+<div id="footer" role="contentinfo">
+<div class="unprintable">
+
+<p>Please send general FSF &amp; GNU inquiries to
+<a href="mailto:gnu@gnu.org">&lt;gnu@gnu.org&gt;</a>.
+There are also <a href="https://www.gnu.org/contact/">other ways to contact</a>
+the FSF.  Broken links and other corrections or suggestions can be sent
+to <a href="mailto:webmasters@gnu.org">&lt;webmasters@gnu.org&gt;</a>.</p>
+
+<p><!-- TRANSLATORS: Ignore the original text in this paragraph,
+        replace it with the translation of these two:
+
+        We work hard and do our best to provide accurate, good quality
+        translations.  However, we are not exempt from imperfection.
+        Please send your comments and general suggestions in this regard
+        to <a href="mailto:web-translators@gnu.org">
+        &lt;web-translators@gnu.org&gt;</a>.</p>
+
+        <p>For information on coordinating and contributing translations of
+        our web pages, see <a
+        href="/server/standards/README.translations.html">Translations
+        README</a>. -->
+Please see the <a href="https://www.gnu.org/server/standards/README.translations.html">Translations
+README</a> for information on coordinating and contributing translations
+of this article.</p>
+</div>
+
+<p>Copyright notice above.</p>
+
+<p>
+Everyone is permitted to copy and distribute verbatim copies of this license
+document, but changing it is not allowed.
+</p>
+
+<!-- start of server/bottom-notes.html -->
+<div id="bottom-notes" class="unprintable">
+<p><a href="https://www.fsf.org/about/dmca-notice">Copyright Infringement Notification</a></p>
+<div id="generic">
+
+
+</div>
+</div>
+<!-- end of server/bottom-notes.html -->
+
+
+<p class="unprintable">Updated:
+<!-- timestamp start -->
+$Date: 2023/11/30 09:46:01 $
+<!-- timestamp end -->
+</p>
+</div>
+</div><!-- for class="inner", starts in the banner include -->
+
+
+</body></html>
+------MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gnu.org/graphics/fsf-logo-notext-small.png
+
+‰PNG
+
+   IHDR   x   (   5ê>%  …iCCPICC profile  (‘}‘=HÃP…OS¥U*vqÈP,uÔ*¡B¨Zu0yé4iHZ\×‚ƒ?‹Ug]\AğÄ]pRt‘ïK
+-b¼ğxçİsxï>@h”™fuÅ M¯š©D\ÌdWÅÀ+zàCÓˆÉÌ2æ$)	Ïúº§^ª»(Ïòîû³úÔœÅ ŸH<Ë³J¼A<µY58ï‡YQV‰Ï‰ÇLº ñ#×—ß8xfØL§æ‰ÃÄb¡ƒ•fES#$¨šNùBÆe•óg­\c­{ò†rúÊ2×i#E,A‚5”PFQÚuR,¤è<îárü¹r•ÀÈ±€
+4Èü~ÏÖÊOŒ»I¡8ĞıbÛ#@`hÖmûûØ¶›'€ÿ¸ÒÛşJ˜ù$½ŞÖ"G@ÿ6pqİÖ”=àr|2dSv$?-!ŸŞÏè›²ÀÀ-Ğ»æÎ­uÓ M³JŞ ‡Àh²×=ŞìœÛ¿=­ùı ¤³r»ÁÂ   bKGD t    õıp   	pHYs  ×  ×B(›x   tIMEé		/¨œf  ‡IDATxÚíœklTEÇ»¢‚Ô¨´ZŠ@àê5Q‰±ZQlbŒˆñÅ£1ØVAB¢1$>BL¤(ı‚Dl*HL.1FAš€6X%DvhÃ#ÁJ¥Á‚„B¡øaÉuÓvwËîín÷d>ÌÌÙ¹çÏ™sÎœÙ9Bë“€€ÉÀU@¾”p)0¦Sw-}ôG€n (†•6UA¼÷A¨<” ·£|€ü 	ØtmÀià`Ó —ôÒ×!¥8ìò€±Àİ€.NAñ!’f&ñ5Õ*mÒø{€2`–0aö÷@-°EióK?æ\/Ò?¸çã_0B Ì“g®–¾n‘ğı@°Ji³/(€Ó-Á“|õòt|½ë” oøš€uJ›C	În‰s[¥><æÑ)»#ÀÑ İÀ_Àß¢)Z•6í©É"i”¦zQAÓWÀ2¥Í	®³HTy)0¸Â×}øYTºµŞ¬´éÊ–­*|.àwùX¤´1	€:xxR$ô<ı)ól¶)mög»-2Œ¬F`®Òf[P#²7ÏîŒQåë€õJ›ÆÁfl¦à&qE&ùÚ‹±Ñ_é£B+w”6§ã€;XL¦€Ô(m~Ìîaº­èûï|M+•6åıœk:°I>ÊÇ•6›âŒÉ>“ıàP¼§´ù'üÿ¬PÑëŒ ¾õv3PÉ.ğ-P(~î
+`±Òæ09DÙ²/ß`~àˆï;Z\˜çû2¾Ä=ºN¶”¥Í‘àà¤7˜#Õ:¥Íª†½&à®pÏôâ;Ïßy
+p±¯¯]¶–•6õ9°ç:Sã<2)¦—À?µú˜ÿ~‚ã¢t¨ğƒ+ûøààš>Æf³=×Y¬xİT©¶¤$¥Í1²<×	Ú×ÍSÚœH`]S€Ÿ€O%XqpOÍû©S>¤±™*…J›È€Hp¦ZıJ›]ëoa¢ÀØxt;6*ÕìRÚ´Å¨íWEk„nÒ Hğ+J›ìûâNE²]‚£YöAVy®3+ †Ö ËC+:x|î¹ÎRQ·ÍÀQékv+mtŠ~k9° TÑ™G{âTÓy®Ó	jz ¬%qú‹€§|õEÀ'IşÆEâÓ§k
+qS¢½¼ÓÉ4ò{‰¸Z7K}öÀcğIp‹.WÚ¬La dp/0{±x:âjÅF¿N)m†z®³xAÚUÚ¬÷àÔ«­6`µ”tĞÜÚš³OQBêIz§/÷Ğ¥C€³ÜàkÙûcicè&e7¸ó€e½ğå8Pë¹Nÿ±O÷\gxŠ—ò£ÒfWpjUr}'	.†b35ıô¢”TÒK@ğ‚Ş îˆóø2¥Mµç:ãCùÀˆÄÍÁ&¯÷E]À¥Mu¶¾ïu&6M¶4Aÿ0/æ&Æì”2l5ÀGÀö/¹>8>¨ã€'€±gÁ‘$˜[©´ÙĞƒï}
+Xã¹Î}>€ëÂ@G0€F±g¿¥ÀcÀMI?Í®¹ì‰àÔ:R¬Şbà.1”†%1E+°X|“M×QÀrt2à`Óon!ù›ıØË­Àf¥MS.ØC2ÀBlşr6n"0^êI.âv{HĞ(e'ğ›Ò¦5İÁ ^ê¹Îb¯ ŒÂæ#'Cg=Øƒş=Ø¤º=À>`ŸÒf/!ğvà]ì‘Ş•Ø¿H˜ û_76›ñ ö®P‹ø]Øûµ‡°WTŠ{r8 ´éaË€•6Ç·C6…§I!À!… ‡”±ô´é­ä MÔ    IEND®B`‚
+------MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gnu.org/graphics/gplv3-127x51.png
+
+‰PNG
+
+   IHDR      3   ¾'×   	pHYs     šœ   tIME×%/¦¢VV   bKGD      ùC»  IDATxÚí]k˜VU>%¥¥å…Š”J´Âä–e)‘Vôˆ¤!I‘—Jnãô@‚i¨iAB*™Âpn"cˆÀ€ ``b À 2ÃÀp™Ö;¼‡gÍâ\öù¾óÍÀ8?Öóçœ½ÏŞûİ{İ×Á«©©ñšèÄ§9wê3w¥Ğ¯…Š„V	ªÚ/÷ÿ-¿Îò¼ûmšî¦¥÷.ô*¡É
+hĞ.¡EB…B÷Ïõ¼ÑÏTõK¾4şŠê¼1Òœe¼sHêï=ò÷3ò;Pèœ?+ô6lˆ‹œÁ—¿iäàß#´í8ß¯Zş†ĞÈÙw+%w†´İ-í¦&Jc_££ü¾rœkÙ÷R¡­¼V-4B@ì˜…~ ğlğ·7bàÿ'ğòûâq0ÃÂ’Käw¬Ğ4#ŠÆµÎVW ğBÏ»²Šóó©—ÅÉE™ßÀc™%ğ6ù}Á\S¨kZŠ¢ôµïpzX§o#gù?j`Ñö<Æ ¿‚6ätŠ&áÅœs¾kƒ‡ÍI)Á•Au Wp%i÷yi÷Séc’™àò$ıhzÚó¾(}Şd€Û¦Ÿ‘_µøÒÇÜäãêô—eì½å÷v¡Jso¿ŒçVˆ£4ÍCŠ}bïÔµÁZ5¨é=ï¤1Ym¦‡Rš˜Ï¶‹çú~ U²Aš±ı_ë	ô×eL?à»ÓÄ´÷×à ¤íy~ŠfŞßì|z4‹<ıè}Ù•rm¢\{*ğbÓï?UŸ½Xƒ\ú”{¾û¼İ\¿7ˆRõÜƒO[¾Ğ…Tæ‚Y6Óó>†G±ç½ONíÙXÏ:XÄĞbÏ{/úÚë¯›Ëiêª¶Ş€ÔÆqÒ0hÓïfu¿µ¹·ŞE+–Iœì·)ğ¼wÂ~å½Ë´Û°~F¨Ù#‡À¯Ài–ßşà6I€ O‘{×
+=	ğÔó•%6¾Ìí{Ğ\À¦^ö˜éğÇ_f&ó1­Éê{<ï#}®2}~×Êß-Œ´*BÓ¤æÚ* ”wüc¢»µÆx¹Ö’mª#ÆßÆAa¿‘Ïß§¯»€¿@½èFÓéhÇaúì©îM‰à4QæÙhÓ®ŸÂÌõv1}õ1Ï¿‘"ğ¯È8ÛÓ«Å}v	û„9éÃÌ)tI‹şõîüzaó@I÷u'ğÑ±>5Ğ¬MÇ«“˜RjÓüIø[ÃMîr\ØÌXÆh›]½ëç1cûyÿÔ”€/&ˆíŒˆÚÈ×ôæàDr­Üñ]b€G„ï0¸
+8ª½§v0òåèÎ¼eÇ±ƒ´rI®-V‹ÿuV‰ãÉocú|)h£Ñ´‰ê§½yşÎ,A?$}ŞAe¸]´QÏ?ë‰"ôµïy4âĞnëoBQßô\œ’p›zÙ<³H]8Qyá“rYÔã +úÜÏ°ÉÃó\3Î1c;Ç<eÀï•÷‡Dú}ÀáùJyşŒ½'yÏ<p‰ Ì°>÷‚&Ê,“÷O¨Mù„Ô:wtŸ+§şi³I¯à½Ú)BYÙ×tÏû áv§e8—·„¾ºĞó>$¿sÛ€½Jè|ÑY[<²6ëÍh9ağ·ªÿ®Yğ™)€?"D+£Áfœ¼>ÍŒ±{\_°æ½1á<vÀm
+ñò\zcm{	ñ%Ï]å—¦G"ğa{ëÃhœ;;S¨\gŞù˜c»o™v³x/Ïl¦»ô‘sŸ`[á–Óø$Sä0øTåü‰pì@X’ükµÉbØóù)T>cŞ¹Á±İ©f#îâõÎ!î^g¶Ïvù¯œ²OCÆkwuhüº¼ÅAM>L&5ÉqQ>83"Ä4«ÌĞ¹³Î¦&ùZ¶’€TÆõcå„ÑúZÛ\6_B‡jƒ;ÙÅ;àÜ–ôä—©AÜlî)".F-ƒëÈg '‹ù5ºÀlÄ;ØßJ3Æ¶fèiAŠSLòÊ*?ÌšÃ`Ğ&k'%¸Ôq `m9ƒOş:ùElŒ£Ñ>”•QFçe¥:Âî{ªqšv“Ë"×ÑeêÎñ!m°)Zå8ÏaÔ"Ïû@
+±ûÄ¯›3øÊtª5´s'ÔÕ<<sÈgÈÙû	±æ}×›6Îü³CÖ wö½jŒOìJ;~#‚ZPsK±Y
+—¸\ÿ‚ËÇóAM(ø0¥Ô ˜Eéì8™ífÍ”¯º|fğeo6àEÜà¨´µe0Ïç©Í5#eàŸóE	ƒ@ğÉÿ+b]FÄsü†a‰ì|m²€U‡ÈØ¸ÉL5àIİ/‹¸—	•kçNåñÿ…Y‡ÙuP|GÚì^Oèò{´*‡Há¥nyx<·@);õàó„V(»°—Iå™v·¨{…÷2Y¼™DIı"Àï¯4û“sÄîç2­­*Á|Å°ûQAy±àC¹3ìô£d•;|+Ó‹Ôàû:*W®,3?ÃÈà1œÍŒkµåÕµ8átp»¿†q1q:AĞ„õ)Ü˜a
+÷!ë<Ñ.S›~%şO–Ò%“È 7ÎS!2¿³åÔMªª§
+ÀÆ ÿM&~,ò\ºœ|(2 ^ï8Ğ²€!ÿŞN-Ÿá«ÎÖ¢Ó¹¬Ør 5!f$ªdVëèaBq’&­A^@«oÇy¯Šİ»|S¾%Î¹BV¦_¥NÚL³Ùºe¹0e™8wUÛ†Y!¾gúXßõyïq®]räí0ÃL×XğQ»mXâÅÎ 9Ú×°Ğ?ªû9‚™Èû¿eâÜ	óGs¬C!…YàæI”², pà–d¿%4iº·íèê8×g¹âÍõ¦\2àÏK£Ú&Ÿ·æp]­† °¶¬'àW»ºue-/gÆòvÄ#’®]«É…öŸI‘lMx
+¥ıBnëIƒ/I¼ˆ	ÀŸ­6Ğ]êú«ğsÌç“9ı-Ç ×è<ûCfD­Ïtì‚,K›bÕQ{Êï;hİÂ¢­ÍvkïšUË¿¿¢–ç thçc€á¢Ÿ K¯`ÆÜ¹™àÔ¼é ç3·:Ì+æ>¤D0}Ãiä
+=—sı¼È°<¾ÄàS~ø{lN“Êd!Ÿ@™L?ùûW1Ï÷GÄy„ˆi×C¥îLÈX³ø¥Y¼_Äx¸Ö5›° “x•œâæ4j÷tçùj˜ÆµDÑR¦\¯U	‹Ï8"†DıŠYo6ÅÌ&&]¬Œ´(ÖäàÄW©:2²àJÆfzä^VÉ‘Kù>_K/sÒ•BÜã5Ş5mÑGøë{EùÙcŞw×t‹ˆ¦KÒ*ÜLÈäIëäDbaáŒA¤‹6ğ“à¬õnËÍÇ5ÄñYZaM2Ä÷Y¼‚_Á (“Ğ7Ë·;²ºä\Ÿ; J±F6=md¢â3^Nå™ğeó6Àp8hÀVù8A:áôrNAzMhì; E\©CÇS˜.='„®ÂÉ„¤ï/ÓìÄø&º:ooŠaâu@~ëïñ÷TæÔofB+š…wò:ØÕ/°ãó_ÿsmõˆò„°ñJVb#T°€!íZRä³ïgTzîfØuÓÄ~FÑ‚@L%.†Qt”4kvI”/ Iåk®ˆ§}8×_åè™‹÷hGÁÑ ±Lk¹vóª¼¶˜Û^ í~¸1X=S†B=éZoê/ÿ‹¾i;eÚHËâõÅäû¨uOG‚¤_ÈAÍör‰n@¶âÔƒ#ğDÂ<Ë÷!@Æ29£€œkR›nÕÀ#÷_‰®ÔOû1à«Ğe-VóG½›:EÛ)ÇäIœà¬3» Û“·#¸8?Jp:Yä*T˜°¦¬5e[99dö4¤3‘¥nğu|İƒÅxf27ÂP¸6ùMÚ‡Àw"Ps8ZT~¾7Ø ÃE«ÄQÎN{ø:_~S†¬«q¹1S†šd‡-tã‡(|+Ùf˜_Wçgãò£~•Ëf|©Ã/g"û[ÂŒ´-GÅÒQös¼C¨X±:v¤6å0GèqQ¹¸ÈYÚD]¥‡s4??+ğS©6¦3•ÖÇÂS/ÂË¡(IP&ğ¹óš€¯{ú/ÍÕ‚Ã’â«ì¹6;ºŞÀùXÑÛíÔû¿(pì”Ö"C‡¡%4‹§Zœaƒ\õ>ejøæƒÆsè-WËÀúàB¡g®†õÃíÇ©ü%M ‡n€*ºùb:é¢±Ó*š­>ÊPM“³Ÿı(UƒƒÏ²è_6Q]šsÄg±ÑXğW<ä V_½•{Ô³p†B&PX-ıq~ÓZët‡±MÇ—Bªlæó?4`k	gú?‡î]Ñ(N    IEND®B`‚
+------MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gnu.org/graphics/icons/translations.png
+
+‰PNG
+
+   IHDR   >   2   h?   	pHYs  ó  óÒé
+*   tEXtSoftware www.inkscape.org›î<   tEXtTitle GNU WWW Translation Icon›™É   tEXtAuthor Free Software Foundationjœó   tEXtCreation Time 2022ƒA6  †IDAThíš{xTåÇ?ï9I& D1!!’L&¨é"‹±€ÔõB!í“Ğ*h+ ÛzÙÖ*´®‹—*e©º,ëbpŸH„m±­Z$«XŒh&3I!\“ ¢!H.d23çİ?&sæ’9“‰îól¿Ï3Ïs~ïû»}ç½¿çÀÿSˆ‹èÕ+'§¹\ÊOâ&ã˜U¸A¶»ÑÄ3å6Û§zÍ…›¦äšU·Ô‹Ï $‹ÊìÕ Ê…V½U•TñÍ’0!x¹"r\â½3_‹äŠ¯j—œLé'õúoìÌkÏ'õn€¨óñ¤6ı¼F”EõÏotJÉ5pˆD’QCT||Xû˜#äè„L#G†µq;¸Î3ªN‚‹@\"?->ñ–y\ıØª!ù›±æéAušk¶²gõãFÕ­pÆ¸ª){/tŒ!A²¾¦¯^ˆÚg7OÖ„ˆ?g2Ù—ÕÕõxë¢smv4å.ı:b'4E¨•ğ5¬ã•yyEùÈÉıEBÈ_”Õ7®õêTXrˆ_ÛKOgTå|S€®–c´Ûl!jÄ¶r«mœ'ñÍ–œ™ÊAÆ¬•O•[¨.˜˜èè‹=„Ÿ•.0„&¦–Ùl{á<ˆW›Í1…z¿–†‚9eõö Uù¹OJÉ?%Æ°ôtR§“˜‘ALb"ÎÎ.ºNçä‡{èhjR¾BòfYƒı»^ù+ñ>U»)ŒH÷ÇâY	W	J´ë9w_Ô
+ a0ßIÙÙ\¹òÒ¦Ï ƒuût£O×ÿm»ÿQ¾BÈ'ıeÕH1ş½  :Æíúoïº—ÖIŞ»íÔjN´÷_::¸:œÁ¤’Û˜ù«µ$fd’ˆ=šŒo"fD"'>x¤4ÔˆÊ¬öÇüË¾Òr××[*aBDÊBüÜ'D=ô©fÎ_ÀÔŸı5&ğàÖu¼ö†Î>ŒÔ´€ºìÒ2¾õĞ#aS‚_H+’Üı±
+”LK®ÈÔFÑÄwJm¶] •yæÿ@È»‚uÒÒ¸yÛo‰ŠëŸ'¥¤ùõl/o¤³¥E×3LbÒí·“w×Ò€?hç=wsâı÷|RVo¿J@@—r‹O´ä3Ò R‘?õ>»k W°NNù"i`ÏêUìYıx i Ç™¬/½ÈÎ»€ÛáĞË-Kï1ˆ.&_¸@<<T	³+óò¦,ih8òµ`q³æèÏ­ïÖÒüúÖ°>Oíûû¦ÿÒå1W^Eì¨QÁq›ÖÛ¶…²ñÊ¼œAÅF‡Ğö=*O ú`UM±Ä§¤èª-z;"—GßzÓÏ¿`ø¸q
+R>¹Ê/?†ÖâŠ¹gßÊ¬™µa#×>ÿë€c¤n®²d[ Êl6»„ßé9«JÀîî3œÿ 9é©ş«³8|YrÊ«†T"Š@ÿÖT2#¸\(
+–»—‘:­Ôi…\6k6i3¨‰ïS4ñ/ŞgWO3ºbÚ5×D”SÚŒ@½®¶VıYJùôuµµæ=~D !´Ÿ…~Í·IHK(»|a‰Q¸’W¦dO(³Ùö
+ø“·¦µ¶V×Ê¸ñ&R§‡Ígø¸ñäßs¯.w45Ñ}â„W<;üì+áì#"¾yŠyª„Ù¡êB‘;sæ€?Ã©*R}H—¤¢·zÓæJ¤Û€PTŠÖ­'wÉDÅÆxŠÂ„ş‘¹UÄ$&êåöŠMşZÏ”|Ğjx®ã–Üíæ—Ç§¤0ÿÍ·Céú_ şÅß„rçT\òòÒÆÆ£ •y¹»ë )?¼‹_+8»»ù|ßÇœûâb?eÀìİZ»‹Ú•Ë½»·v“&&85m”­Åšº…ú%^e6çJEZ	Ñ;ü•šÆ™HšìÙ¾÷œúŒmsçè­T°®¬Ş¾ÒC<çF„Øá­(øñƒä,Z<XZ:¿·›w¸·£×ëı1)…MÚVéã×î¹_GM¬-µÙvÚÕ¥¢=Š´PU2,Ğå“{ö`İğ’.ÇIaì·g†ö)YZ™““
+PŞĞøˆ:oEİ³OS»r9Ç†Í«÷ôi>zjïüè^?ÒœUPÖÜ7ÈÀF"¸ESä&ät¶)//´…¡êÒ¯-"~Œoí=Pó­µ»è=}šØK.<ã¿µvW(óX%V€ç˜*‘O	¨öV¶îz‡¶wkI-œNêôŒ˜0ØKFÑ×y–®–Nîı+mµ»põö8•ğB©ÕÚ±ÙbùWw	xS	Ø?(qùˆ‘ÿ¤æ8ÓAÛ»µhN'‡~»Ü%wåfXÚXº·°ğÃÍËÓ¥VkÇ!«½&Ë’k“`ÖIhÇÿòÇÿò^¸ıÑ+\r@©Õzèå+³²¢]¦ û¯xÄç -í‰ÂÌêUùùé¹(T]Bj*©……º|pû6}ÓÑ\S£…¢U\lb„× V¦!”a(Á†òÆF}=»s_óç.ëS9©yïÃŒq×ƒ¼Ø»|ám3ùÁí¾íğÙ£G8õq.gÎ/F‰
+İ±âşj³yÀ¹˜ØÍÂÏNá”ÏŞa³¹ÌPŞµ¥`R2ßR0)YJ~2YU%soe;U÷_: s ÆwÀˆKN&½è:£„G9–,««s"ä3FŠa!D…wyF¹µq;ÈúÅÍ©–€qW_Ô1¸"7k6q£Çè²?I/½ı}_~©ËÆ;9 ù`uazÀéçÇÃ(‡€pkÂş-ƒàe_8Q!ˆWLL`t¸ Ñ×Ùò$åv88üÆ]NVÈğqã\^ÚÛ9b1ÀŠæfB®5R­zñ§MûÃi)õRÂ1c÷ö™–ƒ»´á—]FÊ?LÕåîãm\±òşÁü·“AVq1û0û«ÅC»ŠŠ6^W[ë’D¿ ¤ë!ÉáÈxyhR]3˜’"£N¹…~:AÄ+òó„t¯qaxZ[(¾N’49›¤ÉÙäYóPÿ›õGN™ÑòÅgß*Õ×wWæå®VEàöw‹êS“´ÔÕ…t/9:”±ÍÄ[¾A.¡a™Dúwf…ÉNütU>ŠP×ƒù”‚'Óp)Òì“´àG|]V–	ø'#ãq³çè;2€Şöv:ÿkiÁí·»št«ñ$' ;3ß< Ôjí’ÕáÈxmQ½ıÃp:^H©-ğ÷_WOŠ‹Yr¬‘±ÿ¤æêéánºgw÷ A§=¾š¬â[H™:•ÄÌL¾<xĞ(ÅG%¼.@ÆäØ×ö5æÎ‘‚¹´ ES\ğœ	Äí^YhÊ«ĞßâÕQŸÈÈ ¥à[º|ä¿ˆ4xöğşÈšo¸“ÉUùæ¹ %¯á>İÛ7OÖxÿŠZ´øÓı÷Á¡\F+ÏÃÏUsÿ»3 ïoæù@–‘ñ¤…%wbÁdÂ¡½¡ÓMº<ñ–y¨&S˜LåJïãŠæfGY½}¥KI‘‚iRãË­öY¥Vë!c>TYÌ)oózVü|+Xò#cÕËÄ›};µıûiohˆ$®ƒ¯×èÏ¦‘#7çúpê³^ÉÎ¸i¸ã“OÎ,ª·¸Èf;iÌJ‹ùa‰ï}™Dn,µ6ê/Ú<Äaš‘ƒñ×ÏX“›·V©âĞGÈğ;9¢£T5ÈAúñJvö¨JKÎkğÉwÆjÊ}şzQÕ…éq..è¢_!>[}]ûğïßr2Î®Nö­}‘Y—ëeÑÃ†áìê
+©¯©Cÿzb]V–)).f	’'Àó#kÅ9ç‚’ææ€„ ¨´äoõ¾A©Ì-khx+İ-K¶†V"‘÷2ğs“=1q÷-««sÛõ/gb7È9Á•ßœBˆ½àùøÀ©(úaI}c©¤h(Ù¦J)g¸qØ:
+8‚T–—54ì®ó"Ê£(Ÿ—ğƒ¸¥õÖŠüÜ«RşÜ¾sƒTûßIºTëG+’_w›â^ğÿ )€2«ı |œs±!%u)Ñı„ä{DöÍL’)ä÷MšÈ,o°?;iúÓ*óÍßEÊåÀU\¼Ï³º ¹Å”Ğ¹Ş{^e6çjŠ¬à»ÑœEÊ6­Y§jÊŞ®ØØ#!úwôãJ‰n?ÀL    IEND®B`‚
+------MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gnu.org/graphics/icons/search.png
+
+‰PNG
+
+   IHDR   2   2   ?ˆ±  +zTXtRaw profile type exif  xÚ­¼m’9Î¤ûŸ«x—ÀO\?Íîfùó8#¥®ª®êé±;’I)<'‚A w Lwş×ÿwİÿüÏÿKt¹ÔfİÌó+÷ÜãàÍ¿Æû;øüş~¿Rüù^øóëî÷7"/%½óûo³Ÿ÷ÿz=ü¾À÷eğ¯ò‡µõóùçoôüsıö—ıÜ(iEZÄş¹P_¿—ü¾~.0¾ÇòÖ[ıã#Ìó}ıùü·üqú+ÕŸ·ı|ø¯ÿÏ•İÛ…û¤O
+Éówü6…¯úS\ü£ñwL¦7ò¶ÁŸÌß9ız$6äïöÉÿaUî¯Vùı¯ğ¯ÿÅ(É¾×/üy3í÷×¿}=”¿ß|÷¶ø~²~ßùO¯¯í¯óëÏ½»¹{Ï÷t#[j?õëQŞ¿xãdËÓû˜ñ»ò§ğïú~w~7‡e&ß~ùÉïzˆ˜å†vá†ó¾®°Xb'V¾Æ¸°Š^k©ÆWÂ³e!~‡kêicÁ˜æM¼¯%¼ûöw»7ŞwÆÀÅ‚\Áé¯ÿ¿ÿñB÷ÊåCğí÷^±®('d²œşæ]$Ü_~TŞÿúı×_²kÂ‚åmsã‡Ÿß%f	?¾%?JÏĞ‰7¾~±êş¹ [Ä½‹		x©¾ÆXC`ö\¨Å”ãÄ¡”¸Ye$4ã´¨{ó™Ş{A¯ïe0C”d©bš¶Ê şSsÃ‡FI%—R¬ÔÒJ/Ã’e+fVMà7jª¹–jµÖV{-µÜJ³V[s­·ÑcO€céÖko½÷1¸éàÊƒOŞ0ÆŒ3Í<Ë´Yg›}…û¬¼Ê²UWs«¯±ãNœØ¶ën»ïqÂÁ•N>åØ©§~ÆÅÕnºù–k·Şvû¿­ÜgÖûıß[-ü²Z|–Òëo«ñÑZ]"NŠl†ÅbX¼Ê8t”Í|9G'ÓÉf¾G¢¢DVYdœd1,˜Oˆå†ß¶û—åşd7—óÿ/»Å_–s2İÿË9™î,÷ïvû«m%ˆå“{RjS}"üxÃi#¶¡¤ö¯¯c•¶—µöÀZùòŒ8|µì0—±E¶rX+¤ÛÈ•¥8Oã?y_ßÙ]êŠ³^â‘›ÕÙ¦}æÈÎâé£Îj7Nce\aÍØÂSäqÎ&+ºÒ(¡›2c8— "<6ôéTÇ½tvf®Ú‰Æ=û]ë0 Šá·Å*b3xs›š%Ò¼c“=¹¢[ì(}•V;á§Õ{L_O*åÜ;¼µyBç–›`¬f,©ô¼Îi¯	fÇ%Çİ½âjìm8}áL\,Ùõ<ÖòãÌóx­-Ëû¬rZİ‡gZÆ#!ä\¥ŒTÛ˜¹í‚Å°Ş	¦8w3>_Ú±g(¹zn¹ù¨z\¥Ô*Vd¿ëÊ®m²¼õyÖ=±íØÉ–ÍŞòe»o§F-©ï5xWœ+oK›oZcOpY]×MœövåŸ/^Ì:ôƒ¥LÛ#´³K	¤§‹ùx‘¸«©àµ÷à•=îÚ–‘E:Xîåã8áé‰O\§Ã³Á]#FÂ&¹:QVNÇğÆ–ÍäB0$íàòµq=ĞÇ˜mû<s’Õ Tõpã°Á¬’°>7øÙ. Éeí%ûV<ã4[lC:½áÃ<FÃ£ÆŞs¶µù¹İuØ$O>Ö-şí®Óéåô¾Éµ€YÜ¹¤mv-Í¹ı¹'7ölÌ²ûÜÇ[,şÌx™æŠæÆ‘Õ,[˜»·Áh­æÁâ9dª}²aø[¿ƒÙ ™¸œ86àµ-^w “M€#Ë\Ğ"à€½’|tá˜™çj8áx`!"¼ãŒÏu^ÇCÛy[ÛÜ=â[óòğuHŒ_µı\©}Ö’-"mä…gÌyÌS@»~Á£S!)“Wûá…úÜ4ÇC"âï¿şêşõÂ™i cƒ:e9wß“xî@¸\Óí*^ÙÓDò‚.ÅŠGds­&Ë€@WÅ¯è};‚¿’Èv=+p9âä²ïÚûÎûlî s\|İzfw°íma¾K`»6S~®ñ€fÂ×æÜ8Û1ÎNd‡A¢…3ªá¹ÚÙ#ô&Šò=;ÁYû°ĞğŸY×¹¬¥İ9É
+¼|,±w Ï8“0ÇyG±Îà\\¶>„Y6i•Ëöƒ\ı.ák>¹³$ Š0q¡ë™L[tÁé«¸;=v€‡ë6hµğñ=y*9,ˆ»XJœ<y+Šó …YÈ€ÔÂJvuà·_Ş}÷ÚXÊ×ÎããÜŒ/i¬CÆÂrTínû1[÷ñöÜ¦Ô^['û mÁÃG:£ß°ØàlG÷!7ÕJ$D_Vİ¤š½]w;D‘¥Ñ¸şµ´E¹»…©oueVVpf†=ÊéújíBEHëêAÁjd:h»Ùy]¨[Ñ „I’xÈÌêÊæí9·—}£{å"ƒ|e“² `eê{Ò}k“¬RaóYnT9WGà(˜¦`µÒ=IØ¸àŸİ æ’ÜIxÀ›@~<•h`~´6>ÜñÉ¾dº›äãêÅˆ²9pTÂ@vÆë12QÀ'ğOÜá?/¬+Ìª?J6¬
+;—|´‹¨ìkä…ú\Œ#¾°1Ö^‰[‘÷'MnU¨Å°v$T\¼îƒŸ×Ñ§Sá†}V®Pçf§Áı€A*Ôn%üG
+%É­%Óf½7îw”L©…'¸ñ ]ƒñ)*å‘ˆ£réŠ]§‚äE^ö}f³³ğˆĞ!rAñÑ‡Ğy&®v^Ô²/`°C –+^rVæßVHnÒQU†'fŒbGøÈÌ®@rÅËS´IÆ˜™‡\d
+2P'ø(q·!$¢ƒƒ»ÍÛÓÙdPrl†½àÛQÈ¾|GfósóµapMÄdò‹ÿY†kÃ-ÂáÑH‰ä?#a^0)Py:ş’\PÚº÷f«„¡ˆqÏ®zR¬r6ÑXâùÏäóŸ¾Š”BK×#Í{Š“ÍÍ
+<=ª7öI:áĞ® ´Ié§c4á7¼BAŞ•òØ&ı&Şä]d52-/à¾8úàº¡@ìØMäÎÀ_Àk‹H3¶X ¦‚w6A (­â‰ıU^ãŠ"şB¤à—à: z¬ÁeqÒ„A!cŠjh.Ky7ÔØ†Ïq¡æÁ«0K€“¢ šäu¨eó#]”BÂC•GøØ™¸şrÑF¬,–Àmî+	†ó«j@ê˜PÓç†ø~Â—pQPHI0BË`ıÖÎœ•\
+ÑÂã!0br¼¯À™?ÖnŞş’¹‰½š°.¥k÷% D¶6â¾›@a³K‡Éá»8¾ÖÃåª…e78Y8½µ•ÔKf<êîWşÏ"Ù‡$ºf_yôF¦ÙzUëde²I>< ½ ·b5œ]»Ìãz‰Cù1ôu92:7j–“ò ¬‚ HIğ¯¸#ä%„QJC«eƒH”é”êQ•Pd/+&‰ÌT†2$Ér5#qµüe½2
+ø2Ï„>=^ ÎıÀ?$ì:çÓ:l´Xó="ŒjDÕ„HD@»ù×öqˆË"Z}XR&^€h`+©LmVÆÈ{÷]–õ®Ú_ú`1ĞPÌ±±›}ñ­¬K:ø
+èÑ0å…kYr	}ï)+)gªî6ÈGEèÜñ0âıİ{È=©Gš( •!-7éo"iU>«¨nŒtl©€äÇ¿×˜­„@ğ<}_¤£úÑŠ°+)ÄFe¬B’keÊ¬è„6òf£!ów‘¢Êt $KuH,~tÜéƒ,P!`z¨¿èÊˆ¢‡YâıåUM×[(Z,a‹†Ì£Ç§ÙcşÑJéRH íD¤Æ…œÊ»¸P\Á&úš”{ĞíRR[¤•u„¦2Ş®L®Pmıûèc ¤rÌñè'·ºŸY|¹‚AŒdôZâÃ ×¼éqyR
+à°Tdâ:èXD„b†s‘¨q/!f$EIñUêtZùãfÈÃ²ÖÅ5Ø{ÃóÓ"YÇQi¨8ò™Jhà”|vÂËwxlp)Rñ.âB$ú ×ÉX—º*Æp÷ÍÖƒ-pYK@¶‡Ísæcğ$ù†#Q>¤aÑy2tÑCÁ‰~ è<Gç‹´!ĞŸó9 T¥İÌwğ,Ä!‹|òë<èè¨! ØÊÄÕ?}­$Eÿ‚¶Çh¡×àSc?étHohjˆÕ„Uñ}Ó. ‰¤âù±¬Ù0e€V;TJqO(v‰$ÇöBGÖÀRÂq-¾}=·@ü‰Ÿ‘*v+.Õ[òÇ!Ù#ƒ«[È&à]ãOiõ‰zhN©c€i€0Æ¿Ä);bèÓd¶«–”|+Å:Ù;àJÛBg%@8¤q7¨*HÜZQ8ÒÌE&ñ¼ìhªX=5D®t6¹€ ˆ1ÃÄ}$–Tl,ùVöàŠñ6³nÔO„Ï%ÛpĞ=“wø¤Kn	[GÁDWâ¯f8©ÊÆ‡ú†ˆ„]VI¨°÷ÈËBÄ}ƒâ ş7zà?KPLÖ
+ârÃ![4Ïù
+‚J€?€JÂ&„²xü!@yXt¶²'\$œŒ³›æI@$¹@"»KòQr^§AtH(Èf\5…'³ØFÒ)L¢ª¹ïß¯–7²‘Ÿİ…`"weô<ŠF¥›Ó:¯˜ Ì;TDH¯˜xVv
+–C§Yœò¥| h³À	 ’* Åj\‰O ÌÀ†$hC-¹p=ñİlÒpA+à€ëî¢K²ë¨ë†x0¯/D´R!…ïãè‡”½r_Ö™p¯Ú7+1¨@k&ù#XjÒÎ[ÛŠm´N¢	yâ¾"‘_;ö*—†E‰©Ö§8Dà)èÀ¥
+Kj‘Íƒ‚È¡.wp¨=ş­ÊvÛxóPá}Pƒ˜‘§F3¿ :Õ³Ïƒ´®¢¶Ìß…ØrÕ‚Ä×‚ë’' @FôA¨\;³ˆ ÂBIK-tîÕ{$ã¹@®€F ¯‘eU$®‰¸±¯B¯WóC¤ä!›«d
+«E\“IÊ«™"¤D¹"ÈXOåÜ0ª¨F7î3äêØÄ*Ï.ëwt?†Ó*”M5Ó¼«ç¤”E:€½ Á6ä…¬´”êÀ÷Ú²ê¡<5EKĞcŞmU¿òªÂ»Ğòu9.Oê0Õ# –DD)~YyBQ?µÄQ%µ‘ğæ{Tô-ˆ`ŞmØí‚¤“SR‹B-¾ºh¤´F;aà8„R”_¡ï˜mËòaˆ¥àªÿnRüVDNQXB
+<şvµ«ÅİRn„tGd%zB^ğ ÂÈ1 ¼“¨ê>²Aø†U‹ùO_¨9¯>ÛÃbÿŠ\ã’lN'Ã›ˆ+Òs'‡ãQê‚V5RšÓƒ'©A ÉUènİ@<ˆm3øP‚g¨zi¤ä=yùaEv¿‹
+Dëº£¿JW·ÆÆBYÈöùSB\#Ï[ëÃ_Œ2‹@ğ!^Ø­Œtµ¼±ÿìğáÀØÄ‹kTQ²¡¨
+Poõµ+›	f¥Ö\Ø.j±Æn‡êXIÕó€\R›uT!¢í ˆ(ä¸Ä3Hƒ[26€sD Cà6ûŸô«
+Í¼D%IãJJeèdÕ¸‰'¤`WëC V]`Y7!zøúk@‘¡p®*şª	7±*?Qã•Kz3Ø\Â™x[„îIÔÄ®vtjaë•p'Ê†]€šÁp€tB‰X‡ë“bçW¿zå«,M‚%ÓŒ-„TşZU‘uĞEÎ‰+¬Ç^
+WAæÀÄk$Ñ»*^Ø«œv>	ûÇ³3é§±>,oh…d;Tl…K|2HŠåvà‚âÆ‡jK0ÛôË{İÿ]ø}‘G©
+¨"ğìÑa=aw›Ä<BÊQ9’Á#’Wá±D‡ûã-O„È‘ ‰èX’ƒ¿*ûîú«$fr8\n¾òƒŠÜµD°ñNÒù€iç©;B[Ğ_À>d%CjqR]j0	„y•©9XÛ[4åb$¢¼6Fğ¤õD|­¤^LmCÑpµ3°+ìê©aA–ÍÇˆ3ß®jó¨»ü%¸®î™İ«,0"ğôMİfÕI³ WåƒÉ¾Å	Z*×€’=u±‰sÀI•j ¶?7Q¹ù½tAiÈŸ(Öoß@–ö…ŠıÀxÂ+…L"@Õ-Ù©¦Áñ’,I×•BŠŸ<j 9Îö•ß±·Çÿ—ô¯f_4Hè„XßÛ!aCaáÒİüÈ9P7“ÁdŠÆT”ÌÃHéëêê€(-lù¨wDD³wi–I¯C}PØ7šMÎ¯ŠJè` ¯½èı,ÜSûÓWV‡'ŞØ¾Ìªó´ĞØ€jF-©bO´P¦€oc›²Z`
+M¾½6Ÿã“µ]5ŠNjBn #	Ãø¤¨áĞ|¶ª§€·ªU4ğ)ÕÆÍ^Hò7Ş™áé\´C§‰À÷.×Ó2€«øù…
+ à•èò"w‚Æó,„Ş68•Ÿ‹èîß.Ò²
+BŸ×¤‹ü*Aƒ‰ÒL^ÄI	š­É.íRù&	r¡,¿Úv8oœ¡/\¬FØ‰É×…Š=è2%5’/K
+ò…o¸öxç¦3z'…ùıŠrG•¤øÌkÒÀ?s4öHl21,şVù’¼Š `!l¿Å× ö Ä€ÂCp:…ôsL€^°lXèNt?9ß»àsĞòEîóê-/ êÁ£+!‚NMJ(°Ê–Ğ|áºö&:Ùø¨Ÿa+$*à¡ãûq5¶¨>çíÿ³º¿÷ŞC¤¶ñd'—}MbM}œoH°¹„¹ àu¸ÜÂœ²ªz qä™<j BÀ!~šäÈğ<5 JìrìXùÛA>ò=¾ÌT6X½¢‘<¹ NäÈ(ØgŸ:yı@VšàòD"7cCï§S=ìÑ†,z‰[Ñ’,j#ô—ŠX†¬`[c."OX}I,‚{rwGİAf(Ï“.ñCø¶¢
+§ei
+ü‚,*¥Ø lÑ}“(º'•h°æ¶?âóeÀ ¡Gš?BOÿƒ,ªÿ’EğJÊ2H‡_Šá—„jw>÷ş[çØ…Šs÷::Q/˜5 Êşå®	mxsU	CÛ}í<õãJEsÁm
+VÃ *Ãdå!õÉMå¤]«ÅÁšFBôà\£(·®Y`Ì‘üC²¬UóØ©²ñ¹5v”§Rù¥[`#`U«²/€Sù—j½Q­O´zu‚îIĞx§Wıj˜ÛÒ`."„Wˆ;êyÁMx°5SOª°±‡;€RŒÉ©^£ªHùœßÃ¸°šlšp˜âÅE5ÏÚÀp–o¸Jp¥N
+ôk"¢`I§¬âXm¡Eúkaù¯Z©#¥¡j¤Å	õW"'Ë! :_Bè‡ÎÜÓw·4Y€òêø¨lÈÊCç®-ÇëUOV%1iôWèÌşîïq¡k`¶UÉÆo]¢â¸|^â1tèO~M5b›4İh{äØ5gR‘¦Š—Mëiä#érxò8à¦Â
+8F~KñÄ1j»O0{r7´¾hm‚¶£jWÆ‡¸
+Z+IĞ¯<enøõJŒC’M©FQo—€ÆZêïÂìëQA‡İÕ„”æa÷jQ R<î“E¼Q€FÂû¦©é6ªS7³dğ´¾š·Ñ‘xH‹];^$5ß–o<9ÏÂ¦ Ö’V)´×	è,º›ãÙD3{è¾ª¯Ñó‚PUza˜ˆ³ şªx¡êw»UÈ*zÈ¡Zñ²[Ô*Ì{†¾‰¸+aÆV!—®šªÉ“L9áß}Àı	òŸ‚Æiî%4+uçGQwl]Œœ,U¾}[Uì†6ùª¬†vGÏöÁMpr–GK´~ÊZ½‹ä¹“&Ú{\œ^æ£B F^y­¨ş¯X{d·	.ôçRis¨ÙõÑ<xg8Ğûš\§\UæÎ†zb«æ/d?b;¦A¢î._!k†ğ^ºïC¶®¼¦ 2ô,;î™4¸Œçê°×±¤ô*1½a­*m. ßC€=0«^°ˆ¢"”ä‹”DºßDÙ”pºÕ§ÕOµÔRÎx¤®@È§
+ú¤°2œ%Ÿyg÷µ+ñ¥v¸Êê -wRes³«JÉÈŠ©áEÒÂkÑ°;YsWŠÌzC /úJ¿èV“à-¨tñ&Ü³ëç‚ñ±£q P&D7&¨h¦…ÊÀäD…TIQâP·MOò­Š6G#ğøi"eUùºæ™Ûvàò`‡¦8\ñÄ©®ñrDÙbÿ[å_£†Õê÷Ò6,8o‚6ŸÉU`*QNR}&áf¸–’kf_I`šäâèj?©ù§¦
+¿w} £>­F/4:!—×(†z;csÒ×À?ùƒ	ª4ÆÔ±>Y£+;“CÂtµ¸¯õØÕ~DŒÿ¼%Ÿ4¼÷½UéYÌ
+cd%³t œk!9À	CS*@Ë³kTªÒ‹©=Ko!!]‡V°„feyÁ?‚Zå´a%ûµñ4T£y(åWùÅ¨Ë¯"òŠŸ4çüP#r¯ÃÙ#²Ee;xlV§8—û}c5—à2aZµ{©68®3½iXnöÍÊ‘i±QÚ”,^XÄò‡Ä“|¯ÊàE³Ğ*\Iv^¯.Ù0òx¸Ş¶š·+Ú+jğ0b²@†|€$fÅ»$`ìÖ^YWC±€:lÿ’ëßPìÍˆxp½ ïÛŠU¡’äÏ¸äKó‰DI'wS‡¤Büe°…Dì’û‰t5Â+©D5å”ÑO6©Š…`ë?ö´ÂùÁZ³×úrª)É2”ÁJœ 
+àÏ²)ù×´*Ïã‹¬7)!ñ y)—·šM½ç]xPñùÀ°L5Šê7Ì²õ1Íœ©‡«{NkjòTs*ÈÁ¢¶ĞûU4BjáÔ?ƒ*Ä‚·¬™&TÔœ
+¸·l]ó¸ËPÃuÍïo²‘ïºPƒMŒk~“4£Æ>Ù<0Õ«~î2İ¨¿šÕFq9½Ù²­Nİƒ\Æ¢ÁÚ¥!"e™	½ İ8Cyd•˜kp
+ˆ%Ä*³Ó0\šyõ 3Ïõ¶ÛØ]ünî‡èü¨XÜ ª’…æà œSc>®—¢›,™5öµKÑ¦º“‡ÓpIîÈ¦¾ÜƒÈ8Õ¬j›«Í“£ÜJª0ñAd'¬ØLB‹Ğ¨ª}Ã…ó“Ê±4ùªq9VÈs4ıõÓ„fn¯¦ ğÆ]ñN8Ei<˜¸€‰[h3«)6Ğ¼OÄˆà!^>y•à£fıàPQ¼\ã¥`™ÚŸ²`f©RÃmT<àBsK»i­÷Ù64>–‚ÍœÖŸ,šI®¯Õ©1C)²»¥Dæ	}qtY˜˜ÁkvY¾Šj]a‚g4¾«ŠD¤A¼!Ä›Ğ$9S§°†jd_ÅÚˆÿjXFÒTR— ¨Õ¸îĞ€KR¹‰´#^A{âD‘Ô(àXaUÎ%‘îFmq5 J“•»	r°©UuS¶åÑ4,š,{"ç—æ&ğX2òéMÉ‚¤¹x§
+1b¦õºP«¸¯êW}ç!ÁW¯¸58©T4³Š¨=CŸÙd’!ZöWˆ½,&}êàv}SU½¯öÒìñjÔ¯o
+Hùœ|A~ƒ^Qs^€jİxRZÒª ÍŒz©QÃŸ„Œ.&ª—TéMsC˜æ{²_ƒŒ,”ø¢c¾Kßî!Š%-eğ`ìİ5¤~Yø`<e¼ÖñèËèb/ş±ş´×pn;;LÂm
+y¢m1é¼›ÎIx¬EÚİ ¡ÖP‰÷z˜ ğ´İÈ-D©FƒÈœNÉp·ÓcƒÖ¼éËÉ/ªÆ'È|jCh<;it<uøc©ÁÏBµÙÁ£Y/â{œ¥~ŠdÄ›×W§sØvÛCUg× ò;î•WS¶³N‚ÂˆÜœŠhšÃº_-E„~ä%´NQ‘QÌ1BÀØ-]âÙBeœf8MwY$WÖRÙ¬‰îVàÊ ğ€{I&TÏTÀk@¨}=få,÷7IÊIH<ˆ¦‰×SØ‰JÊ¯Ş†_‚ÎT?×KF»¬q‡Q¿ó7Ú]U›S¹šıèTÂs	’
+¨)ƒˆòT5ĞH‰<g‚I©„pš’cÔ|‰A©à8^Ë>ih
+¼o‹gjºB‡ÚŒâd‡õø&X ó c¾°Q‰Ü)CúY»t×ôç>0™oşZ³Áw[*€ÕÑljr@? ÓUî®¢üÀŠğd/Á±·×i¾‡¤buÂöî!/J9m…´›¶[5¶»0bâW—ı;TCşøÓ™šÜ¾.;ºçÙ@å$ÍC±`ônn‰r?’cCûBŞSĞlz»:OÖ
+º8iŠå£ß<ƒ­^b} ÆP­Ë·îx	şFÆZC}<¨®O”Ap·šÒšüán[:PwOÂÄ_ògär°ÕvŸÔÏ–wÕé‹ZŸP¸tò­È¶ ñ‚‘¾i7	Ç	ûÒœ€…h<B‚İiFKCî„À”ôæBæ?zQ‚µœqwÌİñô_£0„a	ØnÀ+£:˜8aÌ•í6@FìøM§/Jë„Æk[cÃUT¤IÍ‰•oÜÄQ/†!!jÖ¿/õóôHøfS—)@ÚAïcy¿‚ ÄdİwÓ%0¬k<h$±:éF.(wµwÕşÃ=„Fe¸–Œát‚	´x>KXÍ«= "mlJDUÊ<áß$`M •Ÿ.QD*À÷»”Ÿç™rôP<Š]òš/Gš<Šn$S1°ÕtîV54‚uğULÕX¿VaPĞ£w¿k—T÷Ğ@/Y´›LJtg–£í•ŠrU*Lb¯ÁÆùÜcr+£7#zè8!Ğ¿á–Wqà~aÕ7Âè®TüNœØ¹%á‚(Í¼ÃŞ1‚!ÔŒÔ±BÁb¾Š1(Zuëü±ŒdâéşºÂB¾¯åˆ+ôÎ×œC‹™zë¯\¿c¡!JhéhJí£ÁŒ×I„Jö:Õ@İâàYÔ´,%Í<HÓôê V”[ØèÎjMİºšÑõœ¹B€Ëhr€,¦ctXüLMØ(#ZPÁ	"ª!Ò½‰4©!Á†àƒÖ¬—"Ì'…íÌ¿RŞÍ~a>ğ‰ĞAH|˜?ŞÌ9Øä{A>+ú31êåÇ¥¶¡`½QP®7ŞßŞ¨Ã7ÁC®ïè5°z({–}`é$’Ô~ø#jhpù$—	ê}kpLLBLÌJ®s˜µN%Ë_ãê5À–¶$„øÀ@DASùÍUòŞ¾÷:ô¿RË}¸ât¤ğJ`jnºœ7½„×½ìuAß¥ãU §éH?IÜD®KXœMWÿNÚ7$¡–“ªÓd"ü•âÄ³íb# x`©ë[T	
+Â£¸ÉçõSÖ7ş&uRS÷Ë¸øÌC	¢KPšF6¿Sf!¡³¯+!2í+nR+ÄM“r!¨w…ë÷ıı7=¾pÚÔ/DCSoj_]±OÛşÇ5‘K5šsõ>&šUX®“^Ë;“Õº£ÚM¸"àÁ­ĞÈ[#ŒèU é:¢kÀœKÕ$ƒûÚ<eÍkšÕàQ1˜ÚYã$[ï?Ïy9üÆÀz(ŸUR,¤åùQ`ÙÖtº)• Yhºéè€*îöx?ât½†\B¾³Ñ®tÒ^¥i­¨ÎÕô{½‡{~í€öë)ìí¤‚}ÒC<S8=‡Î²7›Æ¹Œ˜í„\eÈÁ€‚÷wÉXX×$›¦ŸtL¯©)&º=œıœ*~z“PûšŞº)¸aĞßêñøÜt¼ÁLfš¡@DÀpÒvõ5¹‹¡UÅ®ipcäô ¬:D‘ €|l$<ªå‚ÜÛ;¨q¯>	°‹D#úÄ2ä{Œ&·¢aZ‚;’õ°€
+óH"4¡f A2Æ;`r*M‘î¢#°¥šcÖpEn‡(“•óàÁk[ÿ9K6Æ© ĞÀ1I’Ü¯*Áïà4óÚÁ‘BÙ¼şÉª
+MêYêìØÕD5P®“%lßÖèÍEhhm9j¥·pÿe²4ı.(SÓ˜*¢Ö:Ö_ÙÖF.©Ëˆü¯[RıµºòS$úß\É×êè©ƒ¡h½ê”4›ØA ãfiôW
+Df*ÉH+ît„!‘l$°u^~‡gÆ£Q#¡_ÿb¿¨vøÛA ,Bf¸Åç v¼a‘xã‡Œ&ûö<DÒ^â[åµrUúQƒ,©Î	¹€g…Wr'xaµ¼kılPC4}­‚PMÊÚ_Ïÿ©/îşÛ)w Jcc½¿PäÎ‹P÷š•²‹WÏ­Nß’æï½z¤õKßtÈ©ÈŠùFuÒ(½ƒÆÙp×•…·:I*øÆ¦©}fûNÎôÕÈfÂôá³=Éÿ!;P´3P	¹9y³|»Kù§¬'ı.Eù-UûUÒ]§»y ò­«Œ|W:¬*¶nM+€EUÈFU?ÊÚäÕ V	bZÓ¢À$R:ÏŸ&&¡¡¸Ñ‘0ÄĞ1[(|¹¤¶"=xà«Cc"‘:øÈÙ¬¹:…myİ \RJ—E»¡Œ¡9ëÈ'L:É_GıÒİOÜDh[ÁóßÏ>ĞÓ72RkÏw ÏYöª¿èé—•ŞTdØ¼ƒûÇ‰(â&AÑ,ø}ş®±ú±œ:Ö·Îò[Ú˜ á„w|@H³¢Ö4†QÍ A|G"-tƒ·Z'y/çu^SUÇ¦Õ$W¬şœi“HxÏ_“31àM3çor.®R¬ÓèÌı‘Ã©w$Êïüfä|×|Ë€tß_¼û¯S`î?¶dşóWG	)euÒ©ùª6¼Hs”n1PiHR3S]y:üÁ~eq$ãÉËĞ@>šgªTÿN)«f‘vTTšlQƒ¢àŠI=’oºCíAı<ŸSÕ$Ùœ¬’]PŠlõ†xoSyóiïG
+(»š©3euÖ¢F€2Hº9ìèR²Ğ‘*Şbñûyêåªç¹Ûû¹Ñt*_ûíÜŞØõ3_ƒk<.¼—SPG¦ƒkãh°[A"ş}Sı]|OeIrKÔñ=ÏÂgoûwĞ'©^uZL‘§EtÂD¸è€İ7Š§nì”å;ôZÕ%äjû9&/Â€Ó¨!—~½KÜ¾óu.a)ªs	;œQÇu" *Afı„‰¨O«³–êë Ü­¯á[¢‚ê¤Áw7,©qÑàòñmn®3:I˜BE|TíîpˆşüQÌŞ™U'ı/˜§Ib/¼ë/‰}?à9ç:° •ÊšàÌïÈ9©<éh/°e‚£5šó¼ ^L ®Eø‹—fÓF<àkV_†Hpš€HoB^¦¨h¯¦j±¢ÑNq!¼=YRé™$ú*ßv$Eø7Ñºc¹êñ@®ûbDâqB¤s²Y…Ö:…rj÷w2+¼Fe¿x©ßè¾^äà?ğ"ò;C .ö^®T…&@t„3ım²tÿ7£ÿ˜<u÷Î×¾SÊ*¹êÇõ”ŸSÊ%HJïß)eU	‡&%ºF<IM%ı¤ĞïçÚ8µ~zx(âîy¾kÂ›Vşiá¡>¡uãµğ’6¿ˆàT¶;â:Àt7	õ=š8Ô(†›²[ë_úD?•FêDÒ¥ª~ñÔ‰¦²˜ä~²HW«SÇ¾—¦šHm	M‡QÍƒ·®rvr:@Ø6Í|ôR4;‚{;ÖŞÀr?C$÷ß?Œ¥’aòë‡±Àæsùûa,äãæuV?«E2`í,
+H¶¶Š¶ed–ôŠ)ùÍ—78Jì{¾2/U¢ø8ÖQ®…CÃFªzA
+Üª3˜]7¯†IŞjÜTœ4H¾C4™­³'úÙ9e™¦:˜"¤F»ŠTCÜ¯QUà°ÏG?r…ÕhšñàU?ŒæşT*L©­ŸMq–û‚áZVÅí\Qæ#tĞ½½ãÈÊ êÿú9$l>Pï~I©N<ûïD¢ñ¥sv;ïä©k‹ÕÓK¦ŸƒH\^wÿFô({VQZ  …iCCPICC profile  xœ}‘=HÃ@Å_SÅ¢‡vâ¡:Y\´
+E¨Pj…VL.ı‚&IŠ‹£àZpğc±êàâ¬«ƒ« ~€¸NŠ.Râÿ’B‹ûñîŞãî 4*L5»Æ U³Œt".fs«bÏ+ˆ „>ÌHÌÔçR©$<Ç×=||½‹ñ,ïs~%o2À'Ï2İ°ˆ7ˆ§6-ó>q˜•$…øœxÔ ?r]vùsÑag†Lz8L,;Xî`V2TâIâ¨¢j”/d]V8oqV+5Öº'a0¯­,sæXÄR!£†2*°£U#ÅDšöãşˆãO‘K&WŒ¨B…äøÁÿàw·fabÜM
+ÆîÛşzvfİ¶¿m»yøŸ+­í¯6€éOÒëm-zl×mMŞ.w€Á']2$GòÓ
+àıŒ¾)„nŞ5··Ö>N€u•¼‘"e¯{¼;ĞÙÛ¿gZıı ªr½êÉ°û  ‹iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0-Exiv2">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:iptcExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/"
+    xmlns:GIMP="http://www.gimp.org/xmp/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+   xmpMM:DocumentID="gimp:docid:gimp:7561d4ee-d0e4-48bc-b9c7-487f0d0aaebb"
+   xmpMM:InstanceID="xmp.iid:0497f97f-8b75-4349-8718-a66d409e6c57"
+   xmpMM:OriginalDocumentID="xmp.did:c5d0d030-ca64-4867-84a3-8b7b6eeda6fb"
+   GIMP:API="2.0"
+   GIMP:Platform="Linux"
+   GIMP:TimeStamp="1756235685459829"
+   GIMP:Version="2.10.22"
+   dc:Format="image/png"
+   tiff:Orientation="1"
+   xmp:CreatorTool="GIMP 2.10">
+   <iptcExt:LocationCreated>
+    <rdf:Bag/>
+   </iptcExt:LocationCreated>
+   <iptcExt:LocationShown>
+    <rdf:Bag/>
+   </iptcExt:LocationShown>
+   <iptcExt:ArtworkOrObject>
+    <rdf:Bag/>
+   </iptcExt:ArtworkOrObject>
+   <iptcExt:RegistryId>
+    <rdf:Bag/>
+   </iptcExt:RegistryId>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:changed="/"
+      stEvt:instanceID="xmp.iid:b2459352-6faa-4102-ad5d-f28bf52dd6a2"
+      stEvt:softwareAgent="Gimp 2.10 (Linux)"
+      stEvt:when="+02:00"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <plus:ImageSupplier>
+    <rdf:Seq/>
+   </plus:ImageSupplier>
+   <plus:ImageCreator>
+    <rdf:Seq/>
+   </plus:ImageCreator>
+   <plus:CopyrightOwner>
+    <rdf:Seq/>
+   </plus:CopyrightOwner>
+   <plus:Licensor>
+    <rdf:Seq/>
+   </plus:Licensor>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>¿º£n   bKGD t    õıp   	pHYs  &  &6ôà»   tIMEé-7wp  ÁIDAThŞÕ™kP”×ÇÿgWSÁ•Mjâ%°‰mc©E­“Z¼Äi!éjh+–vÒ‰‰eFùPAÓfB3ÕÌPD‡¤Á—2VË2–à­è(¢q-™DPØåR¹»î{şıÅÙî.Å3s>œsŞËùç9Ïûœÿ+à£Bò MEQ1,ÂËIO°ÀJ ? 0aÀe@€Ë J üCÑ2.@H~ÀïüÜá°ûÕÖŞåíÛÕøê«*466¡ªêm6‰àà¹˜=ûE‚=ôz=tº'	à$€„ğÿ($ƒHæ‘”÷îıGæçç)K—.” èNõó›ÀŒŒ÷³ùºCJI’§IÎkˆu$Û::ÚeNÎ‡ŠV+è.À`õİwß–·oá ÙKòwc±›$¯^-wDD,’#Xóóó»İ&I$©µ=BòO$w|úéQi0Äk†ºnâÄ‰ˆíû:00°Oîîî	wïŞÕ=Y__?ä½ÉÉI25õ=ètGüJ!}m‰)%ÊV†ZÑ„„„Î’’’mmmÅ$‹«v»ıdEEÅ¥ŒŒŒN7¨E7Ë®®…d¯!Ö’dAÁ‘A!¢££¿¹xñâÕ¡&?T­««+İ¾}{Ë`ÏLJÚªØl}’ä;>q-’Ïø¢²òJ@xxÄ#~›’’r/99¹rÊ”)v/	F£ñÅøøøP›Í¦;|8[Ù²å-;€
+!näpWWgBLÌJ”—_SíÙ³§>))©R«Õr¤V?wîÜóQQQ‹ìv»êUUfºàœâÇ>S3àc·åÄ‰„Ø¹sg³¯   22ÒZPPP5°ÿı÷3 (Ê«$×ym’µ´ÜûÅsÏiì.³jÕª>£ÑXæ­;WvíÚµ$--íY×¾+W.ÉÅ‹—œBD{l’SÄ•••Á>`º©©©ÿöBJ)Eq+õÙºuëÍ9sæ¨BîñãÇ  Ê™„zìZ«ÅáŸ“ó¡jñññ_/_¾¼Ş£j4t×{wìØauíÛ·o¿¦¹¹‰ b½‰¶XjùÙgÿRlÜ¸±VÑ,QQQµûªªª `µ7 Ëª«ÕÇ­V‹ˆˆˆÆÑNƒôz}ÇêÕ«¿qí»uË KI
+OABjjjT6lè™>}zßXät‘‘‘í®í›7¯€?€çİq¦ÓUôaaaİc•aÏ;Wõ®ââ3RÀ,O,â MMfÅu`ÆŒ}c¢ÓéTQ±¹¹U(Š ZO]==°GˆÇ¨hœ‰fÏWÑ·µµM«Itww?¡ËOS«ÕöŸûİB|	 Ó§?£°Z­“Ç
+¤¶¶VçÚ^»6†Bh€VO]«F¯×«ŠŠŠl6›v,@ÎŸ?ÿ”k{Á‚E ğ @µ§ 7‚ƒCTMMM³ÙüÌhCTWWO5™L~j… pÍ“c?ˆ)88DL‚:Ïm3gÎ<¢¦„……@©7_ö“şş:¦¦îR­@fffÅb	-ˆ––ÿ½{÷ª+)é8C Èc!D3€SkÖ¨===bÿşıÉÑ‰ÄÙÙÙïÜ¹£'†M ğ¹¢Â«ƒ€¡¡/k¶m{[e•¬¬¬§õ¾†(..·{÷î u¶m`xøb€ì‘uËjj¾\2_;@òaiiiåŠ+ê}qùòå™111?èèèP½ßl¾®,XğJ5€—…Š·€·‚ƒ_’Ÿ|rXõˆ5kÖ|ÿÔ©S/ŒÂd2Í[·nİ#AAO±³³M£(½: Å$#•ƒvØí6¹}û¶Aå ´´´ÆÖÖV“§rPkk«)==½á)		oòæÍJ:ËaORùÁ`NtuuÊÄÄ_*ª…††:rssk,K©;zVnnnÍüùóHªGäÑ)xrF2	@aWWWtJJ2ÈTöB ..®gÙ²e÷gÍšÕ3mÚ4 Ü¿RCCÃäòòòiF£q²·Q/?ÿ#lÚôK!ø­‚ŞXeÉ¿÷õõÊììŠ/l ŒˆøtÏ2í·ÌA¯İŒ¤†äIÚoÜ¨pÄÅ½6bE>6ö5yız…£®ÎìpßÍÂä4 ,%i¶ÛmòÂ…2Ç–-=¶PbâfyñâÙş_	ÒnÍÊJ÷`Ï|ì3É7I~.¥¤ÕjQL¦ÓJff†³Äáç‡‡Öò÷‡\¿ş'JffºRRrZ±Zëç$,$CrÉ¿ÕÕİ¡gàã‘»Ù ¨%$÷‘4“t¤”
+{{Ûí½½ív)º”j’!¹ÒõåÎ?a,**ğæèÑ‡n–ã—	éH¾Bò§$7;«d¸SÁîŞ?“da¡g0Çå?„7gmÀüá±‡¹páŸ$ÙNò;ãÆh<î6Hzú®ş}8\I:$÷“ä‰ÇÜÉË;Ø4îô)’¾…Ş2Ãëloo#IÓ¸Ûúa†r3ƒáu¶¶¶¤•ä¼q­~#±ÌoÄºBè‡Í~Ç€­—.•áìÙó˜9s6lø¦NÖ àU!ÄíÇFÓ%™L²Í¹©%É’qïNÃÀ<Aò¥á¢Ó%U)1é2    IEND®B`‚
+------MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv----
+Content-Type: image/png
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gnu.org/graphics/heckert_gnu.transp.small.png
+
+‰PNG
+
+   IHDR   ‘      1Xêm  2İzTXtRaw profile type exif  xÚ­œi’9Dÿó}îËqÀÍln0ÇŸçŒTumm³u«K)¥¾Œ`€€Ã Ãÿüëşñ„Ğ|u¹´^G­ÿå‘G4şĞı÷?{¿Ÿßïïãç+ÿÃ÷]??ÿùVâkúşÚëÏç}ÿŸø¾*¿¿Ğúù‡ùÇùçúıOú¹QÒŠ"Ø??Jñû‡ğsûË×ÑÛïaş<ÁÏÏfà?§ßî/›´ïËŸÿÖÛ…û¤O
+Éó{Lñ[@ÒÅ%ãßcª|0¤ÂŸCjïûãg%äïìä·*÷ç]ùíOÚ•k¿)©~Ÿp|ãÆ¬¿}ıÛï‡ò÷ÆwÏÄ¿»sZ?Šü~kqıùq~ıwïîîŞó=åŠIëÏCızÄ÷'>81yz?Vù…'ã*¯ú5øÕŞ»Øòí—ŸüZa„È¶ÜÃn8ïë
+‹%æxbãkŒ+¦÷½Zq%ïØ¡¬_áÆ–FÚì`L‹íM|7ş¶–ğî;ŞíVèÜx>r§ßş¿şå…î•mCxÆ´g+Öå„,C;§ßùî/?*ÏÀ¿~ıùÚ×Ä–gæÎšŸß%f	?¾%?Jo£,|ıb-´ısLÄ½‹	‰ğç5øc;vöÇ¸P)ÇÉ„Râf•1'¢¥Åuo~¦…÷ÙXâ÷m0‹(©H2ö*løOË²’J.¥ÔÒJ/£XM5×RkmUàg-µÜJ«­µŞF³zî¥×Şzw}tq$À±Œ:Úèc3nj\Ùøiãf3Î4ó,³Î6ûÓî³ò*«®¶º[cÙ;mpb×İvßcÛ	W:ù”SO;ıŒcW»éæ[n½íö;®ı¶kÁ}Ûú—_ÿó]¿v-¾ÒÛo»Æ¶öëApR´gìXÌoÚ:jÏ|9G§­Óù‰ŠYeÑæì có	±ÜğÛŞısçş°o.çÿ×¾Å_;ç´uÿsÚº±sİ·¿Ùµ-^>¹·C
+CÕ'Âœn±ó‰8J	c/ ˆd\“qXg½+Ti—¶
+kÍÍÕb­Ì9<ø$î}m1ƒÖ¥a×
+P0¯o3×ë'Ñ´n[Æ´ƒ	ÇŞí¸rîª›Ÿãgø	À¹GØÀäv·Îb‰›Öxk<âİgq—z«c±ÓŒ¨Óí’²İ=–¾ä¶1fœƒeİ¹füåš:'fé$2ïòM ÷°…Áæ6ÂYwämñ¾†á[kÜ™YÛ²ŒéßLWÀ	ñïÜîÁì>[<2ÿLî·2»É–æ›òÍ!Íh3qÏqkÂgòí™Œ_KYH¹¯v¬!ÜÁZWåšã5ìs@¥–Îì©”¹;5B¸çÊt˜ı”5á-wÌ;6>Y7ë˜'†½cè†]i6ØJL9‹2VM§ÇÂŞŸ#an5Ni³ÜCîˆ†ç†¾úìıÆtï{¼yÌ£ ÛåM’œı¬³Ò)l5H“~‹¸{©|”H=}{Ö|¬ÊßĞv<6¶Âù„Û8„ —^X&µ+7KñøÔw	çEÉJÊà˜Óø@["+Øhİ€ÃáE¥—XÌP	‚P—+aNîºf…`µ|7Ô3l¶¾TbÛg‰Ø„Í˜¸ş`kÇ1›¯<C›•ˆ[«p¡Óvv2›D ±7k×1ÎÁÛHá
+ËZEíÉØQVÆCnÁÊán¸f·ñäò0k“C
+±{–¿g<|ºáqŒq¡}¦¿Âõ¯_ç6$´k{³¼äÍ–ÒÂqçYJĞz¸%¦]çNw\$â
+»XÎ³o’ÍîuO;+–çND™Í ì5 ˜n:€kãUe1AN6›„|G	¸bY¬8ßÇ·Äƒ‚>ˆšZ15m–µÛ)ºêÉ	x0\ôØ­^ĞGDˆÀPÄÃc½¬oô›öš€ØìX.h÷;&Í;áó0Ÿ Ç8l¼juŸWà–¡ùJäóÎ2Ù;0ƒÀ®¬~ÇÓî“¬—Úïû°2ÒÅ‘`Rşò [œÎæ¹PÅM jÀ|:èŒS#ÆÂûÜğã¶IXÓĞ:°Ù:n0Ügó¬)ò l æ¸ç}sıe¶Mo<'TÛw&L"^z´Ñ€ !ŸçXC6vhõÌQÀ›S}t\û´9€ÌDÌ©¹c1#a’°=« öa\.³í”Á+sésº	_n~pÕFîÚ¤½Ã=ûº&lÄ™
+h~ÆNê`eÚô°Ğ,à»‹ğTTWÀÏÈ~ Ô_=ŸÇ¼k®†gv:Yg²×u\’7éÁH%Ê~Ğ
+dôFãn­ğĞWpAD•˜§ÇÊçƒ´:ˆF¿ÒÄ	"…o!ö`cB.ÒÛ‘äÀcøİ,ì²á%$Ÿ‹oÂáùù6à.˜ âêTİc A‡Ôc,{;ãH%H•vÁ€ÃÎwà \¡Î¾¤JòÑØ9¯uCù‰yÏ–XÍ
+é½®c½âşW däg€¯¸7Ú¤pÙ½Â@’ñ!²&nAzÍ,®[“±qw¸T·|¼µì»BˆÔÖ‚"·éò¢s“¦6ùÒïT‘ [ëVû^‹èK£ ÖN@¦ŸÃõy4›Ó™J¡ :¼À2L‰oŒ¿C< HVr2ÓİVIÀ‡[8ëºe—ä&Wù[V«"bu<‰è/Àk¾"¬/–5Èıx)òV$ØfT>Xio’+ÁO Ù¶‡dÒÂêJ²lV³¸I¾ƒì}áÙzêq‰=¹¬TÔš—˜ö so†¶ÔÊ»ŠKÀıæâYñY<w»‚
+ƒ¥-LßÄgˆÅ“*I‘°ïÀ?ûGlòì§$gæÕUü[¶¬‘(ıpp©ÂİîL7ò¤Ğ0–·AÎ˜õXãí Ì ÃVåÊV +ÆÃ·¦¼†Î©	a‰¬†WñØ~Èí¡g<+pÖláÈ¡ÀÈœN²&û”qæ­İñÄl÷5€UPé~Eæ §…–“^,Õ;•E¦ØÅÚ¥m2¢F›Æva$˜¡0ô¾üı×`¤É}BŠˆM"8óexÂU ÖæzŒÈnKÒ‚å&ßDóg¨ıÌÄ* ˜ƒûôG"ğä£Ÿ$7ñÜÈ¼a“Qó÷­Òº 6øN‰$<³;Pwá<.,$Yà?”
+‹¸>{ª„ø›Âò¼İ›nÉ¾„ªCº.®PFr&,…‹£Ùs>–²L»NTŒ!†-ã¿ˆ	à•‘Bg,ğ2;ˆ	>56Ÿ…AgÊÚ ğp\|"„êj)£Zìl‘2Ğç#=ì¶Ã³3´Ÿ¼;@¼ñÊH¡ÜÃ­Y„º:Á$ùYuİĞ\ı4OXAR»»1”Cš\Ø_AmÈì41DÑºöJemOVVA¸HH#Ü6VpD‘YŠg²<P@pÒ\VT„/#_Ÿ_]†§òÚŸÖ€n‰•le7×X¸Á)ö, 6¾.BÌ‚XéÂU¸hMæ!ÿ'?±}Äz‡¤µàÇ€¤¤:"°W
+ !ŒX¶JŠBd°gÊn½‚El6"ª´ÛÒw@¾ÃëIqChš[µ¨èP·ØÁp]tåäAxB2 ¶Ë xAâ1šÏÜ)*šÎK<éND+3ŒTB€¨ Ñ ¥ÏAH)¸‘J%…â­¨a}Ã¡}`q+wâƒh-‚=‘O	sxa_4‰|ç°"-˜9›A-!NwÇ	#?Â®`s-âÉ™|´§2Ò.½3Ÿ—wD#ø¤d×T«˜  	‘ìá„ˆã0d®‹±½(T(¡:–Ç¨X˜_–¾“4T*Ã«w‚)Àş~´“û$îávA„ÇåáúfGIáxIªª	X>Xw
+;=D¾¬ğvRFÀ»‘È 4šÜ?œé$<Ğ>ÒĞª%jNº ª¤É’læÁÖ¨Tì~x	Ş&È´8„tW!À„¦(qÄ¬@·HÊ‘ğ
+ÊöÃÖV‰~Ü÷x´êÆİ&Á*y!’j»‚¤H8#d*ÿ"lƒ„ömBF;å¡òs±k¨L~ 6•cf `{öræ@Š (e’ÈcL­w{·Gà({z®áìEŒE­	;ãW¥ƒ`0ÊšDè	Aƒ&6©@k*qIí„ôi{tÊŠ%pâT} pWØE@§Vr[f¡ĞTPŒP+@·õuš;PÜ†ëá?Ğä	)¹Z$ã¶×`o¤à2*ü ¢*?®0åN~¬SyHW ~€Õ„„!ğl'Êt§v"Ù’oD@"H4 ô¸ÿŠlĞ€±-!&ahT8ÔÁÊ’»4¨Òa÷›q	Ü€`…‚¬aC\å³8?Y ˜¢<ƒÄòlƒá‹õÊÏ|êä¨ €C‚åè9HÙœ²ñm¨#´ÃR-/Á¦«äB.Ğ-’4¡Ò0vò'VRã–ewq¿çlPÂÎ£5Á¦Ü‚Ïª°6T: ù@À=-„˜YH¨ïNèÁÕH–Ìp8±v½°Äu}ìÛ	ºoe•^:G6ó¿íÚ?,v ø*˜|e¨<ÒElŒÜÔÄ6îD‚ÁmÃæ’$3í‚¡ÅË ,H­QÕ¸üÍ“‘0¬ÃïZúV5ğåQò†ë(ÏƒW…³	šŠ8	;í‡Â^a&lêSåšâ j öÈÑnkLØ<·R)$TøÔy… >€Š¨ƒëfFÕĞÀOx‹ ÖòQ„mÇ¬x<°I5éùPRoé=HÜ*”Í‹Gã,…¸A:OBi_—‰,ü­GÂ•9M„Z3R`&ˆÍ²ç)#5·àibª@ÃØ¹[`@)ÎzÃ u©Å‚<TPM„«àZöJ°a(m<ÂW-î½ÀËHşNå¬%+>•?bÄ±»uÃ–Ñ@-r¿êhºƒßN?º‡lOh:úğ‡ƒ' ^FÅ\ƒâêÎŒ3EĞúJ>m¢ÙY ‚&şaÇb¶ =¨
+=~µ®Òærç@;©íÚ”îÁ€P¡ÆŸÒ$+^@Kâj;j9RMë¸ôö„Õ{›,æÌ²s‰‹@¨î¡Ö
+yó«~“5Ë@$‡^ û£‚ÿW©RNòá¹ä•éR`aah¤˜,^ÔÁ-I;x]•ÄLÁAùQM¬w„á¾¸5Ù ±‚R}{µ‡5“ú¤ğáÈª,0íkyW±¬ ]´ 
+Íó‰'©°ŠÁ5AÅÁzx<yÁR¤-6ápÉ•&â)šm˜âÊ(/îE`k µ^Ä‚1Ç°y|t,Éå*CPÊq‘¤İQ®VÜ²ÚáWİœu«âBh…‹7"K@x\pË¸À¦s}=n*o%MÂna±,¬uxJØvÛ(ÊQÅmUÒ`{=±nVN†àÅ2'@şŠ†í÷‚»²5´µ]^ul‚,&NUı¼ĞSädR%‚^.fVQ½¬­'\á©EUnSõÂ*~ÅïŸWb€òµ†Ş­$åÓ"Ì_•}SüĞ¬š@Ô%Q ÃÄ1Çğ5‚ı("q*œÄ…,5YĞaT•ÆAäÌ\6§@«Db¾ vRnB3”¥¬.U4lÀ¶©(A€ì<Ì}ß©”‡Ë¯k!(µauÄé#PÜ[3À¶ºŞ¨‹¦âÇÎ*‚ºñÃ›Ü´İFwPS°­äU1…‰|È¢½\¬ñ’E‰+$5HíŠd$`	á‰-¹
+ÜºáX)ÖÉAÜDî_Ô•T>#‘s!…m5ôšÊ•<5R z;¬B,pè±Šxƒü9Eqºvô 4R{[-"eD Ò­ãÙ§±O<¨@ß¡8Z•28A@W,¤J|ÑDì´JÔËUÂ¶*Lœ‡"†şĞ'\ÂëWG†ç‘ÕÓ«CpA¼=HAÜ¼)ï®–$Dzb¸)F œŸ(¬µ	¶£…H±øòDTªÿô˜Je"Tg×0/"kÛˆî¸.%ã–Ş'€»FUõf…ì/E=ŞNxRÌPw
+£6¯3@´H}$+}sç&Í ,ó® ˜,£xšÉ5vÕM"key´ãD“t›#!¤T|nĞPìAÅj±'JæÆğG•)ğe#‰•cHq«²ËÃ²¬ìXò°n¸j,B.È#ßéé‘xŠ Uüı]ä,‡‰5ş½“ü¼Å™©Ø¦*0É,¨D†'ëªlr»¥ş&*zÂ"‘~²
+˜VT9š'fn! P]q³±çHîí3¡PZëKøÕUÅö‚:V,“³=Â)f¶Np½ NIï³s2_&(Ï½P8ÜEv!40~8ıB°ù81ÛVQ€ƒ"_rmµİàÈö$ÑÃÚ¹@Q'æiâ&™Q,AÂĞşØS%È6Ô¬àüjŠsQôôü~Uÿ‹ÕS»ó‰M*.…&ÒMƒäu¤\|¯Çü?¸É:LQ^0ÑQ	’”anäb¾l¼(µ×{(¨^6ÑpŞ‹’vq¤…¤\d:ÃRËVãï×($¼ä;ryª±‡'ÉúÄ’¦ëS}3I”
+øÇ¥‚Ê˜xq:*8Õ†A æ¦†Ô
+€Ç±M¢²‘…@2éş¡öÁÁ*Ø™Q'”Lğpğ¶Ö3˜‹ša±…ß²Šf5òño¹F/Í©à‰ø…Q¡÷‰piA‰3b2ëîê&5|LÅDÖi›ª¬Oh'îxtß‰õáÏlTo™€ZªÇOX„IÎã	IŠëª<»g Ò’JşödB·¥¶ªQ8ä“F-?(,µ© p"Vº5gÁrUeäÄÅ6I/Û Œüà:C^ÂTñ[âQ  İ’¡ †FKĞ§BıÒ [ ­Ğ¡ô—4qwòô¬?$èSŸ—UI‡ ŞäfË¹Èƒ&IB|th†ò;?äğZõĞ— oìÂC»ÊtX\€şòdĞâÃóŸ¨±°Š¢ Ø~›—ƒZ®İŠjwÈ¢§øÂcc¤ıójÖä{´'ØÉğ¯3³´àAÆf›“ …{QÜD[ÿiP`«ÙÎ,¬ÉHN ·Ú‚ƒÇÖšJåäòîsd+-;ˆK‚'´pl@lB´I}Hò™´a´ËC&pœèL 4€â’šƒl•U`"ƒôÀP©iØ#
+$¢ÎÛ7Šx2Aía¶~ª p5¯±ÔZrfĞ¿úqÙLmµd ª¤\}†¨FÌè©ˆs<¶|–Û<Hmn.Õä)¸A10GÍA¼O-•y•Ã|S] IªùBâäO²·T<q^:.ˆÁ¬lÏWUùê¡‚§Q íUdˆq`@ î ŸH	‚®{Ôì6mk*/T¨9)£H=`)è}>)ª™ÔıA7‰Ù=H G£F	ÒŠª8Gri©MĞX‘Jşj¯lÖû„)rÑ²	Ş&‡iÀ8ÂŠ PS¯;öÀN ×ÉSÔoÆ 5Íb¾
+²,ÓfA®
+ùu&Ü‚s€=µÇı^Ù|(s°G5íÓ#“üIàè·Jê*iÀk	€¨jˆo¤n…T¿å5Ôa#Qâ4Ÿ*Ñ¬½4Ó!?a;à&àGQ½œï¨$¶,`?P%H‰-ğì–Qi[RÊªNÁ¸ıÛæ´aÚŸœ/yŞuM> dÑ’Ğ:)~ï5f‚Xà¶µ	¥À78Qšv#Ä§æ¤ úª‘^µèA´Ü5/w	4õEº¦‹^¹Âò£Tè½3àqDÿ:Ü9h|j«?Êv`ä÷5¬áÊjË³¬¨ÀÇ¹*+4?ƒ4ÖÀ3µ0MĞÈ™]„ƒìØëßÑH`6hê¿^YOêrôZD5ÚÜ˜Æ¯Š	œ;¨H¢fìÔôK q¥1Ñq§ÈIÉó¬Œç%­«[¯¢7â
+2Ë’4ağ@M ğ‡OÃ²T~ËÓ–ºD CC#³4«eŸ’ãˆ¨3ÏJªcÌË¼:5¸YE @áğ(ò(Xâ`[„_l",äK€%NÍÁT’á¬Àºa”øZ
+ÚY9K3B_tÂ{&.«¨€á86èƒ;…üÊÃˆP£D…9UÃ0?™îB0&$ ÅšµªÔX(4²D´º—„!“\Ú‡M*5‘C4F ”VÜl€O´¥dıº>«ç_ª+‰tåÔÌ^‰+À@äJæhY=õXU c4!P‡bK)Í¡ÀPäy^ıÈg¨ş©OhAaÑÁ0œéÆ.zvo~®)Êv} ^2?0ÔèÉŠ’ˆTB\•k¨iğ&ŠTfÀ¸q4şF.qHxá¹*¾K’‰zÀ]“,ÈÔˆ„†n¦´q­ø¹”P!óå2Uƒ–@„dÂQIİŞ…;yW¡MP~Ø:¼%t #Èê±£ò*ÏH¤+T…ù@Ü (oÄìÜ\âDcñå¯Öäñ9RÓ«ëH”DxŞ“5È\6ì	xW)*ÆC`¤±a| a0a©ÀÓßğÀ6’¡ŞÂT…XCrjÜTã‚ËÁÜH òlbz¼–Ë›7Ø™ÉW‰8ÚÍÒY¸âĞüÜ*^XVŞ•o%:ğ„”íI• 8w!Fut@`—İ!clÿ
+cöÉÙ@…W÷÷ÍäYP‡2ª1ƒ[Äz³4 Šağ¾‘%©5YBAíâ”V¹ÀWAg—ÈìM);¿‚¦šdï¢¢‰¡ {¸^&5@0‹ºò*|®¬½Êş‹}O8	ã¦téœª@°¨£ÑúPUoäçµôæy¤â‚v-,‡òUÊSZ5^#}q²†SgŒ b©>¨¼ˆpm8¹r‰‡'­ÀŠÚR¯fY0]qy½şŒi)fµ m—E¢4ö†³i˜dL°ÙÃ&ñÄêæ,íë® MŞ/ş9%¦&,~ÍsÀQö‚Kô‚
+M´¾Lúõšú9
+g^õ’"–%ÁäàpÁ»ÑOwƒİèp‘0æÀKéåã~_LS£<QEbUE”ÇÁn„©sòI	 ïô ãK]qâu½RyÒ0_dÃA‰76F:†µ“›rÇ‚ª³MÕ¨I*8€:Şïôˆ¨µ‚ü+g£@Ø¬!æ&G;ª€ˆÚ©ªC‚¬¶L°nµ«°;(ÅiVÂÇ^ä¢—ÂÉé6•òı+zjˆ‘ÆÖÇILïL8!ánƒÚ®o^Gõ‚£Ù2°Z:æ5¼%Z›ªXÍT>Î	,äÖª#RnŠ	¾yQ4¹U«¼< Úi
+P%ïE1@²p3¬dÍ¡iŞ¬pÓ ÊÅ©Èİr'òèÜdé„$Æ1#”K×kã"A”ÃBCN^
+¼=æâ$'œT#KŒ±‚š€B\¥õ‚>2M=û8?|_s)ğ.ƒàä"u¾IzZCf956åªsRßT&àì_“¾,u'¡©1d]Pø“ƒ§†ñ¶Ïw
+¨Ç²æ`ÿ#©ŒC;ÁzU¸ÚX|$‘Ö=Iq”< od£T š2„bWu‘Ì!€b3¼TĞIS©¨iÚUFŠ:å/š²ÍG¢òSâçÇXÓ9ô"ƒSÃg+H¾	õÅRÛ¢ÔÁåVW]ñ}0O…F9BG}©P“u0®ô„œfœ4&
+üu¸`¶ú–cMR3 «©©ÀuóQÒ¼¦œPüªÖ|‰ÀŞ¨8–½!hjA"Då¬8ÕÄ©CÄé`f “*°Îd0¢iŠU¥¡s%Ü„ó™“Ÿ -QíR,â*{5c+ÂPLY'Â­¾”\l8:Í!àzbnMá±Û8>×·×÷æ5¢ˆÈÍ:Êµª®kê†i4y©¡®h\€·wiX¶Ç#MA=Ø6	ÄØ42%*&O™d~:agqƒèµ£êDKBâFš7ğ¡)P÷Ë:GYG#¥®Ísc15P
+z@Êb%¯y´äŸ8™š‚‡êQµ†Ïf%3–%;¢—:¶»A‚ÖA-.¯©úóM‰©«¥y©«s¤¼…³hhÂ¬;¿ÚÜŞƒiği@Šßl§Ssªºº@S6–¸IÃb—4Í9I,¦®³â¦±ûj•+š"½'´u˜¯l‚éáºb~6tÃ£J%„æ€wu4C†e“Ô©ÄzY'  C˜ıHŠõóŞä&İ¯…€ˆQ"­ó¹kW[6nî ¾PpLõ¾Ô~„£tªàzª`ç`“F“Æ+4°˜5øyœŠkí\p›¿ÆO…¶Pò(úw®0âMÖD–”–æ8‰¶”`”ºVË±—j¨'ƒi0-¢ŒÕfÉEİ÷85ÿl#…6Ôy¨šÂ¾¯‚º¦¾B=×ÅpEÑldìR3Ø6oõš¥™‡¼¦zèQ~;ò¸!÷Ù`´CİY6ÿ\¾‰8#¦&íLM\`&/ œœŠİä8Ø±TÇGÈ^c°tù5ÿ„ÅPïbÄ;å¦É!vE[oÛA:Óšc0,­#Ë"TŞ€ªá¶úÆ¨qO( qĞ‚ÅE¦¸B÷£,< ëHdš_RÅKOêH	lğuTÄ`lêlj¤ y
+\ó—= *LğLXé˜AÉT{xM³VpŞ¡© <ÕÜÊê"”’1©"¸.øÄ×p'à‰óá&;¼‰ÌÖ‚P!8V«Ræi,q-9D¡0¹V†l	Æ
+Ôèâv«D*@J®Zº²+ˆªVlm˜áô–ÔæÉÜ<}©c)	„,~Cè°,Û2*ÅWfL$OlwQRrÚ¢	›Tûbèœ¢¸Q¤Çõ2å<KMÈ:ØjÄMÿÃ”gıäET0Ù<CUi©·M “¡é:‚‘½%¬âF]jS±ÜÁÍMñÓäß9ª%"@Á”Cµg5 —Ÿ¦˜À®U²X‹Õ^´wI:„ù&«si¢™ÌoÜÑ«\ƒ	µª -^k¹:rƒÊe5Bòª#Â?éÈ“¡Êc2[õæÖ‹•¬Ó8YÒ<ˆ;U_Ç4X¥„*¢¶è™_*ŞmÔmGt”9ŠˆD¢’àIƒm~7­’hÕãX÷•ßfT5‹ïo Âkg¨C…ƒ#<`†"Ş^£z “[}²šf0¸†’‘ãtMğâtüÄ–ò%{ãš´Ñ)? UÈåôVlW‰ÄïlšfFĞ×XØÇwÖŸâJUƒ|Kç`Rù 'üB¢ …ŒççÓ‚—Ëd[8wÍèè:ø€=¼ ëŒ K#¨·¨eš—*‚Aù¦‚÷j‰õz¹@ Ša«›[z¢bi´kÚp;£$ÚZùÄ¬ì8à„şÇF&-/=X6JvÅÉ2¦oZ©ˆdÖõsÔçSR9RUXÜ~†ûk¨Ø4¿Îõ]É@t^dÕıMãŸ•[¸Ò¯“Cå1Ípcßª.:Lx: ÍéFXgCš‹àiUÜJˆ)/½ UYiªŒ(ç:ıÍeé¢JÍ„ªI¯D’Çùª…ÜôÊ
+…-ª"fÓJ¿‚—y#*øá	|Ük½<Ñú›S*-¢šÎ[ÃAº†¤Şm,šºíDõ±×ÖıŸâôğ#î>‹°®B`ù°ÜÜëgÕàìù•tÃ×q¢"ÏS«BÖÁ¶íê(;81|C'=ƒ¬IB†l&{iÂº*bŒŞÇ§ ØLH^… EŞ’Í#I^¹Zh’WA?e‹Ã@:Öƒ-,‘w´7ˆı
+I8‹ÊÓ4b79—&J˜]íP|µƒ‰š%3™‡S•™v@NÌN§ôdi6.ªÇ£^4}2Ô$›mK…„>ÉÒ¬‰¾Õø8Q‡™DÅÔĞ"yX…¡—ó>¬,¡’ ÉÓ~tlüÃWVÂÈâV°Œ\F5ÉâˆğË,T3Œ`ëªÊõ Qõ_a_ÓIûïiL¼8¨ì„š5tÿ4nc3œ“1ÉÏõ(© Ñ'ÄP >ÖÓö«}A±Ñøl•FÇE\$1ı†²|½ˆßƒèIzÏÃæ¶™O%çª[4Ÿ'³4s05Ã^Õ‡®½ó|$,	İ«:ˆ*”K6å¦ùêï	uïuüŒåõˆu4+DˆâıLVÔˆÌZucr zÕ«ØlGÄ®yõÁâ/\ÒCv A©ÆuÏÆ¥EËH lÉÔÎBé×±¾ñTtP)ó¬¹Õîê`8¡eÊØŸâÓ®ÁŠ¶fO41®ù›Ä‡4lØßşû­:XKLcò1BQ‘½°é$1±fr¾•ÃÓK´Ññ' á4Q ƒE&:ŒT¸zÉO[Ø#œÇ§r‡:‘—¦Uëy*k/bM”GBš<¥SÕD#dÜO¤®’TÜgs!e­ƒS“\bÇ ;‘¸&©ÿAM.çd¿ÕÚXhè¤iÛ:†8^äÙá>*,²^2rq€ÜÖ´İĞLşèÍ¢ó’&¨&”KÔ±Zô­ÚşKÄ‡º‰À·‘k(ğ>$=^LÒ»*b7´°ÎÕ-öş°‘GYGsµ"Ğ â†±ÇÕWÛb•XQE¦AšJ¹:üUšš¬Œj´v«`y7òœ4OÊFåBWW«.­Ñ$7lã9b]>Á‡¶¦Åb6UÑoù*?hlj±qN‡@PY&Ğ –ÎÒV ¯?†`;¸µÜŒ,ÏİEÇ¬ˆüozœ²x»ógÃCãU|+5¬®)©*B é|M8L(©WUx¨ÑøãAY÷×“³“D
+®€Äp%dTøTC¢O#)£Å_k@‰<·7R ]ˆNÎÔÿÑøf×¼i˜Ià6ˆŠª)Ä£#î\9<Ú¶Õ½+«À¿FğE•LŒËUW]†HøßëÛ‹ÍÌà¡´pÆØôÍ'Gùä"ÉtÄ$æ«c‘à-äC2ÚUşÑ! ócç§ŸÜU'PUæSÃ?iœr.V:B™½cÿÒ„P¨j;êœ/9C$¦wL‰É«p	şŸ«ö<ô@CÉ×©Òñj $Ä/kĞ[ T““©Œ£½+“åi•i0?ó*Ó:Ÿ†$iÚ \™·T…¨í„ğ92ËU#ªiÌ7‘ÏÅŸûL%~ıš­†Ÿä8aâÈ°šñT9€¥ußPÙmÖ(*‹„)éŸ'/:õãJ‚‰±ît5âáĞ‚Qe#Öûr—ˆX'j¦N‡®42@ÀŸšLİ‘&Í¨" £:ÒÑ_²g\õ]4¡Ch,"K3X«~'Z‰tœ·Rı¦kXbPâ‰†R9âÏƒyWÎœtk2°™Nå¾· ¯5¯©±´ƒwŠdõoTéQ¡À³«fkÆ¯Ù9®qu	¶Ô>bıW3(,@õqB–ô–ØYäøĞI@°šVÆÕ4V««®ZD] 7{Û®ëÕG©Å¦ñ¬ÓˆJ9S±u®Ñ	§·æƒ–.‚Ã–T¬£AQ¯Ê£Šdš­X6Í0©¶|ú}ó“êC’PÙì1n,çÕû2Ìx:øO ó[Aà”ú˜[V¹TµaßrZßˆQ{óä¨*½yK]£åj¢éXğ’> ¹ZR{v­7w è¢¾š£Ïêjù·®0{Š¦”WH‚Äz41ø+.Í®æïÀI-pf®5¥D5&Ân.r\ıÎK­»TãSq³“ÿŠ(˜^p¡¦,2Xc{~©ãÔt¦¨°û;ÉWuğÁ½Š™;n’ÈÖQZËÒÎÕÙ|(š‰S5¾Ş7V’ğÖ˜òó}å3§Î¡Î\ƒü‰û¬‰ ãgMgê¿³¿|U]Oíêê¬·×Ÿ&4UË|nª€á¼zè9›5x‚UŒ^ûÒ@ºÌªÆr«kWNi„­{€MçÔŸ¾8zÁŠÎƒb½zîÂ…Î…Yê³J8ÍÕeÕÑ¶zW:f†÷ëDO8Q€ï­ôŸúF ôrX${ÔGC€#àÂOóhĞ„!ÉÑt y£ƒèì#kC¯ºÛ* ¢CBª˜$P’¾7J ÆBqCg7øØU›^§$†
+]AS.j”è¼@ŠQÒ¾'ÕUwQãIšĞ¤6?µœˆ”FGPq¬9¶
+Mr…—P‰Ñ«†ØÔà·ÜÑé§}TyKEQÕ É8¦ZM]NÃäÙ¾)ñ¢Z†0->Şø¿ª²À6êÏä;V&¨ŞË£àG1©²w¿	RÔ	D¼¶í+ê±AÿˆS5ÊÊ4S´Ø­$u6d©¹:Â	N3·|,µo½íB…¿93ü­kOê;ƒ¡~—„ùGÀKËøÂšA@ÄrÔñTÁÔp:yG\8gà¿éLw‡âP-WàøÑHÃ>Øİ8(ˆ—†ÏÔ«<‚XØØu‚LLe%ÿ¨qƒô°XÖ:¾×í,†wê¾:IÖ‡~ôÌºª^z”Ô2Õ™Q•Áo‘Ó‚LŠI÷Ş:r¬1C¯×ñ}xíğ¼àéÙp£•Œ6ø¶0Û:ÕS±ÄÓôs¢aú$
+¼©×S’±æçI$EUæ×yLÃÛ_5äßuÿú		jÁ€zÓ±ƒ•CÈ =¹xÒÁ €oi|á½I§ê8z“KÖ)RùÆ ×€ó‰Ø-IÍ/½¯àßé°¼º Có‰òı¬ :—bw½fŸCæßV·4“uF„ï×®ƒ5í´#1–ÖÃOûB¾{ù!Cì:¶Ğd½%ä$LäÎÑ¹4âÓìàh–œöºPy,•åBëÊ¿'uº&¨^qpAï°õy¯MšJPœª,É6&/èÀuTéâıƒ$§¢¼"'œ=êız§pq~{B„fÑKå‚iØX¯Ø)añ/>p¡õîMï¿–ºTÚ¢ÑØ=ô$ªOŞ08ş‹ü•T^ ğ5Á¥c[f˜®3é¤OœĞ(UU½ IÃ»G'¹ßùœ¢ŠšW—b}gö°ê’ì£¦xÅÑcı æuò‚4O ½sĞº‘‡şüÕıwxï0o^»dÔau5!pªÕé-—C3Z1ßÕÁ7â'’ô‰ùsˆ)iKò¤ém%=t¯î!‹í*eÇ­·+)¸ªI}Ü]Ë[';†Ê¼ÇçÜtÔW3T:nUàºz+ŒÀÂQ1VS©HÚ÷³‚›í°õ:7$Ş{.ÊÏ¶ët¸­–¿Â«æ(yVóŞÆp«&#<Ğ¸<ŒÀŸKÄ‹õ%‰3¨Şğ”´ÿ^c V”Î¯vH&zïÕKñ¤*7ÔlRÏª0Á¢L`YzáŞè¡¡f$IZolI/TÁSo¤a½]Å¢â‚*d›Í'•Å^º¦åÉ”xq¤A¯c„Ó`ŸÄê=Gó£æ,Mc°û†ìUŸÇKÕó pâ¼.oèDR‹2ª&¥Wô÷²‚¸ô2›¤ÂÉî;åDT÷'–4”Êêı·‚ˆÔ;”0%|/áĞ´Oƒ8ä2”%FPëv‘×V:]e<æøŸùğßuùpãU2è[oŒ‹$x¥V7‰^• nyĞ¹t½4Õ®s›ĞãH©:+s5Cq/´I4šá5pÚ×©i=Ò%A}õşişÓ~N)C,(é¿é?)¨$FÈ•@êÄ‡teq‡'Ñ]•â‡ÊÆªWMEÔ¡ÔûØÀ<¯‰L½î¨&a†4êÍ›:f©fhÖéá9pg ³4ñy5…ó”R5»EÍ¨óJè„%6Ÿ75‡Tv~ïzŒåjÍ*CèhÁPzTœ¼ÌF:.‹ªN  êLCskÆ¼;©pšÉ©X¤wF t½7ö-`è`@¼&ùùBc6óUĞjh^b-U±».ş¯arë¯LóŞÇd»]§ªĞó^öRì(wá¶K§s%ºªx­AõT]Ş(÷R‘ ÷âif?Ü;7sŞ+©üï5`äf 	E
+D«G£É½ ©B=c×9l¯W £ÊIš–zm1S@réªßßÀ²„ìUZøåˆ‹&6ÔN»r+²áü«s»ÿGTüØO×‘s½İ„Gf[¡äbT$UË™¢ˆE/ôÓÉ€Coâ0é…±.±O· +zÍë¨æ©˜0>@PkzPMSuÒùE¸KWå1ÙoY«éMS¡K!d±1RÔkÌò{%“šHjğM 	€´=uŒ;k6Î·Qğ²¬*A·õïÂÈZMašk 9 t¤QÉ(äV“4-@Ü·©É$½ÔNOfz¿'ÖÕv_»8B6E2êu)ê´wbpğP:;Š,Sw­¨¬WÔÌÖ;›`™Ä¢)‚÷Š/ƒGm¾sI¯ph;u•v‘ó;N¿E5Ò{æ®Ë¿7YÓ,GÍ izƒËïG<h¼4k§·ˆM-[¯aĞ;ä–Ş¨‘yJWï€‚Õ™TyËj²Èù¡åÉî¢—»qÔŞÓ{Ó`Æ~ÿo½Éıßİ±ªsÕ«HâıÆŒ‰yr”û8¯@Ti0!#´>ñìRáBPCGÁÈÿ¦çFŒòhU“›ï½`:[Réƒı$=: ëE8äšMb>snÂüzÁ¦^ŞÊÕbn½³ëâ­µöMgÄˆ½PnÈÕM”÷¿yØOĞşÛ/DâºÀ½wÿeã»¿¢$  „iCCPICC profile  xœ}‘=HÃ@Å_SÅ¢;HÉP,ˆŠ8jŠP¡Ô
+­:˜\úM’GÁµààÇbÕÁÅYWWAü qœ]¤Äÿ%…1÷ãİ½Çİ;@¨—™jvŒªf©xLÌdWÅ®WFú1,1SŸK&ğ_÷ğñõ.Ê³¼Ïı9z•œÉ ŸH<ËtÃ"Ş Ş´tÎûÄ!V”âsâ1ƒ.HüÈuÙå7Î‡2Ò©yâ±Xhc¹YÑP‰§ˆ#ŠªQ¾qYá¼ÅY-WYóü…Áœ¶²ÌušCˆcKHB„Œ*J(ÃB”V)ÚyøÃ?I.™\%0r, ’ãÿƒßİšùÉ	7):_lûcèÚ5Ûş>¶íÆ	à®´–¿Rf>I¯µ´ÈĞ·\\·4y¸ÜŸtÉÉOSÈç÷3ú¦,0pt¯¹½5÷qú ¤©«ÄppŒ({İãİöŞş=ÓìïZYr’>  ‹iTXtXML:com.adobe.xmp     <?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0-Exiv2">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:iptcExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/"
+    xmlns:GIMP="http://www.gimp.org/xmp/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+   xmpMM:DocumentID="gimp:docid:gimp:5344afdb-a677-440f-bf9a-2bd19f5c638a"
+   xmpMM:InstanceID="xmp.iid:980abe90-8760-4be0-bbd8-b01e3cbf0bbb"
+   xmpMM:OriginalDocumentID="xmp.did:80d98189-55b4-4153-9ec2-8613e9d57a2f"
+   GIMP:API="2.0"
+   GIMP:Platform="Linux"
+   GIMP:TimeStamp="1756214229276269"
+   GIMP:Version="2.10.22"
+   dc:Format="image/png"
+   tiff:Orientation="1"
+   xmp:CreatorTool="GIMP 2.10">
+   <iptcExt:LocationCreated>
+    <rdf:Bag/>
+   </iptcExt:LocationCreated>
+   <iptcExt:LocationShown>
+    <rdf:Bag/>
+   </iptcExt:LocationShown>
+   <iptcExt:ArtworkOrObject>
+    <rdf:Bag/>
+   </iptcExt:ArtworkOrObject>
+   <iptcExt:RegistryId>
+    <rdf:Bag/>
+   </iptcExt:RegistryId>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:changed="/"
+      stEvt:instanceID="xmp.iid:32b45582-4cc9-4b53-b254-59e15cf7d567"
+      stEvt:softwareAgent="Gimp 2.10 (Linux)"
+      stEvt:when="+02:00"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <plus:ImageSupplier>
+    <rdf:Seq/>
+   </plus:ImageSupplier>
+   <plus:ImageCreator>
+    <rdf:Seq/>
+   </plus:ImageCreator>
+   <plus:CopyrightOwner>
+    <rdf:Seq/>
+   </plus:CopyrightOwner>
+   <plus:Licensor>
+    <rdf:Seq/>
+   </plus:Licensor>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>~©.İ   bKGD ò ò ò.DŒÌ   	pHYs  ×  ×B(›x   tIMEé	Ğ–7    IDATxÚí]gtTåÖ~Òè=T‘^½€ğ‰TTD@½¨¨HGEå*D° ¥\P¤I¿TQ"-ˆ´ ¡†¨¡¥·é½÷^Nû~œ3q˜Ì„I£İìµf-3§¼ï~w}öŞ1¨yŠĞ@ ÿ Ğ@{  h ÷8 $ ?   # - 	€b Y ò¹ïü¯S,€Æ êˆ@qëâà½SC×M0À+ Ğ²OŸ>ş~ıúÙ~øa·nİ×­[×`¯_¿~lıúõ›ÛívEQu(ŠªGQT=‚ ‘xùòeÉdjàÀáô ~°@ æ€aêq‡ğY r‡±-wğbB>4ÇHZ "n2\`¾Û™(ÀP Ó¼ôÀPŸ|ò‰~Ø°aM;vìèiÙ²eÃøøøV•½¸×ëUiµZ:777~Çu;ÖÀa _Ş§ÌÓÀ§ Æ¶mÛ¶Õ›o¾©>|x\×®]c[´hA7hĞ }ll, ÃÄQU×f³]u¹\mNgbII‰V"‘4NNN®'‰â \pÀAÉîŠ0À ş¯¾úJœ››+!BÃT’ìv».///ßd2Yhš6‡ş;EQ®¬¬,Á˜1c” l æq§õ~¡† °Ïœ9SyõêU™Çã10CWb9iš¦İ:NsîÜ9ÑÌ™3ù ¬ Îş;F1 †¸à[·nZ¯×«†!Ê{!­VkXºt©zÂ„	â}ûö)
+•v»]£×ë•©©©¢Ù³gëZ´háãÔ1hĞ ÓòåËÅ)))9ùùùFÃóx<š¦}Eù/]º$8p •ÛÏÜ4@ÑØ±c@EÓ4ºˆ^¯×)
+¥2™LF’¤#ç¸"ìa³ÙÔ'NœĞ>şøã&N:½t'˜©3€ßbbbÈÏ>ûL%—Ë%!ÌCSESEÑ4MÒ4í·Z­’µk×
+8£	ùø8Ã‰òãX´h‘Êétj†a\.—}ıúõ%óı {UİÀˆ»˜yloÜ¸±555µ„$I7Ã0´ÛíÈd2}zzzqJJŠeÖ¬YJÎ¶a 0ƒÖnİºµD +•JÅéÓ§eóçÏ—5JwáÂ…Š¢"j¯×k;~ü¸äp8 ËíxÑ8 Ÿ °véÒÅpåÊÃ0TèÃ;w.·~ıúîúõëë4h nĞ A^\\œ3Jq9r¤ğÂ…šF•.ÖO<aLMMeffj¿şúk% ï˜1clJ¥R¸¯\.—Íœ9SÄ1êq Kü à '€•w³< !èÿë ˜
+@½páB¥Á`Ş'--­(66ÖWÎZÑ·ZÏ)S¦H%‰Ğï÷ç¹\.¡ÅbÑ:NSğ~FãÛo¿-`0¶&_¾%€£ ¨¥K—ŠN§>w;NÍSO=å¼Å‹Ù8àŸ?~ÎŒ3
+æÍ›—{ğàA×ñãÇFĞıv»]»zõê¢´´´|¿ßo6‹‡6--M0uêÔ‚¬¬,~€™iš&
+…âğáÃú;wš“““]gÏŒ;Vàí»€‰VØ` é¤I“ôyyyŠ€ê¢(Ê±wï^> çÒ¥Ku999b¡PÈ[°`‰“ØÄ¦M›$Z­V””$â`’\ØÄÀÿÖ[oH’ôïI’ŞM›6åqa‚%œÀ¨Vê	 8!!Á{éÒ%MÓ’Ú²e‹¬¼êÔ©“Éd2i™ê#ŸÉdRx½^S¤gºté’œ;e-ï&@³mÛ6ÅO?ı$/..–Rå.5XÂ³k×®gÎœQX­Vu°¤§iš,**Ê+..9¤H$ÊÏÉÉ1;v,ïÀ]½zÕ}úôi)Ç<a÷áøñã¹aÖÊ}áÂ}BB`GˆÄ¬õ |ôÑG"‘H|G—Ë%¹~ızAzzºyß¾}âo¿ı¶¨¼¯[·®Ïç+Âî4EÙL&“¦¸¸Xœ‘‘¡=ş¼÷üùóşK—.Y¯]»V¬P(ÔGXî²ÙlêÍ›7—p§ëı»Äö© ïòåË²pÏì÷ûÍáŒéÊxeÉÉÉ¢H{ñè£Ú].—5Ü322ÄÜšıÌyßUŠupéÑGmpôèQo»víÚı³fÍÙgŸ}Ö9ÂoÉœœAóæÍ›ÇÆÆ111Lİºu=-[¶ì	 †a¯N§3ß¸qÃ}æÌ\¼x±]^^^=îáÍ\À,†‹Ê6P§Y³fş¾}ûªÇ×»woïƒ>˜Ğ¬Y3{ıúõ&IRáp8Œ.—ë>Ÿo¸~ızÓ={ö´U*•z sì»‹“7jÔ(uÏ=ôÈ‘#ë5hĞàVÒãñx­V«H$	J¥²±V«=qâ„866–8qâ£Mš4QöíÛ·QçÎé†¶KQ”sõêÕ”P(lêv»}v»İwôèÑ8.„€>}úM›6ÕtïŞİ:bÄˆÆ×8>>¾. dddÈ†Ò“Hÿâì¯
+3Q3 —û÷ïß955ÕÙ®]»¶Áÿ(
+KzôèÑ=§Î›7Oğİwßuq·Û­¼|ù2¶nİZç·ß~kÉéê?œç"«<‰Hî7õ9&êÅEk0 ÀƒœQd`ÒÊ¹m*gT;îBo¬'€5òâ‹/š{ì±Äøøx€’$:Núúõëb‚ ZÆæ‡"¸wÌâ>| n;xÀ .[¶Ìûúë¯z÷îİ3&&&°?~ ¾óçÏë†Ö=Ü>}Z0bÄˆÿ¿té’zÄˆmü~ÿ" Ë*JàeÄ.I’®©S§êËóÁMvÇã1ÿòË/E ,œwÀëœ¤©ÕçB}¹4@W ­jÂ ¼Qé1œ´\ÁŞßqÁÆO Lä˜£Gª%Àóœô°M:U “ÉT!û áö Ì¾µjÕÊèv»-ÁßOMMUpøzE_l
+ :--­Œâr¹ä›7oÎ/¦M›& iÚøMnn®¼OŸ>z v k¸…«¥š¥V ¾mØ°¡iÛ¶mÅ>ŸOØ;wê"íßŞ½{eÁ‘qš¦İë×¯/›ïíÍÛ Ğ._¾\MÓ´;Èğuïß¿ÿZ¯^½¬ágàÀæ­[·I¥R>EQ~NbyÖ¯_Ÿ€àÂìk÷ö¶SW Şÿ}“^¯/f†±Z­ú;wÊ{õêe³—Ä²eË„F£±4^åóùô¯¿şº@:gBÜ’¶ôìÙÓj·ÛÍ!ù,§†ÊpïØ±cù$IÚB¼ÿÒ¥Kµœô™‚šCÔRtá†~ıú™
+…"ˆ9ŒW¯^6mÚÔº§5r:RU(‹-Z´ $EãÎûÒÓÓÅ¡jL*•
+#‰Àï¿ÿ^j3ıç?ÿQPX»‡wÅ XŞ«W/‹F£‡^|ñÅÜpÚE.—ß$H¶mÛ–ÏÙSíË»ÉqãÆ©H’ô…2Ñ7L‘˜èÀÁÆıË/¿ˆÁâ~úŞE‹X@Î½|êİÆÄãİ ‰cl?~¼Õãñ”îÙúõëÃj˜ÌÌÌ¢Ğ\ÛO<ağcyRˆÌËË+€Ú¿Q$&:zôhqà{ÅÅÅ|.Æ3üŸº‡ ÌäRWÁbôÜI²pa€  |ÈÙƒÕAõÀòÖH‘™Å…2~ğ€'î€7YÀ¥U«VIišö3Ãü÷¿ÿU„Û×3gÎØBùàÒ¥K<°yÈ¶á.¾cÂ„	’€Q¢È/¿ü2¬$8p N£Ñ(9;Èöì³Ïª8WõNP ÓÀÂt_ıµüøñã¦ŒŒŒ@`•Ëå•J¥Óh4*•J¥‹Åîôôô‚İ»w«G¥çl¾`!%•‘|@1yòdñ‘#GÅÅÅz•J¥×h4J¥Ri‹ÅŞŒŒŒìH§OŸ.Pà.îu»¨ saa¡ˆcŒ„AQ|óÍ7E¡&‚ ´O<ñ„ÀüĞ‹&°Ş¸q£Ìívë?úè#~8úøã%‡Ã”uV hrÄô› „“'O–eee‰‚]Úhˆ¢(¯X,­ZµJ“˜˜èp’F+ù^ |÷İw…
+…ÂDÓ´7š¼ŸİnWœ<yRôÈ#ˆ¬âöâvĞœ—_~YNQ”ƒaêâÅ‹9:tğ‡ì1uüøqMÓ71Ò±cÇ¤œ¿)nõ^·nİŒA„fæ=ü±:%%%)‚Q.—K5dÈ7€÷n3µ p wïŞú¬¬,u9`¬¨I¯×ë¾ıö[iLLŒÀ·JlmÖ¬™ûÌ™3Âàdj…²È>ŸñèÑ£â6mÚˆ ¼v›¤¶8;;»$(ÇGYx	uéÒ¥›¤Õj5¶hÑ‚ Ğç¦ˆ÷Ş½{ÃÜùóç‡ÍÊ5JÉ0Li6ÿçŸÎ‹.L¸ô üyóæÉœN§-Š’˜L&‡V«õ«T*£Á`ğ:MÓöp	Ì+W®”têÔÉÊE€FP9}ûöUËd²Hp`ÒétÊM&“Ãl6Ûİn·´¼gT©TÒñãÇ,ºFÿ'sæÌTÇ‡Ûë³gÏÊCŸsÖ¬YZNu`sdöpé†a˜S§NE‚v¸ív»Syª-Zq{ñ:ÿ@»iÓ&1I’dˆ¨W£Ñè9¢=z´¨eË–N.ğYzÊ ¸‡âœ7o8##Cév»obN';v¬ƒ3Îƒ#¶}8Õí())Påº¯O§ÓvïŞ]òâ‹/êÀæ	 ş˜˜ç+¯¼¢HIIQêõzi88±ËåÒOœ8QÌyAñ5¸†Í4h ·ÛíZ†a˜'NhÃíµD")
+}FN¥¥.ô\ß¾}İ>ŸÏn#är¹"’WVPP g†9ş¼’[Ğ:·‰úĞnÙ²¥8œíAQ™••¥™<y²ƒİ2=ô•SKö @«yÂ„	LÒ{ şÉyz¥1•çŸ^søğa¡ÃáÎŸ?ÿR³Fúø¿ùæ©R©ä…¾ƒÇãQMœ8‘`}K¤ä?şøCÂ0óÕW_…¯×[¦XB"‘ˆèL>wÒ¤IüHâÕãñ¸Í\»vMÉ0Œû…^øö61PO Š6È(Š
+g9óòò¤S¦L1T„qÂ}–.]ªV=n·[5iÒ¤ÂïyœæÜv,fÊ»„“"¾(ïçÛ³gÊívC$’züøñ
+ ÿ©Áõœ¼víZÃ0Şyóæ•a¢ñãÇ»(Š¢Â8\îPu€]ÉÉÉÆ‹{Ñ¢E…Rr’$İF£ÑÈ-f¿ÛÀ@şğÃ†PfµZ.”UTò”÷=z´, ²¹¥7nœ€ó©§²r‹H}ıõ××Åbqñš5kÄA.À°„QİoàÀú¢¢"A°[m·ÛÍcÇµø¸†Ö´Çˆ#d4M;¥R©$..®¨ğ×_ÍÇo½õ–l¥.¥¥¥„3)>¬Ax0¸_&“é†a®\¹¢ ¬aİğÂr¦NÊóûıÁK:''GĞ¹sgKu1Oğçµ×^ÓZ­Vct0:N+MÓ¯×«ºxñbQ=</¿ü²ÄårIu:nîÜ¹nİœœñùWîé?räˆ<XªÕj^›6m¨™j•x JŸÏçe†^µjUãºyóæd^^^™TØ”)S
+ÀÂU (...ãüñÇW"ê7Šá¶mÛr8‘^“ÔÀùÉ“'›\.—1È€%=*G9Üj’HF³Ùl·Z­J—Ë%c˜ûôéã_¶lŸaŠ¦i*==]P§N÷lK \¬È=¿ÿş{W6Ä0Ãäåå©¸\d÷ˆî—X,–B†a³Ù¬ïÔ©S¸4ˆ‚$ICH.ÍÀÅ¶`J¥¢Ğ…1ÆÎ;‡«Ú Åbqi&xÃ†Î®)J °¿gÏz³Ù¬
+Æd÷İwWEÙL5I$÷—_~É#",.9---'..Òëõ¥
+™LV0bÄw¿‹FŒú+V¬$£Pû÷ïrÑø†Õ¼Ær¹¼˜ƒ˜úõëWFªÿşûïe<´ƒjì F£É	·0×¯_W„“FóæÍ+bÆÏ0³víZW€k(¶ºcÇ.™L&	’@Î+VdŞæ	şL:µ¤œˆ·ıŸÿü§áìÙ³ÁrF©T*š6mèr2­¢÷\³fMÃ0>.ıd›7oÀ¦jNè
+…*†a˜.”qó?ùä%EQeÂ(¿ÿş{1€³ @ëtºk‘âsÛ·oW†y9R"‘ˆ8&ò€-¬	šÀ—››{“¤LII1Ü.	üùàƒş(/P¸xñbÓ©S§Ê”C%''º—,áÁ¹/}îÜ9~!6l˜lÿƒê¢³|>_O„ëå—_¶‡z:Nî}Oœ8q@V, ša˜°qŠ¢<õêÕ#ÂüSÜ–-["•®¡(õ8 ß:uJòğÃÊ{éS§N•Œ3&ñN@+†)7ãNÓtƒ&Mš˜Bÿşâ‹/ÖeÀBc•Æ'Nì¤P(Ô Ğ´iÓëÖ­S5mÚt=XÔbuHû¦±±±>™Lf9yòd(æ½ÎÒ¥KmÇV&aÉv$i€¤iºŒgåt:õóçÏwM<¹s¸;wîÜÙÁ]È¶oPuÒ3 vlŞ¼¹dÄˆ=“ŸŸ/é¥—º2sG°9$I&Ş‚ÉbZµjU‡Ü´iÓîMš4ñp0Œ
+“N§«3{öì†Ç
+ }úôéµ~ız€Ÿª!À c½zõ,]ºti9iÒ$MèÖ¯_ß;))	G†‰ €E&“	ÂÔÓK"ygO=õ”; Ü´i“lÏ›êÌ‡é/^¬vs•JeI×®]¸Í*,Ä¸¶11Ázúôişºuë$IŞáµX,Ò¸¸8l‡¼²÷_±b…‚¦iÉpøá‡ºjò¶à	2FHÂ’'Nœà…ÂBN:•@ 2@ €,ìÚµ«;ôeRSSKuô¯¿şZ °:ƒ‰o¼ñ†ØçóA7Û¸qãî‘Ã‡×}ñÅ¼åË—g0»\.SyU§ `íÚµéEÒHäÎ;Å r |VÅç¡ÏŸ?/Bh[&Ti©ß§O	al6›¬[·n¥vQ×®]ııõW^¸ŞH'Nœ¸Æ
+äD„O(
+ş¸qãnb¤o¿ıVâp8ôÃ0999(m‡ª&ÜxñÅ-6›M”y×¾ıöÛ’ÛÉ<;vônİº•§Óé´Åe†1b„–Çãİ²”[«Õ
+H’42CfggËûöí+š7oŞW`ËnÜ`ë¸*õlõêÕóÈåòÒõÉÌÌ,Œ‹‹“¢ò¨Ì¤5kÖ¨†aòóó‹ú÷ïøğ§Ÿ~ÊŠô¿ÿş{!‘ÇÅÔÔÔÌràö9sæ¨Ã,´±¨¨ˆçv»Íœ´š]ªàLll¬Q§ÓÙƒÜfÿš5kÌU=½‰‰‰®6mÚäÏŸ?_¿páBc›6mõêÕ»IUÇÄÄĞmÛ¶U<xPg³ÙÌáÖbÇÂ-[¶¨£¹Y9">}ºÖb±È<ÁårI‡Òl6[är¹vÙ²eªÊ¼Ó³Ï>kp8¥é˜_~ù…ÇeÔ*a¥]»vMHÓ´ãé§Ÿ.ã‰wèĞÁÇçóÃÂl¸8Ñ 8pèĞ!e„ä«{öìÙÚH/sòäI1Ã0ÌÊ•+ó¹,~eì: ö5jÔÈSRRRòlŞ¼¹¨2‹Ü¨Q#Û×_-OKK«T*)I’N®IÍµŸ£‡*??Ÿ—‘‘qÇã©¬Vk>MÓÔ-ÀjÚxÀ™~©¼ÖwN§S¶`ÁÃêÕ«U>ŸÏé{ÃIÏ˜1CpèĞ!Õ—_~©mİºµîVïøùçŸı~¿cXÏ÷ß¯çB-q:ú5iÒD¸Î_|aw¯®]»zE"Q”ÇÎ;-`1äX½xñb^˜,­/))©\)pãÆ*7´nİÚàû
+2P€í‰‰‰Dvv¶.˜¶mÛM4ÚÀ:jÔ(bôèÑ¦ï¾ûN˜““#òz½ö(›Fa½é'üñGf÷îİİ?ıôS‰Ïçó„¹¦cÎœ9Ú;wŠÂè‚Éáp Ğ»víÒ@óœÑìT«ÕÂÔÔTíË/¿±Êfşüù9uëóùô&L([ #Å8¹ÿşÒ½_¸p!/’49r¤Âår)Brgy`‹ğÉøñãË 333Åıúõ&$$DÜÈ’’’ì R …Ë›Hgl@ıùçŸª`Ú±cGF$jÙ²¥sãÆb§°ÛíF¿ßÏ×­íVD’$ñÃ?üR(«\.WL™2E÷Â/8~ùå¾T*-¡(ÊË1†ùÁ4†$‰#=ƒ€òâÅ‹í‚ <šV­Z…e¦}ûöih·Û­?~¼ ,ğÿVU$ÿ<x°Şãñ”:
+{öì¹I½öïßßöÓO?ñÅb±„$É2’ˆë-Øf6Ç£
+×vT¯×«SSSy-[¶±¤Ñhô}—š?~.‡â»UñÎ";öG ™KQ”oÛ¶mYáè‘Gñ>|Xír¹ì•ì¢\ëÜ¼y³jĞ A—+{Š¢|¹¹¹òÕ«WëbbbtıúõÓœ<yRåt:ƒ2äååEÃËsçÎ•nß¾ı–gµZ}ôQ8€ }èĞ!a@{<Å§Ÿ~*Û9’³ó ‹X,öÊÉC‡…:0“É¤‹`ê¨Ávîp«½R©Té¤N:¡…Û`0¨94îÔX,XhÙö=çq…Ğ3 ˜}ôQs~~¾( E|>ŸîÇ,Ói¤iÓ¦äÚµkE6›M^U ~nn®hñâÅÂAƒ™84Â-Aõ^¯×”™™)'ÂÅ¹À¦ĞSé÷ûmÅÅÅ+V¬P¿ñÆªŒŒá„	tGå•ÓUá¼[u»víÜ|>_ó‹/gbPPT"AÄ¦M›
+8¼ÓZ ƒÀN0xÀş‡zÈœŸŸ_È0m6›-‡sÈÍ2àÃÙ³gkÃu¨•Ëåb¡PŠ#<yR¡§´ú±Ç3FPiÎéÓ§köíÛ'3Ú€‘wæÌI›6mœ`ûçìã û Èâãã©7*œNgÀ˜§ÕjµôwŞ)ƒF>|¸R$Ušyìv»ñÔ©SÚãÇ»>¬o×®İMÙé½{÷G±q. Új,XPĞ§OcII‰8Ò÷‹‹‹E'NÔY,–¢;Ê¤R©<D…™®^½Ê;vì˜·°°Ç0ŒûèÑ£ÅmÛ¶µñx<qÅ¾×_=, ~Ñ¢E%.—«4wÇçóó-Z$éÕ«—±W¯^Î‘#GŠ>¬²Ûíú &¼•øğá2­©©©b°ÕK#æÿ>}º$ŒÎvÏœ93ª„áO?ı$1Ç.Y²Dùí·ß–-[&üí·ßDFPGA¸>\X§NĞ€&µ}ûv™ßïwV–l6›eÌ˜1. ôÛo¿m‹‹+s‚ATîzNNìİwßUÔìöíÛ%å}Ò¤I<Nçš={¶16ãóùì³fÍÒ'7-‹–³AKF«ç1›Í–H ¼¡C‡:ÎŸ?¯ğù|îÓ„	g,Z´(’áNÏ™3Gš’’¢»zõjĞâäÉ“%\Ú¥”F%&&’6›MâªZNœ8Q°cÇ@õADğ×G}$­H¡`vv¶ğ­·Ş*³±íÛ·÷]¾|¹ 2Ær°Á:kÖ,9 :555‡¦iÿ_|qÓé<x°– [´×¤išX·n]ŞÛo¿m<x°ˆ$ÉP§-‹øÂ…¢wŞyG|úôé?Ge$¢ÔnÜºukNğ3Œ3Fé÷ûª‘>räˆúÃ?T•×{:¦STø±Ç³¦¤¤äø|>eÈÚ;(Š²Zÿ´lÙ2b!Æµk×Â†'”JeI||<¶~)5 ?~üxDÀ~^^^ayİ£GWàá¸E÷‡Ù_AAAŞ¸qã‘ ¡ùùùæªÚ>©©© Ì»ï¾ËãrMd—.]ş¾WZZš¨
+×ÊÂ¸ÿ¢÷ß_:`À€Üõë×Kõz½,(dbéİ»w)bpÎœ9&¯×ë	1Ví­[·vèõú’(ƒØ¸q£àVâİwß-öûıŞÀá]¼x±è±ÇÓ%%%Ù>ûì³âòöôñÇWQÚ²k×.-ØŞe‚›[†ªŒP‹ïå
+êÊ{`jÍš5×üñGÑwß}ç¬S§Î@Ì@»wïÎ*'öC9r$¯*(@|ğ  ÃÙÇD{}öÙgf‚ *Í¬^¯×¾dÉ’l†a¢3]»v-¸’‚R«Õá,=fÌ˜Â’’S”U³öÉ“'ë£€ÚšI’ôïÛ·¯¸¢ÛÓ§O†˜	`7#œÛ÷0 277WæäV2<ï2š¦ı»ví*(/xøõ×_ËBk¾+±¹–ï¿ÿ^Ò¬Y3€ßn·t9Õ¹sç\ Ì¬Y³ÌN§3Ôm%Íf³áÒ¥K¢]»vYF?dÈéĞ¡CK²³³åŠ:¥Fí³mÙ²%Ø€õ>ÿüóggÏ}şìÙ³¹Á¥O7ntåååE}är¹,..î–¥Iï½÷*!!!*,ú“O>©;|ø°1%%ÅzêÔ)Up¥ó;D`›¹×”G9òŞ{ïéÆŞs6  WIDATƒ_Š ık¯½víÉ'Ÿ,xê©§rzôè!«#½øâ‹š5kÖ”Ë„>ú¨Çjµêª*~üñGØF@ÀªbÕôêÕË|ôèÑ`$PI!úşûï…Ë—//ÈÌÌÔ‰D¢‹Åâ±ÙlDnn.ÿÿşïÿ,&“)\£óÂ…¯ß*U •+W–ºÏß|óÖãñ˜H’”ét:y~~~zà{›7o6çææVè½÷îİ«G5& Û·oO(•Ê2Äh4:vìèÛŸ "à¿råŠ$‚AL~şùçÕúÀ\.¿ªD„	€~Û¶m–b;B(fy<kÈ÷mıõ×_—.]Êw»İ†H×İ¼y³"999¬Ç´iÓ&Ù’%KnDÑ¼Üß¢E‹?ï{îÜ¹ˆ6ÏúõëùùùşŠ¼»ÙlÖ B+Ä
+~\°˜yçwÄÁ¥áÃ0,àí±tK Ü¶Gy¤L+Z®¢AVİ4fÌI’DUˆ¦i:%%E¼fÍ1I’ú(UŸ<šÎõiiiÙ„s¯^½*@ØívÉ­xüñÇ¿Îå»øárnœt3véÒÅˆ¹Ud	fÌ˜¡¨ê^|õÕW"‚ (³Ùœ#‘H^¯×¨÷ƒ¥ÒM³aÃA°‘ëóù;vìP'''ÏŸ?/ÎÈÈ(®†z/:++KPòù|”””KÙÙÙ94ML5SQQ‘#11‘ôz½el#‹Å¢àÏÍÍ•F©ÎN§Sá øV¯^-INNUÆ¹8vì¯²û0iÒ$sıúõ=İºu3„;XÇøğÃ« l—ÜWµªôÉ'Ÿ$?ıôÓüşıû÷€:uê´|ï½¿[ñx<eP’F%šŒ7N1`À€¶•!Ñ4m1›Í£G[¥ÆZ$I:¤R©A¯×ÇÄÇÇ»ëÔ©c÷x<mşüóÏ&“©¡^¯§:t¸9Õ¬Y³vëÖ­“”””Ä?üğÃå^¿^½zF 	uëÖõ›ÍfENNNÌõë×	ŸÏ× c6›õ»wïvétºÄÊ¬åc=Ö ‚?¡û÷Ş{ïÙ.\¨š6mZW“É¤lÙ²e§ Ü¸Ó¦M¶¼¼¼8!õh‹ ;ì0›Íaº:tHK8p ïßÿş7¯’RˆÇÔ y<Bš¦å}Çb±HRSSÿıïC†ÉïÙ³§ûŞcØ)ˆv»]‘””TÀ0L¹ªñôéÓZ wß}——˜˜16óê«¯J­Vk…GŸRå=ztÔ,6lØ zòÉ'õ ©Tjâ™>Ÿ5De«¹œÚ•9œM ä}üñÇFŸÏW>;sæÌâìììbÎn(MLœ8QÍK¼úê«†à2áê$™L&s¹\a¬&“É]·n]û­qØ°a²ÌÌLeqq±îÌ™3RµZ6·õ×_eÆrs|@€®S§ïÇÔ-Z´(b:iÑ¢E²Ê¼÷‘#GÂÅl€ââÅ‹ó%77W™‘‘QĞ¨Q#Âëõ
+*­mØ°¡‹ƒ–Tšz0.\¸°ˆ¢(Sşv™ÍæRF"‘ğ 0#GT(
+^p4!!!lnæÜ¹s"¦†èòåËÙv»]éßÅb1?³¬_½zµiáÂ…áJœ©ÜÜ\Aá{%‚=ãçñx—oá=ZŞ~ûm]·nİ>ŸÏôå—_†Bı.\È~ë­·ıû÷wRUá™p^¯×ğÜsÏ…¦’ÄãÆ»€áñxÖ5kÖHbccI‡Ã! (Šœ9sæ¹pÖh4j†jå %UnÖñ" Orr²5R0ëad)..–$é|á…Ì\`Oºoß¾ n×ÍU…0}úôq†öâ©Núõ×_¥‡#¢dH$"îÄ«Ün·aF*•†íM¹wïŞ¨z@’$i½Õwôz½¶wïŞî]»v8°L,¹\.3†yóæIı~¿¢2ï~åÊqˆZ¶«T*ŞàÁƒİ|>ßëõz­Ÿ}öÙõ ã„&j¹ç4:Ô  •àÄäßµk—’¢¨péïÁƒ¯°E?üğƒäÍ7ß´;N+WòÌ¤¤¤ä6L€Ù¼y³’©AúğÃ‹ü~I9~ğàÁÆÕ«WËÁÂ€§º±)))ê dÂ…ª>ÛŸş) Ûüê&û«nİºî@MÃÔÂ…or÷U*•$==]\RRBpğ–ˆ]>ŸÏöÙgİ`wµ¨îĞ ø,XÀMrï2Æ
+år¹ˆ3À-³fÍR™Íf5£…BaqM1Ïç³¼öÚk·„x(•J×àÁƒİû÷ï/á‰úı÷ßÕ111¥›ûÂ/(U.—K¯R©@UÒ3ÔŠ+Š¸‚Gİºu©æÍ›[şüóO=AÎììl~FF†”¢(OpTú§Ÿ~Ú¿;ãË)Šò–g°“$iüí·ßÓÂw*[k‚ÆpŒ1B®j6‚±§6ªüü|)—ÑW5GVI$Õ[o½UÍwu:fÂ„	Ò¹sçJÔjµaZ¡P(._¾œ—ŸŸ/òûı ´dß¾}×H’$=ÖãñdUÑ{45J¿dÉ±ÏçË÷x<E%%%Æ—^zÉğÈ#¹aÊU¢ììlWuË¬_¿^UärÈŞyç=ØŒïÜ>4oŞÜ·gÏ±Ëå²”÷2n·ÛÎ0¥µQLJJJª²äädŞO?ıu¢(âúõëê?ü7kÖ,Ñ¡C‡999v>Ÿ¯ãñxºóçÏË¿øâ‹µZ­f†ÉÊÊ*öù|W«úœr¹\İ¡Cßë¯¿n{è¡‡\ è‡zH÷şûïËÃÁh*£ÙvìØÁãra®à 'EQ£Ñ(JKKSŒ1B¶£ÛFTßXŠ¨«U7 ğ?òÈ#Îıû÷ËM&“¼<1Ÿ””¤@†KìUÑ4m6l˜æòåËêÊüÜåri„B¡ğêÕ«¶Ó§O+ÓÒÒÔÒ ‡afÍš5üêh¸Î0sğàAWQ¬;yòd‰ÓéTuîÜYe2™ªeH’$7mÚdáêøåÇÓ-Z´¨dĞ A*.Û °wxİÿ†ç¯W¯9sæLùÙ³g*•JN’diHÀï÷ë|ğAÏ°aÃŒÁƒøª›D"‘Œ³¹„5qık×®	¿ûî»üêºI’¦)S¦(ûí7QPVrúôiu5ŞÃ=}úô@LÊvŞî8Ğ~<îŠÛGp)€Ã©ºŞ{ï=ÁŞ½{[·n½€Ş¸qcQj2zåÊ•" ”ÕjÕVóµ©¬¬¬Ó—/_–K¥ê …B!j×®M«ÕŠ†arrrT¯¾úªÒçó™«ë<OÀyƒp/Œ;"êCÄ]ÀYû4‡4”×™Ífs "Öãñ8˜{ˆ~ıõWùÜ¹sµ4M;œN§€ëé§ŸÖ§¥¥åE‹J¸E2 ¾á¥† R ¸].—¡¦<ûµk×`*¿ßoº—˜ÈãñèŸyæËü!`†ùôÓO`Û['Nœh‹ÅÒ*‰QŠ" (ÅèÍ»™6Ğ\æê&©TÒ ÔA™{Œ.\¸ êÕ«—ÁãñØÒÓÓÅ vs‡ûâââ¼¿ıö›€$ÉÊzmÔÜ¹såÑÊîVZ ´ûDuA®×^{MŞ¡Cï¦M›ş¼Õç|¸†j?räˆÖn·k¸ÂÀÀxÑI L3fÌĞÈåri4`ºPÊÏÏçse>¿øì`Ã÷š$Òû|>g5¯=½wï^	 æøñãÅÇÚ±cG—Á`Ğ0÷ íÛ·¯¨OŸ>N‹ÅR@bÃtp ù¯ı«¸  ÀHD…ËåË—¥ıû÷/Ípíÿî	Š;U]‘bÁh(PÀ7mÚ4%I’^†a˜•+Wòÿúë/Ù½ÈD‡ÃĞ´iS×òåËÓ8O÷Í0í`^åÜt¢_¿~îyóæÉÒÒÒd'ªĞ	EQ„^¯×·jÕŠ;#÷ I\­—–©†š² Éd2~·nİ\­[·¶ëõúR¯O(*¿úê+ÁíØt‚ \r¹\‘ŸŸo»zõj1ŸÏ÷¨T* +sÍ½{÷j8À¼±œªŠ =¸4Ô: Æ'Ÿ|ÒuòäIÓé”Gê»DÓ4!“Éò¦M›fâÔeë{`wˆD¢j“jµ:·S§N dNN"t¡¾øâ™ÅbQ×ó˜Ífåîİ»¥}ûö4”Æ™””$(**ÒVÔ~±Ûíš={®ûc”ëÜÀr€æéİ»7oéÒ¥şåË—›W¬X¡]±b…î?ÿùıµ×^Óqj¬˜K_İõÔ€´U«VDIIIµ•Jeáƒ>¨@œ8qâJ8éf0Tûöí+©b¶=¬68}útnëÖ­İ;w6ïŞ½[\TT¤Óëõn·;×ív_Óh4ÂÌÌLåÜ¹sy üË–-İ*¿J7nÜÈ;?­€3®£¥¦`GÉÀá¡sÑé% şvÜÕ3¸½#V«D0k×®W×
+]÷îİ­<ğ qêÔ©ŒòTFfffÕj­Ö¸Tvv¶ 9qâÄ"‡Ãq+Ğ˜W hl4h¶¸¸˜WG§¥¥ñcbbH°íìº8
+lßêL É :â>§ ¡PXe,EQöcÇÉ øš5kf)..Êûâóùª1¹ë~öÙg•]»vU¹İn•J¥*LOO—]¾|YªT*•‘¤Ëå2~óÍ7 ä?ü µZ­ê
+0­¨G–ğšmæÌ™J#®çíû–6 0y½^KU6O£Ñ(’’’4\¹µ7Ò°’Ìçª&Xc0ô Èıû÷óÓÒÒTÜ„Bß´iÓ¬&L0şúë¯WÊa@*??_>uêT}×®]ÊhÑn·ÛqşüyİÉ“'õÅÅÅjÇcd†r»İÖÕ«WK8Øq—û‘Í˜1£Ò™ÅbÑmÚ´IØ¦M›ÒfcÆŒ©îÄjÔTXXx óé§Ÿæğ9Ò¨ÑhÃ4M{Äb±ĞëõJoå^gggk¨_¶l™ÆãñTé}‚ğ¼òÊ+& óî7jÄÁC˜ƒª*ª¶ø|¾båÊ•bî„1 „ N‚;+¾SL$
+Kpó¹J4İn·aõêÕº7ŞxCj³Ùª”`İºu«”BŞ1ªn<É°m…ÿ1vìXİˆ#ÊªC„Îh4úe2Y½œœbÅŠ±2™¬=± X	¶Á÷+ ^bæá_Úµk×¢]»v^FS š6mjĞ ,‹öäÉ“«ÕÚ!&&†nÜ¸±ò™giØ©S§öá®U¿~ı–III¾®]»:ß}÷]zÛ¶m†ÄÄÄV•y®nİº5;T'ËÔßÓ4€¯U«VŞ³gÏ–„N‹I×®]-\¸PÑ³gO;nîÔå;Åùs ­BÀoôk¯½f¯l¯:híÚµêvíÚyV¯^m6›ªˆxá…ÂM"×¯_¯ğz½åJ,‘H$™<yrnZZšP¥RåV´Ÿ@zzºŒN6»×¨' gİºu]ùùù1Cz½^ğæ›o†Î°€m“;‰se#ÙX> v·Û]mº"±$³Ùl>|¸ƒşHœ5oŞ<¸É”gÃ†‚‘#GZÁöJAÜB[
+E‰R©TÒ7`¢ j±õ½ÎD››6mJp±°¤P(ıû÷TgJ9Xv0n4èÉ ŸÏ¯üqII‰pÁ‚ê%K–è9rÍl6_ˆÒÀ¾*•Jo
+Î;÷¦:/…B‘ï÷û»wï ~şùgiMIÇsçÎ™î&Š Z²d‰óœ@{èĞ!Ş…”*•*+55UÜ«W/§º¾å¢°Ó¹—¿å}~ãÚj)¿;vlæâÅ‹µv»]q«†åa$‡6$qªX²d‰°{÷î¦O?ı´8Ğ8aêØ±cE üJ¥’_L´sçN—îhr/3Q' ¾íÛ·K/^¼XüüóÏ—×Ğa7şÆøÎæşv2ÊûlÀìŞ½;·:Ç…R©´ZË—hš–†ù½råJáºuëª½÷ EQşqãÆÀ‹Š¹—™è „„„@OB-X|õ*°°X%YİrZæsß?å}6`N:%©‰íóù‹Åèr¹T‘ì$®År…úN§Ó  ¯¢öNöˆ[ÃE÷º‹¯°€ ˆ	 Î€éaú÷ºÜ)ñ†1–ÁÅƒ¢¡ hÕªU½YˆøøF&“‰àÀº7¶ÿë_ÿj[ÚÌÀårÙ¤R©¸OŸ>ı+ymØ°å¯¿şês¹\ª&MšTÇiğx¼¬W^yå!°U«›ğ?Jk¹S´9ÊïoÀäääÔ(àŒ¦ijãÆ‚ıû÷‰¦ijË–-yá¥DKr¹\)—Ë«EŠòùü«4°­\z§72öŞ; Q¼Q~ß	 ©©©	~¿ß\Sûşûï·Ú°aCcn’ø|¾ _¿~Íâââ*=º½}ûö‰qqqUÉ–ôìÙ³‡ÛífÀ»€ÿaÚÎI¢Q~ÿŸœÂôêÕË"‘H„5)‘ÒÓÓùÓ§O—Ğ4M$''«ÊëwTCØT›Í´gÏ~‹-H°cÄŸ@-a7ÇDÿ©ÀoZ 8€Ù¿¿­&™ˆ¢(ÿ¤I“¬ıõWî”)SÒk àµz-**¿òÊ+¯7wYÖşNª3ªÆ½™Kî‚$ÉÆ5º0±±	3gÎ´<¸m¿~ı:Şš‰Dš/¿üRõü£ó±cÇZpïó`+Aj™(Èªè3ğ0±±±5l8p`ÃRõë×¿-‰M†a|F£Qššªxë­·Lİ»worõêÕú={öôƒ§±°Şìÿ­âÄó–ŠÚ¨ èäädßíP'çÎË÷jµZA«OMvvö¾+W®¨
+µJ¥2ßår¹)Š²fff
+ÁìWİáƒ×ÑB‰öWğwu ø’’’nKYßï×?õÔSšyóæUWó©JñØºuë®rŒ”Œû c_]TÑÜY€â (<—.]ÊÔétr§ÓY£eÓ\GVæÊ•+BæÎ•››+1b„•KsÔ2€—9&TĞ¸pA9¹V­ZÙ«£  É÷ùçŸËxâ	»Íf3ÜAFb´Z­‰“H‹jYˆÅ 1`ëÂ+êi½vÂõ  Ì›o¾iĞ¹ZÈ`0Èºwïîşæ›oôEİ±†$I’`;íªe!–qå0ÿW…ë´‹ìó9U7 Trr²ìÅÈ‹/F/|}·ldÜ¼·À°(€`Aj•!'€± xî¹ç-Z´ÇÆÆ¶‰‹‹#bbbªõı:vìØ¢uëÖ%ï¿ÿ~×èzöìS•TM„ßn·Kõz½Íh4‹Åáp8ôn·[IQ”@§Ó©,((0lØ°Á;mÚ´N ä şvÀİÿ<­çNUUEó6„ÌÉX´hÑ¦H©×Š+`Çpj4²÷¡	‚°ŠÅbÍñãÇusæÌQ¸Õd Ğ‰D9 zİM›x§L¯ƒ@" ;Œ†®äušmâı €G <ß¨Q#Êjµ:âââªİ‹¡iÚyğàAõøñã;Õ¯_¿ÎSO=%;v,óĞCÕOLLÔµlÙ²W\\Ã0L¼ÅbÉ·Z­
+WZZ™ššú V«­´öQun±¹`{Mï‹7¯e"š‚Å#ÕÛ0TX×àÒ€YYYÆÄÄÔTpÖëõ¦½{÷êöïßßñÊ•+ƒÖ3 Abƒ‚ƒ¾áÃ‡»şùÏzú÷ïïîÒ¥K\bbbÃøøøV111MÓ~—Ë•ãt:Ûº\®–‰DXTTÔü‹/¾èà# ;p—–İÊßÁÖ“Ï¨Dô:”†Øß¥K—¦.\ptêÔ)ñv¼ EQV­VkÑh4ÍŠ‹‹e^¯·MÓõccc=mÛ¶%:wîŒ;¶hÒ¤IlLLLÔp›ÍflÖ¬Y°İ<¶×Z?‘i<wrS«áZÇ 0?ÿü³€¹?È9dÈØÖ0w-İy˜ãœqùª>[¢> <üğÃmî“Ö°I“& Ík™èÖ.ún°HÇ±U¼V1 üùçŸNT`àíİLÃÔEôèÏÿiêâ]ÅØÕPÎÃ£öíÛ'©j[›;Mn·ÛÔ¹sggX×R´‹“#«è(üˆ©ôêÕËºcÇíéÓ§KŠ‹‹UáFUŞÍ”-ã¼¼şwóÆİMoİ äƒ-«Z…˜Q=°­ş0ûÄ À³Ï>kÛ¶m›±Gİîj"†‰!Bm³Ù\§¥ÏçknµZÜn·¯Aƒ[¶lÙ¡AƒzŠ¢ê¬ZµªÎš5k, úáo$h-İ‚~ ğXP~j5½ß) #J£’Íš¹oÜ¸!ïÚµkïš|Ç#7›ÍU*•E.—ÇÈd²zW®\!<X@Ë(×ŞËy¯¿×J¢è©9'¬`ÛW‡A¹À¸à?¼üòË¶””_½zõª¥	MÓ>FcÉÎÎ¶æääÔ?uêT]—h4ã£Xc?Øáu¹Ü»kÁ"ÌÜß”µ–NÅéMNtUM×{À7`«J295Éœ9sF©º¢"z…BqáÃ?,äà›&L}h„™@¶Íğ+¨…¼ÖˆtÜÃ¹şıj ¤qlÉ‘7ÎÙ¹fÍš‹4MW¸—¢ßïWõ›o¾ÜğŠ^¸p¡L$él6›L&“©Nœ8¡›}gîö â½NM¹˜ÏuTïhí¦ x`C(B²óU«Vå Q¥«¬GE„7--M¶ÿ~£T*U†NŞ&ÂÅ1‘586¼–XêÁ·©šl·úàˆ ƒ–S_ä7Ôï¼ó	 3cÆgM@H‚ºÅqÏp´v‹oæŒë÷«áZjfÕªU†a(š¦Éÿûß7‚í”¹sçÖhŞÍëõ*ãââL`K¡k%Ñm¢™œ}ôl®Ñ3l ”Z­.b†1…¡ÆîØ±cMn·ÛÆEŒu9997ªk„yP`°om$ú6Úÿæ\ß‡*y.`±8 J©T0Ã¨T*i8oê‘GñLš4ÉğüÃÉãñª½ß"MÓäœ9sDœû^+n##}@¶½_e~$À$³gÏVøı~³ÇãQqnvXhê‚$L[»\.S„Æ£.g/Õnïíe¤¯ÁbŒ+Ó8ü°õì &))I£Óéo-ÜçÄ‰U7šŸŸ¯òx<eæ‘Øl6?'?¹×7æ^
+r1`ÃmÛ²¢Øi5ØY`% °nİº¶]»vm‹¿±:e #6›ÍYÕ‡‹Å“Éäı»ÓéÔ€E,¸k™èö3Ò°~AÅÛîŠ <¶şŸq¹\‚¤šl­”?N0S%P|AAA‡Ãq6š¢(çÎ;ã8I”Y«dî‹;®L¼ SÁÎYNM¼v¦j©Jûã?òªP5«êŞ½»W£Ñı~¿Çãåúı~ÿ²eË$Üõ©İÆ;OíÀÎxoXÉßwÄ4WÁV‚’LãÆİ7nÜ3S¡V6ÇòÁèFŒa¤(Ê¾sçÎÜÕ«W_?~¼»öyÜãÌï'ªÇÙ:•mMœ `iP¼è% ‚B bçÎbŸÏM­?­Õj%|ğ ³wïŞ¢äää¬˜˜Š»‡À°­™ké.£FUøm,XØ¶ÿÏMÉ ø‘òâÅ‹Å'¬×fµZ¥;wîÆÅÅyğ÷¸MYĞ5ÒyN-İã”Èyo€³ÜßZ(
+çúŸ9s†Q]Î;vÜhß¾½‘Ë¡rª²–î3Šğ4Ø†ÍÛ´ÇßÓJ?gÏ-Åjët:ûóÏ?«zzÿÃ]ïïw£ü,nÎıFZôÀßy7 sáÂ3'ÔÃ‡7EÁ@ØÚºÖµË~ÑÜæŠÀBhG…‰›Åsjè&†HIIQsıŠTQ2PàsÕ?2õ®çÿ«ô X,÷@°`øã([a2c®›èòåË1ÃĞƒ¡¢¡…×ÁzO¨=Ã÷}
+®b6µÂÍÁÈ›æ»Êd2å7ä”DLñşØ´GC°E	İ°Ö ¿w¨.Ø4ÇÓş}şns·d 0Ï=÷œJ¯×K&Nœh¬$#Q`«:¼à¦ è ¶5s-pÿsí·!|àïwn³‚Å#…v,cüqçO<q¬’LøÈÁ6øú„³Ïz×nË½GM tó÷_Àá€ø«È,‘J‰.€§`{XÖÒ}D£Áò[ï#r]YU?~Îˆ¯¥ûĞsİ¶KÀ¦B~¬€„‰6~d[°YK÷)Åƒš& ø9„	4$Ô{`«n}å0ĞUTf-İ…ƒ›¡&ñ`ËŒ“vN‰9ƒ407§UŸó †ívû÷½{2~WË#Qôß4Pƒ-cêv,û\°ıÛq†x°îNsé:ØÒ'†cÌVA¿7ø÷(T6¦–?ªDÀv½}	lGõœê¶¼©+ÇTÅ\¬É~?.ÂÿƒDÃuÙâà    IEND®B`‚
+------MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gnu.org/server/banners/fundraiser.css
+
+@charset "utf-8";
+
+div#top { border-top: 0px; }
+
+#top p { margin: 0px; }
+
+#fundraiser { background: rgb(0, 101, 255); position: relative; height: 230px; overflow: hidden; }
+
+#fundraiser a { text-decoration: none; }
+
+#fundraiser .progress { height: 18px; line-height: 18px; }
+
+#fundraiser .progress-bar { background: rgb(253, 158, 56); position: absolute; min-width: 40px; top: 0px; left: 0px; }
+
+#fundraiser .progress-bar span { position: relative; left: 10px; padding-left: 100%; white-space: nowrap; }
+
+#fundraiser div.message { height: 200px; }
+
+#fundraiser .message p.headline { padding: 10px; }
+
+#fundraiser .message p.headline b { font-size: 30px; color: rgb(253, 158, 56); }
+
+#fundraiser .message .button a { font-weight: bold; color: rgb(27, 12, 61); background: rgb(253, 158, 56); padding-bottom: 2px; display: inline; margin-left: 3em; }
+
+#fundraiser .button a { border-radius: 20px; }
+
+#fundraiser .message { margin: 5px; padding: 10px; background: rgb(27, 12, 61); text-align: center; }
+
+#fundraiser .message p { margin-top: 0px; margin-bottom: 0px; }
+
+#fundraiser .message p a { font-size: 19px; color: white; }
+
+#fundraiser .message p.button { position: absolute; top: 145px; width: 100%; margin-right: 8%; padding-top: 30px; text-align: center; padding-bottom: 10px; font-size: 21px; }
+
+#fundraiser .progress { color: white; position: absolute; bottom: 0px; padding-right: 0px; padding-left: 0px; width: 100%; font-family: monospace; font-weight: bold; height: 18px; background: rgb(0, 101, 255); }
+
+#fundraiser .goal { position: absolute; right: 1em; }
+
+@media (max-width: 900px) {
+  #fundraiser .message p.headline { padding-top: 0px; }
+  #fundraiser .message p a { font-size: 15px; }
+  #fundraiser .message p.headline b { font-size: 19px; }
+  #fundraiser .message p.button { font-size: 17px; top: 150px; }
+  #fundraiser .progress { font-size: 8px; }
+}
+
+@media (max-width: 550px) {
+  #fundraiser .message p.headline { padding-bottom: 8px; }
+  #fundraiser .message p { line-height: 19px; }
+  #fundraiser .message p a { font-size: 13px; }
+  #fundraiser .progress { font-size: 6px; }
+}
+
+@media (max-width: 430px) {
+  #fundraiser { display: none; }
+}
+------MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gnu.org/print.min.css
+
+@charset "utf-8";
+
+#header, #navigation, #links, #toplinks, #fsf-links, #back-to-top, #translations, #searcher, .unprintable, #mission-statement, #Disclaimer, #education-content, .edu-breadcrumb, .anchor-reference-id, .back, .skip, #fsf-frame, #languages, #navlinks, .breadcrumb, .backtotop, #edu-navigation, #side-menu-icon, p#sisters, .no-display, p.button { display: none; }
+
+.inner { width: 100%; }
+
+body { font-family: Baskerville, Georgia, Garamond, Times, serif; border: 0px; font-size: 12pt !important; }
+
+h1, h2, h3, h4, h5, h6 { border: 0px; font-family: Baskerville, Georgia, Garamond, Times, serif; }
+
+div, p, ul, dl, ol { width: auto !important; }
+
+ul, ol, dl { padding-right: 0.5em; }
+
+ul { list-style-type: square; }
+
+ul.no-bullet { list-style-type: none; }
+
+dt { font-weight: bold; }
+
+pre { border: 1pt dotted black; white-space: pre; font-size: 10pt; overflow: auto; padding: 1em; }
+
+table, td, th { padding: 0.3em; border-collapse: collapse; border: 1pt solid black !important; }
+
+table#gpl-compat-matrix td, th.gpl-matrix-border { text-align: center; }
+
+th.gpl-matrix-license { text-align: right; }
+
+tr.gpl-matrix-use-type { border-top: 2pt solid black; }
+
+div#matrix-skip-target { border: 1pt solid transparent; }
+
+a { color: black !important; text-decoration: none !important; }
+
+a:link, a:visited { background: transparent; color: rgb(85, 34, 0) !important; }
+
+a[href]::after { content: " <" attr(href) ">"; font-size: 10pt; }
+
+a[href^="#"]::after { content: ""; }
+
+a[href^="mailto"]::after { content: ""; }
+
+abbr, acronym { text-decoration: none; }
+
+video { display: block; width: 30em; max-width: 100%; height: auto; margin: auto; }
+
+#content { margin-bottom: 1.5em; }
+
+#footer { padding-top: 0.5em; border-top: 1pt solid black; }
+
+.documentDescription { font-weight: bold; }
+
+.center, .c { text-align: center; }
+
+.important, .announcement { padding-left: 1em; border-left: 2pt solid; margin: 2em 0px; }
+
+.important { border-color: orange; }
+
+.announcement { border-color: green; }
+
+#fsf-licensing { padding: 0px 1em; margin: 2em 0px !important; border: 1pt solid rgb(102, 102, 102) !important; }
+
+#legend { border: 1pt solid rgb(102, 102, 102) !important; }
+------MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://www.gnu.org/layout.min.css
+
+@charset "utf-8";
+
+html, body { text-align: left; text-decoration: none; color: rgb(34, 34, 34); }
+
+html { background: rgb(228, 228, 228); }
+
+body { font-size: 1em; max-width: 74.92em; padding: 0px; margin: 0px auto; background: white; border-width: 0px 0.1em 0.1em; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-right-color: rgb(187, 187, 187); border-bottom-color: rgb(187, 187, 187); border-left-color: rgb(187, 187, 187); border-image: initial; border-top-style: initial; border-top-color: initial; box-shadow: rgb(187, 187, 187) 0px 0px 5px 5px; }
+
+div { padding: 0px; margin: 0px; }
+
+.inner { overflow: hidden; }
+
+#top { border-top: 3px solid rgb(163, 45, 42); }
+
+.skip, #fsf-frame { position: fixed; top: -1000px; }
+
+#header { text-align: center; display: table; width: 100%; }
+
+#gnu-banner { line-height: 1em; padding: 0.6em 0px; }
+
+#gnu-banner, #switches { display: table-cell; text-align: center; vertical-align: middle; padding: 0.6em; }
+
+#gnu-banner img { vertical-align: middle; height: 2.7em; width: auto; margin-right: 0.15em; }
+
+#gnu-banner strong { vertical-align: middle; font-weight: normal; font-size: 2em; }
+
+#gnu-banner .hide, #fsf-support { display: none; }
+
+.switch { display: inline-block; vertical-align: middle; line-height: 1em; padding: 0.2em 8%; }
+
+.switch img { height: 1.7em; width: auto; }
+
+@media (max-width: 20em) {
+  .switch { padding: 0.2em; }
+}
+
+#navigation ul { margin: 0px; }
+
+#edu-navigation { margin: 0px -3.2%; }
+
+#navigation ul, #edu-navigation { font-weight: bold; padding: 0px 2%; }
+
+#navigation ul, #navigation li, #navigation a, #edu-navigation, #edu-navigation li, #edu-navigation a { line-height: 2em; }
+
+#navigation li, #edu-navigation li { white-space: nowrap; display: inline; margin: 0px 0.2em; }
+
+#navigation li a, #edu-navigation li a { display: inline-block; padding: 0px 0.6em; margin: 0.0625em 0px; }
+
+#more-links, #less-links { display: none; }
+
+#navigation a, #edu-navigation a { text-decoration: none; }
+
+#navigation { background: rgb(163, 45, 42); border-top: 0.0625em solid rgb(163, 45, 42); border-bottom: 0.0625em solid rgb(163, 45, 42); }
+
+#edu-navigation { background: rgb(238, 238, 238); border-bottom: 0.0625em solid rgb(187, 187, 187); }
+
+#navigation a { color: white; }
+
+#edu-navigation a { color: rgb(51, 51, 51); }
+
+#navigation li a:hover, #navigation li.active a { background: rgb(128, 3, 0); }
+
+#edu-navigation li a:hover, #edu-navigation li.active a { background: white; }
+
+#edu-navigation li.active a, #navigation li.active a { font-style: italic; cursor: default; }
+
+#language-container .backtotop { margin: 0px 3%; }
+
+#language-container .backtotop a { margin-top: 0.5em; }
+
+#languages .close { display: none; }
+
+#languages { font-size: 0.94em; line-height: 1.2em; text-align: left; padding: 0.6em 3%; margin: 0px; background: rgb(244, 244, 244); border-top: 3px solid rgb(153, 153, 153); }
+
+#set-language { margin-bottom: 0.2em; }
+
+#set-language + p { display: inline-block; font-size: 1em; margin: 0.45em 0px 0px; }
+
+#translations { padding: 0.4em 0px; }
+
+#translations p { margin: 0px; }
+
+#translations span { display: inline-block; width: 10.5em; line-height: 2em; }
+
+#translations span a { line-height: 1.9em; }
+
+#translations span.original { font-weight: bold; }
+
+@media (min-width: 0) {
+  @supports selector(:target) {
+  #language-container { display: none; }
+  #language-container:target { display: block; }
+  .backtotop b { display: none; }
+  body { position: relative; }
+  #language-container { position: absolute; top: -3px; left: 0px; width: 100%; height: 100%; }
+  #language-container .backtotop a { position: absolute; width: 100%; height: 100%; background: transparent; border: 0px; margin-top: 0px; }
+  #languages .close { float: right; display: block; }
+  #languages .close span { display: none; }
+  #languages .close::after { content: "â¨‰"; float: right; cursor: pointer; }
+  #languages { position: relative; margin-top: 4em; float: right; overflow: auto; max-width: 21em; text-align: left; padding: 0.5em 1em; background: white; border: 2px solid rgb(187, 187, 187); box-shadow: rgba(153, 153, 153, 0.6) 0px 0px 1em 1em; }
+  #translations { columns: 10em 3; column-gap: 0px; }
+  #translations span { display: block; }
+  #translations span a { display: inline-block; }
+  #navigation, #edu-navigation { font-size: 1em; }
+  #navigation { height: 2.125em; overflow: hidden; }
+  #more-links { display: block; }
+  #navigation:target { height: auto; }
+  #navigation:target #more-links { display: none; }
+  #navigation:target #less-links { display: block; }
+  #more-links, #less-links { float: right; line-height: 2em; padding: 0px 0.6em; background: rgb(128, 3, 0); margin: 0.0625em 2%; overflow: hidden; }
+  #more-links span, #less-links b { display: none; }
+  #more-links::after { content: "â‰«"; position: relative; bottom: 0.05em; }
+  #less-links::after { content: "â¨‰"; font-weight: bold; position: relative; bottom: 0.1em; }
+}
+}
+
+@media (min-width: 34em) {
+  @supports selector(:target) {
+  #languages { max-width: 36em; }
+}
+}
+
+@media (min-width: 45em) {
+  #gnu-banner img { height: 3em; }
+  #gnu-banner strong, #gnu-banner .hide { font-size: 2em; }
+  #gnu-banner .hide { display: inline; vertical-align: middle; font-size: 2em; }
+  #fsf-support { display: block; font-size: 0.8em; }
+  #fsf-support a { font-weight: bold; }
+  .switch { line-height: 1.1em; }
+  .switch img { height: 1.875em; }
+  @supports selector(:target) {
+  #languages { margin-top: 5.5em; }
+}
+}
+
+@media (min-width: 57em) {
+  #fsf-frame { position: static; display: table; font-size: 0.875em; width: 100%; }
+  #fssbox, #join-fsf { display: table-cell; vertical-align: middle; padding: 0.3em 2em; }
+  #join-fsf { text-align: right; }
+  #fssbox a { display: inline-block; line-height: 1.9em; font-weight: bold; }
+  #fssbox div { display: inline; white-space: nowrap; }
+  @supports selector(:target) {
+  #languages { margin-top: 8.5em; }
+}
+}
+
+#content { padding: 1px 3% 0px; margin-bottom: 3em; }
+
+.breadcrumb { display: inline-block; vertical-align: top; line-height: 1.6em; margin: 0.5em 1.5em 0px 0px; text-align: left; }
+
+.breadcrumb img { height: 1.4em; width: auto; padding: 0px; }
+
+.breadcrumb a { white-space: nowrap; }
+
+address.byline { font-size: 1.06rem; font-style: italic; margin-bottom: 2em; }
+
+.article { font-size: 1.06em; }
+
+.reduced-width { max-width: 100%; }
+
+@media (min-width: 51em) {
+  .reduced-width, .reduced-width + .translators-notes { width: 48em; margin: 1.5em auto; }
+  .article.reduced-width { width: 45em; }
+}
+
+h3.footnote + ol, h3.footnote + ul { font-size: 1rem; }
+
+.back { line-height: 1.7em; text-align: right; font-weight: bold; margin: 2em 2%; }
+
+.back a { display: inline-block; }
+
+.infobox { font-size: 0.94em; line-height: 1.3em; color: rgb(68, 68, 68); }
+
+.infobox p { margin: 0.4em 0px 0px; }
+
+.infobox hr { display: block; width: 15em; max-width: 100%; height: 1px; border: 0px; margin: 0px 0px 1em; }
+
+.infobox hr.full-width { width: 100%; margin: 1.5em 0px; }
+
+div.infobox { margin: 2.5em 0px 0px; }
+
+blockquote#fsfs p { padding: 0.3em 0px; font-size: 1.2em; }
+
+p#fsfs { margin: 2.5em 0px; }
+
+.trans-disclaimer { clear: both; text-align: center; font-style: italic; position: relative; top: 0.4em; margin: 0.2em 0px 0px; }
+
+@media (max-width: 30em) {
+  .breadcrumb ~ .trans-disclaimer, .nav ~ .trans-disclaimer { text-align: right; }
+}
+
+#outdated { clear: both; font-size: 0.94em; width: 48em; max-width: 85%; padding: 0.5em 0.8em 0.7em; border: 0.2em solid rgb(255, 204, 119); margin: 0.8em auto; }
+
+#outdated p { display: inline; margin: 0px; color: black; }
+
+#outdated a.original-link { font-weight: bold; color: brown; }
+
+#outdated p.hide { display: none; }
+
+@media (min-width: 50em) {
+  #outdated p.hide { display: inline; }
+}
+
+.translators-notes { font-size: 1rem; clear: left; line-height: 1.5em; margin-top: 2em; }
+
+.translators-notes hr { height: 1px; margin: 1.7em 0px 1.2em; border: 0px; }
+
+.translators-notes p, .translators-notes ul, .translators-notes ol { margin-bottom: 0px; }
+
+.translators-notes ol li { margin: 0.5em 1.1em 0px; }
+
+.edu-cases { font-size: 1.06em; width: 44.3em; max-width: 100%; margin: 2em auto; }
+
+.edu-cases ul, .edu-cases ol { margin: 1em 4%; }
+
+.edu-cases h3 { font-size: 1.3em; }
+
+#mission-statement { padding: 0.5em 3% 2em; background: white; border-top: 3px solid rgb(153, 153, 153); }
+
+#mission-statement blockquote { font-weight: bold; font-style: italic; margin: 0.5em 3% 0.8em; }
+
+#mission-statement p { margin: 0px; }
+
+#mission-statement img { float: left; height: 2em; margin: 0.5em; }
+
+#support-the-fsf { clear: both; text-align: center; }
+
+#footer { font-size: 0.875em; padding: 1.5em 3%; color: rgb(51, 51, 51); background: rgb(244, 244, 244); border-top: 3px solid rgb(153, 153, 153); }
+
+#footer p, #bottom-notes { margin: 0px; }
+
+.unprintable { margin-bottom: 0.7em; }
+
+.translators-credits { margin: 0.7em 0px; }
+
+#footer p.unprintable, #generic p { margin-top: 0.7em; }
+
+small { font-size: 0.875em; }
+
+strong { font-style: inherit; font-weight: bold; }
+
+em, cite, var, dfn { font-style: italic; font-weight: inherit; }
+
+em i, em cite, cite i, cite em, i em, i cite, i i { font-style: normal; }
+
+acronym, abbr { font-variant: normal; text-decoration: none; border-bottom: 1px dotted rgb(0, 0, 0); cursor: help; }
+
+code, samp, kbd { font-family: monospace; padding: 0px 0.2em; }
+
+code, kbd { background: rgb(242, 242, 242); }
+
+kbd { color: rgb(117, 43, 27); }
+
+ins { text-decoration: none; }
+
+del { text-decoration: line-through; }
+
+sup { vertical-align: super; }
+
+sub { vertical-align: sub; }
+
+.center, .c { text-align: center; }
+
+.nocenter { text-align: left; }
+
+.right-align { text-align: right; margin: 2em 0px 2em 10%; }
+
+.inline-list li { display: inline; }
+
+.no-bullet li { list-style: none; }
+
+.no-display { display: none; }
+
+.clear { clear: both; }
+
+p, pre, address { line-height: 1.5em; margin: 1em 0px; }
+
+blockquote { margin: 1em 3%; }
+
+p, blockquote { padding: 0px; }
+
+pre { padding: 0px 0px 0.3em; overflow: auto; }
+
+h1 { font-size: 2.375em; margin: 0.7em 0px; }
+
+h2 { font-size: 2em; margin: 0.7em 0px; }
+
+.article h2 { font-size: 1.89em; }
+
+h3 { font-size: 1.5em; margin: 1.2em 0px 0.8em; }
+
+.article h3 { font-size: 1.41em; }
+
+h4 { font-size: 1.25em; margin: 1.2em 0px 0.85em; }
+
+.article h4 { font-size: 1.18em; }
+
+h5 { font-size: 1.125em; margin: 1.3em 0px 0.9em; }
+
+.article h5 { font-size: 1.06em; }
+
+h6 { font-size: 1em; margin: 1.3em 0px 1em; }
+
+h2 { clear: both; }
+
+h1, h2, h3, h4 { font-weight: bold; }
+
+h1, h2, h3 { padding: 0.2em 0px; }
+
+h3 { color: rgb(51, 51, 51); }
+
+h4 { color: rgb(80, 80, 80); }
+
+h5, h6 { font-weight: normal; font-style: italic; }
+
+.infobox h3, h3.footnote, .translators-notes h3, .translators-notes > b, .translators-notes > strong { font-size: 1.19rem; }
+
+.translators-notes > b, .translators-notes > strong { margin: 1.2em 0px 0.8em; color: rgb(51, 51, 51); }
+
+.big-section { clear: left; float: left; }
+
+.big-section h3 { display: inline-block; font-size: 1.75em; margin: 1em 0.3em 0.5em 0px; color: black; border-top: 0.12em solid rgb(231, 76, 60); border-bottom: 0.12em solid rgb(231, 76, 60); }
+
+.article .big-section h3 { font-size: 1.65em; }
+
+.big-subsection { margin: 1.5em 0px; }
+
+.big-subsection h4 { display: inline; font-size: 1.5em; margin-right: 0.3em; color: black; }
+
+.article .big-subsection h4 { font-size: 1.41em; }
+
+.big-subsection { line-height: 2em; }
+
+.big-subsection h4 { line-height: 1.2em; }
+
+.anchor-reference-id { font-weight: normal; font-size: 0.8125em; }
+
+@media (max-width: 20em) {
+  h1 { font-size: 1.875em; }
+  h2 { font-size: 1.625em; }
+  .article h2 { font-size: 1.53em; }
+  h3 { font-size: 1.31em; }
+  .article h3 { font-size: 1.24em; }
+  h4 { font-size: 1.125em; }
+  .article h4 { font-size: 1.06em; }
+  h5 { font-size: 1em; }
+  .big-section h3 { font-size: 1.44em; }
+  .article .big-section h3 { font-size: 1.36em; }
+  .big-subsection h4 { font-size: 1.31em; }
+  .article .big-subsection h4 { font-size: 1.24em; }
+}
+
+ul, ol, li, dl, dd, dt { padding: 0px; }
+
+li, dt, dd { line-height: 1.5em; }
+
+ul li { list-style: outside square; }
+
+ul ul li, ol ul li { list-style: circle; }
+
+ol li, #content ul li ol li { list-style: outside decimal; }
+
+ul, ol { margin: 1em 1.5%; }
+
+ol li { margin: 1em 0px 0px 1em; }
+
+ul li, ul ol li { margin: 0.5em 0px 0px 1em; }
+
+ul ul li { margin-top: 0.3em; }
+
+ul li p, ul li pre, ul li blockquote, table li { margin-top: 0.3em; margin-bottom: 0.3em; }
+
+ul ul, ol ul, table ul { margin: 0px 1.5%; }
+
+ul.para > li { margin-top: 1em; }
+
+.date-tag { padding: 0.2em 0.5em; color: rgb(80, 80, 80); background: rgb(242, 242, 242); border-radius: 0.25em; }
+
+ul.blurbs li { margin-top: 1em; }
+
+ul.blurbs ul li, ul.blurbs ol li, ul.blurbs dl li { margin-top: 0.5em; }
+
+ul.blurbs > li { list-style: none; }
+
+.blurbs .date-tag { position: relative; right: 2em; }
+
+@media (max-width: 30em) {
+  .blurbs .date-tag { right: 1.5em; }
+}
+
+dl { margin: 1.5em 0px 0px; }
+
+dt { font-weight: bold; color: rgb(51, 51, 51); margin: 1em 0px; }
+
+dl dd { margin: 1em 3% 1.5em; }
+
+dl.compact { margin: 0.5em 0px; }
+
+dl.compact dt { font-weight: normal; font-style: italic; margin: 0.5em 0px 0px; }
+
+dl.compact dd { margin: 0.3em 3% 0px; }
+
+dl.compact dd p { margin: 0.3em 0px 0px; }
+
+dl.compact dd ul { margin: 0.3em 1.5% 0px; }
+
+hr { display: block; margin: 1.2em 0px; color: rgb(153, 153, 153); background: rgb(153, 153, 153); }
+
+hr.separator { height: 0.3em; border: 0px; }
+
+.thin { clear: both; height: 2px; margin: 1.5em 0px; border: 0px; background: rgb(187, 187, 187); }
+
+.column-limit { height: 0.4em; width: 15%; min-width: 7em; margin: 2em auto; border: 0px; background: linear-gradient(to right, white, rgb(187, 187, 187), white) rgb(187, 187, 187); }
+
+table { border-collapse: collapse; border-spacing: 0px; margin: 1.5em 0px; }
+
+caption { font-style: inherit; font-weight: inherit; text-align: center; margin-bottom: 0.5em; }
+
+th, td { border: 1px solid rgb(187, 187, 187); padding: 0.5em; margin: 0px; }
+
+th { font-weight: bold; text-align: center; }
+
+th, td, td p, td li { line-height: 1.3em; }
+
+.listing { width: 100%; display: block; overflow-x: auto; border: 0.2em solid rgb(204, 204, 204); }
+
+.listing th { font-weight: normal; padding: 0.7em; color: black; background: rgb(255, 241, 192); border-width: 1px 1px 0px; border-top-style: solid; border-right-style: solid; border-left-style: solid; border-top-color: rgb(153, 153, 153); border-right-color: rgb(153, 153, 153); border-left-color: rgb(153, 153, 153); border-image: initial; border-bottom-style: initial; border-bottom-color: initial; }
+
+.listing td { padding: 1em; text-align: center; border: 1px solid rgb(153, 153, 153); }
+
+.listing img { vertical-align: middle; }
+
+.listing .odd { background: transparent; }
+
+.listing .even { background: rgb(244, 244, 244); }
+
+.columns p.inline-block { display: inline-block; margin: 0px; }
+
+.columns > :first-child { margin-top: 0px; }
+
+.columns > :last-child { margin-bottom: 0px; }
+
+@media (min-width: 55em) {
+  .columns { column-count: 2; column-gap: 1.5em; }
+}
+
+img { vertical-align: top; border: 0px; }
+
+.imgright, .imgleft { max-width: 100%; }
+
+.imgright { float: right; margin: 0.3em 0px 1em 2em; }
+
+.imgleft { float: left; margin: 0.3em 2em 1em 0px; }
+
+.narrow { width: 15em; }
+
+.medium { width: 20em; }
+
+.wide { width: 27em; }
+
+.pict { max-width: 100%; margin: 1em auto; }
+
+.pict img { width: 100%; height: auto; }
+
+.pict p { text-align: center; font-style: italic; font-size: 0.875em; margin-top: 0.5em; }
+
+@media (min-width: 45em) {
+  .pict.narrow { max-width: 45%; float: right; margin: 0.3em 0px 1em 2em; }
+}
+
+@media (min-width: 50em) {
+  .pict.medium { max-width: 45%; float: right; margin: 0.3em 0px 1em 2em; }
+}
+
+@media (min-width: 57em) {
+  .pict.wide { max-width: 45%; float: right; margin: 0.3em 0px 1em 2em; }
+}
+
+.indent-para { margin-left: 3%; margin-right: 3%; }
+
+.comment, .introduction { font-style: italic; margin: 1.5em 6%; }
+
+.article .comment { font-size: 0.94em; }
+
+.comment cite, .introduction cite { font-style: normal; }
+
+.epigraph { margin: 2em 0px 2em 10%; color: rgb(68, 68, 68); }
+
+@media (max-width: 30em) {
+  .comment, .introduction { margin: 1.5em 0px; }
+}
+
+.emph-box *, .highlight-para *, .lyrics *, .announcement *, .important * { margin-bottom: 0px; }
+
+.announcement, .important { padding: 0.4em 1em; margin-top: 1.5em; margin-bottom: 1.5em; }
+
+.announcement blockquote { margin: 0px; }
+
+.announcement p, .important p { padding-top: 0.4em; padding-bottom: 0.5em; margin: 0px; }
+
+.announcement > ul, .important > ul { margin: 0px; }
+
+.announcement li, .important li { padding-top: 0.2em; padding-bottom: 0.3em; margin-top: 0px; }
+
+.announcement h3, .important h3 { font-size: 1.25em; margin: 0.35em 0px 0.4em; }
+
+.announcement { border-left: 0.4em solid rgb(85, 204, 85); }
+
+.important { border-left: 0.4em solid rgb(255, 204, 119); }
+
+@media (min-width: 48em) {
+  .announcement, .important { padding: 0.4em 1.5em; }
+}
+
+blockquote.highlight-para, blockquote.emph-box, div.highlight-para, div.emph-box { padding: 0px 1.2em 1.1em; margin: 2em 0px; }
+
+p.highlight-para, p.highlight, p.emph-box, pre.emph-box { padding: 0.7em 1.2em 0.8em; }
+
+.emph-box h3, .highlight-para h3, .lyrics h3 { font-size: 1.25em; margin: 0.8em 0px; }
+
+.emph-box h4, .highlight-para h4, .lyrics h4 { font-size: 1em; }
+
+pre.emph-box code, pre.emph-box kbd, pre.emph-box samp, p.emph-box code, p.emph-box kbd, p.emph-box samp { padding: 0px; }
+
+.highlight-para, .highlight { background: rgb(255, 245, 212); }
+
+span.highlight { background: rgb(255, 241, 192); }
+
+.highlight-para { border-top: 0.1em solid rgb(255, 204, 119); border-bottom: 0.1em solid rgb(255, 204, 119); }
+
+.emph-box { background: rgb(242, 242, 242); border: 0.1em solid rgb(187, 187, 187); }
+
+.lyrics { display: inline-block; max-width: 80%; font-style: italic; padding: 0.5em 2em 1.7em; background: rgb(247, 247, 247); border: 0.1em solid rgb(187, 187, 187); border-radius: 0.5em; margin: 0.5em 0px 0.5em 6%; }
+
+@media (max-width: 45em) {
+  .lyrics { box-sizing: border-box; max-width: 100%; padding: 0px 1em 1.2em; margin-left: 0px; }
+}
+
+.note, .edu-note { margin: 2em auto; }
+
+.edu-note { width: 37.7em; max-width: 100%; }
+
+.edu-note p { font-style: italic; padding: 0.7em 1em 0.8em; margin: 0px; }
+
+.note { width: 45em; max-width: 82%; padding: 0.3em 3% 0.4em; background: white; }
+
+.note p { padding: 0.4em; margin: 0px; }
+
+.note, .edu-note p { border: 0.15em solid rgb(0, 170, 170); }
+
+.edu-note p { border-radius: 0.5em; }
+
+.summary, .toc { width: 45em; text-align: center; padding: 1.3em 3%; margin: 2em auto; background: rgb(244, 244, 244); }
+
+.summary { max-width: 82%; }
+
+.toc { max-width: 94%; }
+
+.summary > ul, .toc > ul { text-align: left; font-size: 0.94rem; display: inline-block; margin: 0px 0.5em 0px 0px; }
+
+.summary ul ul, .toc ul ul { margin: 0px; }
+
+.summary li, .toc li { margin: 0px 0px 0px 1.5em; padding: 0.1em 0px; }
+
+.summary h3, .toc h3 { font-size: 1.125em; margin-top: 0.3em; }
+
+.summary h4, .toc h4 { text-align: left; font-size: 1em; }
+
+.summary a, .toc a { display: block; padding: 0.2em 0px; }
+
+.toc-inline { font-size: 0.94em; text-align: center; padding: 0px 3%; margin: 2em auto; }
+
+.toc-inline a { display: inline-block; padding: 0.1em 0.4em; margin: 0.3em; background: rgb(242, 242, 242); border: 0.1em solid rgb(187, 187, 187); }
+
+.toc-inline h3 { display: none; }
+
+.toc-inline h4 { font-size: 1em; margin: 1em 0px 0.2em; }
+
+.toc-inline h4 a { border: 0px; }
+
+.toc-inline ul, .toc-inline li { display: inline; margin: 0px; }
+
+@media (max-width: 30em) {
+  .note, .summary { max-width: 92%; }
+  #content .note { margin-left: auto; margin-right: auto; }
+}
+
+@media (min-width: 48em) {
+  .note, .summary { clear: right; float: right; width: 20em; max-width: 40%; margin: 0.5em 0px 1em 2em; }
+  #content .note { margin-right: 0px; margin-left: 2em; }
+  .summary { padding: 1em 0.8em; }
+  .note { padding: 0.3em 0.8em 0.4em; }
+}
+
+div.toc .malfunctions h3, div.toc .companies h3 { padding: 0px; margin: 0px 0px 0.5em; }
+
+#content .malfunctions, #content .companies { display: inline-block; padding: 0.5em 0.5em 0px; margin: 0px; }
+
+#content .toc .malfunctions { max-width: 29em; }
+
+#content .toc .companies { max-width: 14em; }
+
+#content .malfunctions ul, #content .companies ul { padding: 0px; margin: 0px; }
+
+#content div.toc .malfunctions li, #content div.toc .companies li { padding: 0px 0px 0.5em; margin: 0px; }
+
+#content div.toc.c { background: 0px center; }
+
+#content div.toc.c h3 { display: none; }
+
+#content div.toc.c a { display: inline-block; padding: 0.1em 0.4em; margin: 0.3em; background: rgb(242, 242, 242); border: 0.1em solid rgb(187, 187, 187); }
+
+#content div.toc.c a:hover { background: white; }
+
+#content #video-container { width: 37.7em; margin: 2em auto; }
+
+#video-container .emph-box { font-size: smaller; margin: 0px; }
+
+div.package-list a, div.package-list a:visited { margin-bottom: 0.1em; }
+
+@media (min-width: 48em) {
+  #content #dynamic-duo { width: 19.2em; max-width: 38%; margin-bottom: 1.5em; }
+  #dynamic-duo p { font-size: 0.875em; }
+}
+
+a[href] { text-decoration-color: rgb(187, 187, 187); }
+
+a[href]:link { color: rgb(0, 68, 153); }
+
+a[href]:visited { color: rgb(85, 0, 51); }
+
+a[href]:active { text-decoration: none; }
+
+#gnu-banner > a { color: rgb(51, 51, 51); text-decoration: none; }
+
+#gnu-banner > a strong { color: rgb(163, 45, 42); }
+
+#fsf-support, #fsf-support a[href], #fssbox a[href], .breadcrumb a[href], .back a[href], .anchor-reference-id a[href] { color: rgb(75, 75, 75); }
+
+#translations a[href], .trans-disclaimer a[href], .toc a[href], .toc-inline a[href], .summary a[href], .package-list a[href] { color: rgb(0, 68, 153); text-decoration: none; }
+
+a[href]:hover, #fsf-support a[href]:hover, #fssbox a[href]:hover { color: black; text-decoration: none; }
+
+#translations a[href]:hover { background: rgb(235, 235, 255); }
+
+.toc a[href]:hover, .summary a[href]:hover, .toc-inline a[href]:hover, .package-list a[href]:hover { background: white; }
+
+form, legend, fieldset, textarea { padding: 0px; }
+
+form, legend, button, textarea, input { margin: 0px; }
+
+fieldset { border: 0px; margin: 1em 0px; }
+
+input, button, textarea, select, optgroup, option { font-family: inherit; font-size: inherit; font-style: normal; font-weight: normal; }
+
+button, select, input { padding: 0px 0.3em; }
+
+.button a, .switch a { display: inline-block; }
+
+input[type="text"], input[type="submit"], .button a { line-height: 1.9em; padding: 0px 0.6em; }
+
+input[type="submit"], .button a, .switch a { font-weight: bold; margin: 0px; }
+
+select { height: 1.9em; }
+
+#support-the-fsf a { padding: 0.2em 1em; margin: 1em 1.5em 0px; }
+
+.backtotop a { float: right; position: relative; bottom: 1em; font-size: 1.2em; font-weight: bold; line-height: 1.4em; padding: 0px 0.6em 0.3em; margin: 0px 1em; }
+
+.backtotop a span { display: none; }
+
+.inner > .backtotop { margin-right: 3%; }
+
+.button a[href], .backtotop a[href] { text-decoration: none; color: rgb(64, 64, 187); background: white; border: 0.1rem solid rgb(153, 153, 153); }
+
+.button a[href]:hover, .backtotop a[href]:hover { color: rgb(51, 51, 204); background: rgb(235, 235, 255); border-color: rgb(85, 85, 187); }
+
+.switch a:hover { opacity: 0.8; }
+
+#join-fsf a, #support-the-fsf a.join { color: rgb(163, 45, 42); border-color: rgb(163, 45, 42); }
+
+#join-fsf a:hover, #support-the-fsf a.join:hover { color: rgb(150, 4, 0); background: rgb(246, 229, 225); }
+
+#support-the-fsf a.donate { color: rgb(64, 64, 187); border-color: rgb(85, 85, 187); }
+
+#support-the-fsf a.donate:hover { color: rgb(51, 51, 204); background: rgb(235, 235, 255); }
+
+#support-the-fsf a.shop { color: rgb(0, 99, 99); border-color: rgb(0, 136, 136); }
+
+#support-the-fsf a.shop:hover { color: rgb(0, 95, 95); background: rgb(221, 255, 255); }
+
+#fssbox input { background: white; }
+
+#fssbox input[type="text"] { color: rgb(85, 85, 85); border: 0.1em solid rgb(187, 187, 187); }
+
+#fssbox input[type="text"]:focus { color: rgb(51, 51, 51); border-color: rgb(0, 136, 136); }
+
+#fssbox input[type="submit"] { color: rgb(0, 99, 99); border: 0.1em solid rgb(0, 136, 136); cursor: pointer; }
+
+#fssbox input[type="text"]:focus ~ input[type="submit"], #fssbox input[type="submit"]:hover { color: rgb(0, 95, 95); background: rgb(221, 255, 255); }
+
+.rounded-corners, .button a, .backtotop a, input, select { border-radius: 0.4em; }
+
+a[href] { font-family: sans-serif; }
+
+#fsf-frame a[href], form, .button a[href], #header a[href], #fsf-support, #languages, #languages a[href], .breadcrumb, .breadcrumb a, .trans-disclaimer, .trans-disclaimer a[href], #outdated, #outdated a[href] { font-family: "Noto Sans Display", "Noto Sans", "Liberation Sans", sans-serif; }
+
+#gnu-banner strong { font-family: "Noto Sans", "Liberation Sans", sans-serif; }
+
+#navigation a[href], #edu-navigation a[href] { font-family: Dosis, "Noto Sans Display", "Noto Sans", "Liberation Sans", sans-serif; }
+------MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-aaaf6566-8cb6-46e0-8ba8-f96478a9e7b4@mhtml.blink
+
+@charset "utf-8";
+
+
+------MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-0cf6fb66-396a-4bd0-97ef-93fdd7585404@mhtml.blink
+
+@charset "utf-8";
+
+.progress-bar { width: 55%; }
+------MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-1ffb2fff-d29b-4116-81a6-d2c88fa0f496@mhtml.blink
+
+@charset "utf-8";
+
+#content .button { margin: 2em 1.5em; }
+
+@media (max-width: 30em) {
+  #content img.imgright { display: none; }
+}
+------MultipartBoundary--z0zKGLlAsMW5juofXfVAzodVmc2GLVcJq0UlJVVEDv------
