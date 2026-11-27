@@ -47,17 +47,17 @@ This dataset is useful for:
 
 ## License
 
-This dataset is released under the **GNU General Public License v3.0 (GPLv3)**.
+## License
 
-You are free to:
-- Use
-- Study
-- Share
-- Modify
+This repository is distributed under the GNU General Public License v3.0 (GPL-3.0).
 
-…as long as any distributed derivative work is also released under GPLv3 (or a compatible license).
+You are free to use, study, modify, and redistribute this work under the terms of the license.
 
-See the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html#license-text). file for the full text.
+Redistributed or modified versions must comply with the applicable GPL-3.0 requirements.
+
+See [LICENSE](LICENSE) for the complete license text.
+
+Copyright (c) 2026 Faizal Nurul Firdaus
 
 ---
 
